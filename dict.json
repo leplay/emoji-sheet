@@ -1,0 +1,9467 @@
+{
+  "2614": {
+    "short_name": "umbrella_with_rain_drops",
+    "keywords": [
+      "umbrella_with_rain_drops"
+    ]
+  },
+  "2615": {
+    "short_name": "coffee",
+    "keywords": [
+      "coffee"
+    ]
+  },
+  "2648": {
+    "short_name": "aries",
+    "keywords": [
+      "aries"
+    ]
+  },
+  "2649": {
+    "short_name": "taurus",
+    "keywords": [
+      "taurus"
+    ]
+  },
+  "2650": {
+    "short_name": "sagittarius",
+    "keywords": [
+      "sagittarius"
+    ]
+  },
+  "2651": {
+    "short_name": "capricorn",
+    "keywords": [
+      "capricorn"
+    ]
+  },
+  "2652": {
+    "short_name": "aquarius",
+    "keywords": [
+      "aquarius"
+    ]
+  },
+  "2653": {
+    "short_name": "pisces",
+    "keywords": [
+      "pisces"
+    ]
+  },
+  "2693": {
+    "short_name": "anchor",
+    "keywords": [
+      "anchor"
+    ]
+  },
+  "2705": {
+    "short_name": "white_check_mark",
+    "keywords": [
+      "white_check_mark"
+    ]
+  },
+  "2728": {
+    "short_name": "sparkles",
+    "keywords": [
+      "sparkles"
+    ]
+  },
+  "2753": {
+    "short_name": "question",
+    "keywords": [
+      "question"
+    ]
+  },
+  "2754": {
+    "short_name": "grey_question",
+    "keywords": [
+      "grey_question"
+    ]
+  },
+  "2755": {
+    "short_name": "grey_exclamation",
+    "keywords": [
+      "grey_exclamation"
+    ]
+  },
+  "2757": {
+    "short_name": "exclamation",
+    "keywords": [
+      "exclamation",
+      "heavy_exclamation_mark"
+    ]
+  },
+  "2795": {
+    "short_name": "heavy_plus_sign",
+    "keywords": [
+      "heavy_plus_sign"
+    ]
+  },
+  "2796": {
+    "short_name": "heavy_minus_sign",
+    "keywords": [
+      "heavy_minus_sign"
+    ]
+  },
+  "2797": {
+    "short_name": "heavy_division_sign",
+    "keywords": [
+      "heavy_division_sign"
+    ]
+  },
+  "0023-FE0F-20E3": {
+    "short_name": "hash",
+    "keywords": [
+      "hash"
+    ]
+  },
+  "002A-FE0F-20E3": {
+    "short_name": "keycap_star",
+    "keywords": [
+      "keycap_star"
+    ]
+  },
+  "0030-FE0F-20E3": {
+    "short_name": "zero",
+    "keywords": [
+      "zero"
+    ]
+  },
+  "0031-FE0F-20E3": {
+    "short_name": "one",
+    "keywords": [
+      "one"
+    ]
+  },
+  "0032-FE0F-20E3": {
+    "short_name": "two",
+    "keywords": [
+      "two"
+    ]
+  },
+  "0033-FE0F-20E3": {
+    "short_name": "three",
+    "keywords": [
+      "three"
+    ]
+  },
+  "0034-FE0F-20E3": {
+    "short_name": "four",
+    "keywords": [
+      "four"
+    ]
+  },
+  "0035-FE0F-20E3": {
+    "short_name": "five",
+    "keywords": [
+      "five"
+    ]
+  },
+  "0036-FE0F-20E3": {
+    "short_name": "six",
+    "keywords": [
+      "six"
+    ]
+  },
+  "0037-FE0F-20E3": {
+    "short_name": "seven",
+    "keywords": [
+      "seven"
+    ]
+  },
+  "0038-FE0F-20E3": {
+    "short_name": "eight",
+    "keywords": [
+      "eight"
+    ]
+  },
+  "0039-FE0F-20E3": {
+    "short_name": "nine",
+    "keywords": [
+      "nine"
+    ]
+  },
+  "00A9-FE0F": {
+    "short_name": "copyright",
+    "keywords": [
+      "copyright"
+    ]
+  },
+  "00AE-FE0F": {
+    "short_name": "registered",
+    "keywords": [
+      "registered"
+    ]
+  },
+  "1F004": {
+    "short_name": "mahjong",
+    "keywords": [
+      "mahjong"
+    ]
+  },
+  "1F0CF": {
+    "short_name": "black_joker",
+    "keywords": [
+      "black_joker"
+    ]
+  },
+  "1F170-FE0F": {
+    "short_name": "a",
+    "keywords": [
+      "a"
+    ]
+  },
+  "1F171-FE0F": {
+    "short_name": "b",
+    "keywords": [
+      "b"
+    ]
+  },
+  "1F17E-FE0F": {
+    "short_name": "o2",
+    "keywords": [
+      "o2"
+    ]
+  },
+  "1F17F-FE0F": {
+    "short_name": "parking",
+    "keywords": [
+      "parking"
+    ]
+  },
+  "1F18E": {
+    "short_name": "ab",
+    "keywords": [
+      "ab"
+    ]
+  },
+  "1F191": {
+    "short_name": "cl",
+    "keywords": [
+      "cl"
+    ]
+  },
+  "1F192": {
+    "short_name": "cool",
+    "keywords": [
+      "cool"
+    ]
+  },
+  "1F193": {
+    "short_name": "free",
+    "keywords": [
+      "free"
+    ]
+  },
+  "1F194": {
+    "short_name": "id",
+    "keywords": [
+      "id"
+    ]
+  },
+  "1F195": {
+    "short_name": "new",
+    "keywords": [
+      "new"
+    ]
+  },
+  "1F196": {
+    "short_name": "ng",
+    "keywords": [
+      "ng"
+    ]
+  },
+  "1F197": {
+    "short_name": "ok",
+    "keywords": [
+      "ok"
+    ]
+  },
+  "1F198": {
+    "short_name": "sos",
+    "keywords": [
+      "sos"
+    ]
+  },
+  "1F199": {
+    "short_name": "up",
+    "keywords": [
+      "up"
+    ]
+  },
+  "1F19A": {
+    "short_name": "vs",
+    "keywords": [
+      "vs"
+    ]
+  },
+  "1F1E6-1F1E8": {
+    "short_name": "flag-ac",
+    "keywords": [
+      "flag-ac"
+    ]
+  },
+  "1F1E6-1F1E9": {
+    "short_name": "flag-ad",
+    "keywords": [
+      "flag-ad"
+    ]
+  },
+  "1F1E6-1F1EA": {
+    "short_name": "flag-ae",
+    "keywords": [
+      "flag-ae"
+    ]
+  },
+  "1F1E6-1F1EB": {
+    "short_name": "flag-af",
+    "keywords": [
+      "flag-af"
+    ]
+  },
+  "1F1E6-1F1EC": {
+    "short_name": "flag-ag",
+    "keywords": [
+      "flag-ag"
+    ]
+  },
+  "1F1E6-1F1EE": {
+    "short_name": "flag-ai",
+    "keywords": [
+      "flag-ai"
+    ]
+  },
+  "1F1E6-1F1F1": {
+    "short_name": "flag-al",
+    "keywords": [
+      "flag-al"
+    ]
+  },
+  "1F1E6-1F1F2": {
+    "short_name": "flag-am",
+    "keywords": [
+      "flag-am"
+    ]
+  },
+  "1F1E6-1F1F4": {
+    "short_name": "flag-ao",
+    "keywords": [
+      "flag-ao"
+    ]
+  },
+  "1F1E6-1F1F6": {
+    "short_name": "flag-aq",
+    "keywords": [
+      "flag-aq"
+    ]
+  },
+  "1F1E6-1F1F7": {
+    "short_name": "flag-ar",
+    "keywords": [
+      "flag-ar"
+    ]
+  },
+  "1F1E6-1F1F8": {
+    "short_name": "flag-as",
+    "keywords": [
+      "flag-as"
+    ]
+  },
+  "1F1E6-1F1F9": {
+    "short_name": "flag-at",
+    "keywords": [
+      "flag-at"
+    ]
+  },
+  "1F1E6-1F1FA": {
+    "short_name": "flag-au",
+    "keywords": [
+      "flag-au"
+    ]
+  },
+  "1F1E6-1F1FC": {
+    "short_name": "flag-aw",
+    "keywords": [
+      "flag-aw"
+    ]
+  },
+  "1F1E6-1F1FD": {
+    "short_name": "flag-ax",
+    "keywords": [
+      "flag-ax"
+    ]
+  },
+  "1F1E6-1F1FF": {
+    "short_name": "flag-az",
+    "keywords": [
+      "flag-az"
+    ]
+  },
+  "1F1E7-1F1E6": {
+    "short_name": "flag-ba",
+    "keywords": [
+      "flag-ba"
+    ]
+  },
+  "1F1E7-1F1E7": {
+    "short_name": "flag-bb",
+    "keywords": [
+      "flag-bb"
+    ]
+  },
+  "1F1E7-1F1E9": {
+    "short_name": "flag-bd",
+    "keywords": [
+      "flag-bd"
+    ]
+  },
+  "1F1E7-1F1EA": {
+    "short_name": "flag-be",
+    "keywords": [
+      "flag-be"
+    ]
+  },
+  "1F1E7-1F1EB": {
+    "short_name": "flag-bf",
+    "keywords": [
+      "flag-bf"
+    ]
+  },
+  "1F1E7-1F1EC": {
+    "short_name": "flag-bg",
+    "keywords": [
+      "flag-bg"
+    ]
+  },
+  "1F1E7-1F1ED": {
+    "short_name": "flag-bh",
+    "keywords": [
+      "flag-bh"
+    ]
+  },
+  "1F1E7-1F1EE": {
+    "short_name": "flag-bi",
+    "keywords": [
+      "flag-bi"
+    ]
+  },
+  "1F1E7-1F1EF": {
+    "short_name": "flag-bj",
+    "keywords": [
+      "flag-bj"
+    ]
+  },
+  "1F1E7-1F1F1": {
+    "short_name": "flag-bl",
+    "keywords": [
+      "flag-bl"
+    ]
+  },
+  "1F1E7-1F1F2": {
+    "short_name": "flag-bm",
+    "keywords": [
+      "flag-bm"
+    ]
+  },
+  "1F1E7-1F1F3": {
+    "short_name": "flag-bn",
+    "keywords": [
+      "flag-bn"
+    ]
+  },
+  "1F1E7-1F1F4": {
+    "short_name": "flag-bo",
+    "keywords": [
+      "flag-bo"
+    ]
+  },
+  "1F1E7-1F1F6": {
+    "short_name": "flag-bq",
+    "keywords": [
+      "flag-bq"
+    ]
+  },
+  "1F1E7-1F1F7": {
+    "short_name": "flag-br",
+    "keywords": [
+      "flag-br"
+    ]
+  },
+  "1F1E7-1F1F8": {
+    "short_name": "flag-bs",
+    "keywords": [
+      "flag-bs"
+    ]
+  },
+  "1F1E7-1F1F9": {
+    "short_name": "flag-bt",
+    "keywords": [
+      "flag-bt"
+    ]
+  },
+  "1F1E7-1F1FB": {
+    "short_name": "flag-bv",
+    "keywords": [
+      "flag-bv"
+    ]
+  },
+  "1F1E7-1F1FC": {
+    "short_name": "flag-bw",
+    "keywords": [
+      "flag-bw"
+    ]
+  },
+  "1F1E7-1F1FE": {
+    "short_name": "flag-by",
+    "keywords": [
+      "flag-by"
+    ]
+  },
+  "1F1E7-1F1FF": {
+    "short_name": "flag-bz",
+    "keywords": [
+      "flag-bz"
+    ]
+  },
+  "1F1E8-1F1E6": {
+    "short_name": "flag-ca",
+    "keywords": [
+      "flag-ca"
+    ]
+  },
+  "1F1E8-1F1E8": {
+    "short_name": "flag-cc",
+    "keywords": [
+      "flag-cc"
+    ]
+  },
+  "1F1E8-1F1E9": {
+    "short_name": "flag-cd",
+    "keywords": [
+      "flag-cd"
+    ]
+  },
+  "1F1E8-1F1EB": {
+    "short_name": "flag-cf",
+    "keywords": [
+      "flag-cf"
+    ]
+  },
+  "1F1E8-1F1EC": {
+    "short_name": "flag-cg",
+    "keywords": [
+      "flag-cg"
+    ]
+  },
+  "1F1E8-1F1ED": {
+    "short_name": "flag-ch",
+    "keywords": [
+      "flag-ch"
+    ]
+  },
+  "1F1E8-1F1EE": {
+    "short_name": "flag-ci",
+    "keywords": [
+      "flag-ci"
+    ]
+  },
+  "1F1E8-1F1F0": {
+    "short_name": "flag-ck",
+    "keywords": [
+      "flag-ck"
+    ]
+  },
+  "1F1E8-1F1F1": {
+    "short_name": "flag-cl",
+    "keywords": [
+      "flag-cl"
+    ]
+  },
+  "1F1E8-1F1F2": {
+    "short_name": "flag-cm",
+    "keywords": [
+      "flag-cm"
+    ]
+  },
+  "1F1E8-1F1F3": {
+    "short_name": "cn",
+    "keywords": [
+      "cn",
+      "flag-cn"
+    ]
+  },
+  "1F1E8-1F1F4": {
+    "short_name": "flag-co",
+    "keywords": [
+      "flag-co"
+    ]
+  },
+  "1F1E8-1F1F5": {
+    "short_name": "flag-cp",
+    "keywords": [
+      "flag-cp"
+    ]
+  },
+  "1F1E8-1F1F7": {
+    "short_name": "flag-cr",
+    "keywords": [
+      "flag-cr"
+    ]
+  },
+  "1F1E8-1F1FA": {
+    "short_name": "flag-cu",
+    "keywords": [
+      "flag-cu"
+    ]
+  },
+  "1F1E8-1F1FB": {
+    "short_name": "flag-cv",
+    "keywords": [
+      "flag-cv"
+    ]
+  },
+  "1F1E8-1F1FC": {
+    "short_name": "flag-cw",
+    "keywords": [
+      "flag-cw"
+    ]
+  },
+  "1F1E8-1F1FD": {
+    "short_name": "flag-cx",
+    "keywords": [
+      "flag-cx"
+    ]
+  },
+  "1F1E8-1F1FE": {
+    "short_name": "flag-cy",
+    "keywords": [
+      "flag-cy"
+    ]
+  },
+  "1F1E8-1F1FF": {
+    "short_name": "flag-cz",
+    "keywords": [
+      "flag-cz"
+    ]
+  },
+  "1F1E9-1F1EA": {
+    "short_name": "de",
+    "keywords": [
+      "de",
+      "flag-de"
+    ]
+  },
+  "1F1E9-1F1EC": {
+    "short_name": "flag-dg",
+    "keywords": [
+      "flag-dg"
+    ]
+  },
+  "1F1E9-1F1EF": {
+    "short_name": "flag-dj",
+    "keywords": [
+      "flag-dj"
+    ]
+  },
+  "1F1E9-1F1F0": {
+    "short_name": "flag-dk",
+    "keywords": [
+      "flag-dk"
+    ]
+  },
+  "1F1E9-1F1F2": {
+    "short_name": "flag-dm",
+    "keywords": [
+      "flag-dm"
+    ]
+  },
+  "1F1E9-1F1F4": {
+    "short_name": "flag-do",
+    "keywords": [
+      "flag-do"
+    ]
+  },
+  "1F1E9-1F1FF": {
+    "short_name": "flag-dz",
+    "keywords": [
+      "flag-dz"
+    ]
+  },
+  "1F1EA-1F1E6": {
+    "short_name": "flag-ea",
+    "keywords": [
+      "flag-ea"
+    ]
+  },
+  "1F1EA-1F1E8": {
+    "short_name": "flag-ec",
+    "keywords": [
+      "flag-ec"
+    ]
+  },
+  "1F1EA-1F1EA": {
+    "short_name": "flag-ee",
+    "keywords": [
+      "flag-ee"
+    ]
+  },
+  "1F1EA-1F1EC": {
+    "short_name": "flag-eg",
+    "keywords": [
+      "flag-eg"
+    ]
+  },
+  "1F1EA-1F1ED": {
+    "short_name": "flag-eh",
+    "keywords": [
+      "flag-eh"
+    ]
+  },
+  "1F1EA-1F1F7": {
+    "short_name": "flag-er",
+    "keywords": [
+      "flag-er"
+    ]
+  },
+  "1F1EA-1F1F8": {
+    "short_name": "es",
+    "keywords": [
+      "es",
+      "flag-es"
+    ]
+  },
+  "1F1EA-1F1F9": {
+    "short_name": "flag-et",
+    "keywords": [
+      "flag-et"
+    ]
+  },
+  "1F1EA-1F1FA": {
+    "short_name": "flag-eu",
+    "keywords": [
+      "flag-eu"
+    ]
+  },
+  "1F1EB-1F1EE": {
+    "short_name": "flag-fi",
+    "keywords": [
+      "flag-fi"
+    ]
+  },
+  "1F1EB-1F1EF": {
+    "short_name": "flag-fj",
+    "keywords": [
+      "flag-fj"
+    ]
+  },
+  "1F1EB-1F1F0": {
+    "short_name": "flag-fk",
+    "keywords": [
+      "flag-fk"
+    ]
+  },
+  "1F1EB-1F1F2": {
+    "short_name": "flag-fm",
+    "keywords": [
+      "flag-fm"
+    ]
+  },
+  "1F1EB-1F1F4": {
+    "short_name": "flag-fo",
+    "keywords": [
+      "flag-fo"
+    ]
+  },
+  "1F1EB-1F1F7": {
+    "short_name": "fr",
+    "keywords": [
+      "fr",
+      "flag-fr"
+    ]
+  },
+  "1F1EC-1F1E6": {
+    "short_name": "flag-ga",
+    "keywords": [
+      "flag-ga"
+    ]
+  },
+  "1F1EC-1F1E7": {
+    "short_name": "gb",
+    "keywords": [
+      "gb",
+      "uk",
+      "flag-gb"
+    ]
+  },
+  "1F1EC-1F1E9": {
+    "short_name": "flag-gd",
+    "keywords": [
+      "flag-gd"
+    ]
+  },
+  "1F1EC-1F1EA": {
+    "short_name": "flag-ge",
+    "keywords": [
+      "flag-ge"
+    ]
+  },
+  "1F1EC-1F1EB": {
+    "short_name": "flag-gf",
+    "keywords": [
+      "flag-gf"
+    ]
+  },
+  "1F1EC-1F1EC": {
+    "short_name": "flag-gg",
+    "keywords": [
+      "flag-gg"
+    ]
+  },
+  "1F1EC-1F1ED": {
+    "short_name": "flag-gh",
+    "keywords": [
+      "flag-gh"
+    ]
+  },
+  "1F1EC-1F1EE": {
+    "short_name": "flag-gi",
+    "keywords": [
+      "flag-gi"
+    ]
+  },
+  "1F1EC-1F1F1": {
+    "short_name": "flag-gl",
+    "keywords": [
+      "flag-gl"
+    ]
+  },
+  "1F1EC-1F1F2": {
+    "short_name": "flag-gm",
+    "keywords": [
+      "flag-gm"
+    ]
+  },
+  "1F1EC-1F1F3": {
+    "short_name": "flag-gn",
+    "keywords": [
+      "flag-gn"
+    ]
+  },
+  "1F1EC-1F1F5": {
+    "short_name": "flag-gp",
+    "keywords": [
+      "flag-gp"
+    ]
+  },
+  "1F1EC-1F1F6": {
+    "short_name": "flag-gq",
+    "keywords": [
+      "flag-gq"
+    ]
+  },
+  "1F1EC-1F1F7": {
+    "short_name": "flag-gr",
+    "keywords": [
+      "flag-gr"
+    ]
+  },
+  "1F1EC-1F1F8": {
+    "short_name": "flag-gs",
+    "keywords": [
+      "flag-gs"
+    ]
+  },
+  "1F1EC-1F1F9": {
+    "short_name": "flag-gt",
+    "keywords": [
+      "flag-gt"
+    ]
+  },
+  "1F1EC-1F1FA": {
+    "short_name": "flag-gu",
+    "keywords": [
+      "flag-gu"
+    ]
+  },
+  "1F1EC-1F1FC": {
+    "short_name": "flag-gw",
+    "keywords": [
+      "flag-gw"
+    ]
+  },
+  "1F1EC-1F1FE": {
+    "short_name": "flag-gy",
+    "keywords": [
+      "flag-gy"
+    ]
+  },
+  "1F1ED-1F1F0": {
+    "short_name": "flag-hk",
+    "keywords": [
+      "flag-hk"
+    ]
+  },
+  "1F1ED-1F1F2": {
+    "short_name": "flag-hm",
+    "keywords": [
+      "flag-hm"
+    ]
+  },
+  "1F1ED-1F1F3": {
+    "short_name": "flag-hn",
+    "keywords": [
+      "flag-hn"
+    ]
+  },
+  "1F1ED-1F1F7": {
+    "short_name": "flag-hr",
+    "keywords": [
+      "flag-hr"
+    ]
+  },
+  "1F1ED-1F1F9": {
+    "short_name": "flag-ht",
+    "keywords": [
+      "flag-ht"
+    ]
+  },
+  "1F1ED-1F1FA": {
+    "short_name": "flag-hu",
+    "keywords": [
+      "flag-hu"
+    ]
+  },
+  "1F1EE-1F1E8": {
+    "short_name": "flag-ic",
+    "keywords": [
+      "flag-ic"
+    ]
+  },
+  "1F1EE-1F1E9": {
+    "short_name": "flag-id",
+    "keywords": [
+      "flag-id"
+    ]
+  },
+  "1F1EE-1F1EA": {
+    "short_name": "flag-ie",
+    "keywords": [
+      "flag-ie"
+    ]
+  },
+  "1F1EE-1F1F1": {
+    "short_name": "flag-il",
+    "keywords": [
+      "flag-il"
+    ]
+  },
+  "1F1EE-1F1F2": {
+    "short_name": "flag-im",
+    "keywords": [
+      "flag-im"
+    ]
+  },
+  "1F1EE-1F1F3": {
+    "short_name": "flag-in",
+    "keywords": [
+      "flag-in"
+    ]
+  },
+  "1F1EE-1F1F4": {
+    "short_name": "flag-io",
+    "keywords": [
+      "flag-io"
+    ]
+  },
+  "1F1EE-1F1F6": {
+    "short_name": "flag-iq",
+    "keywords": [
+      "flag-iq"
+    ]
+  },
+  "1F1EE-1F1F7": {
+    "short_name": "flag-ir",
+    "keywords": [
+      "flag-ir"
+    ]
+  },
+  "1F1EE-1F1F8": {
+    "short_name": "flag-is",
+    "keywords": [
+      "flag-is"
+    ]
+  },
+  "1F1EE-1F1F9": {
+    "short_name": "it",
+    "keywords": [
+      "it",
+      "flag-it"
+    ]
+  },
+  "1F1EF-1F1EA": {
+    "short_name": "flag-je",
+    "keywords": [
+      "flag-je"
+    ]
+  },
+  "1F1EF-1F1F2": {
+    "short_name": "flag-jm",
+    "keywords": [
+      "flag-jm"
+    ]
+  },
+  "1F1EF-1F1F4": {
+    "short_name": "flag-jo",
+    "keywords": [
+      "flag-jo"
+    ]
+  },
+  "1F1EF-1F1F5": {
+    "short_name": "jp",
+    "keywords": [
+      "jp",
+      "flag-jp"
+    ]
+  },
+  "1F1F0-1F1EA": {
+    "short_name": "flag-ke",
+    "keywords": [
+      "flag-ke"
+    ]
+  },
+  "1F1F0-1F1EC": {
+    "short_name": "flag-kg",
+    "keywords": [
+      "flag-kg"
+    ]
+  },
+  "1F1F0-1F1ED": {
+    "short_name": "flag-kh",
+    "keywords": [
+      "flag-kh"
+    ]
+  },
+  "1F1F0-1F1EE": {
+    "short_name": "flag-ki",
+    "keywords": [
+      "flag-ki"
+    ]
+  },
+  "1F1F0-1F1F2": {
+    "short_name": "flag-km",
+    "keywords": [
+      "flag-km"
+    ]
+  },
+  "1F1F0-1F1F3": {
+    "short_name": "flag-kn",
+    "keywords": [
+      "flag-kn"
+    ]
+  },
+  "1F1F0-1F1F5": {
+    "short_name": "flag-kp",
+    "keywords": [
+      "flag-kp"
+    ]
+  },
+  "1F1F0-1F1F7": {
+    "short_name": "kr",
+    "keywords": [
+      "kr",
+      "flag-kr"
+    ]
+  },
+  "1F1F0-1F1FC": {
+    "short_name": "flag-kw",
+    "keywords": [
+      "flag-kw"
+    ]
+  },
+  "1F1F0-1F1FE": {
+    "short_name": "flag-ky",
+    "keywords": [
+      "flag-ky"
+    ]
+  },
+  "1F1F0-1F1FF": {
+    "short_name": "flag-kz",
+    "keywords": [
+      "flag-kz"
+    ]
+  },
+  "1F1F1-1F1E6": {
+    "short_name": "flag-la",
+    "keywords": [
+      "flag-la"
+    ]
+  },
+  "1F1F1-1F1E7": {
+    "short_name": "flag-lb",
+    "keywords": [
+      "flag-lb"
+    ]
+  },
+  "1F1F1-1F1E8": {
+    "short_name": "flag-lc",
+    "keywords": [
+      "flag-lc"
+    ]
+  },
+  "1F1F1-1F1EE": {
+    "short_name": "flag-li",
+    "keywords": [
+      "flag-li"
+    ]
+  },
+  "1F1F1-1F1F0": {
+    "short_name": "flag-lk",
+    "keywords": [
+      "flag-lk"
+    ]
+  },
+  "1F1F1-1F1F7": {
+    "short_name": "flag-lr",
+    "keywords": [
+      "flag-lr"
+    ]
+  },
+  "1F1F1-1F1F8": {
+    "short_name": "flag-ls",
+    "keywords": [
+      "flag-ls"
+    ]
+  },
+  "1F1F1-1F1F9": {
+    "short_name": "flag-lt",
+    "keywords": [
+      "flag-lt"
+    ]
+  },
+  "1F1F1-1F1FA": {
+    "short_name": "flag-lu",
+    "keywords": [
+      "flag-lu"
+    ]
+  },
+  "1F1F1-1F1FB": {
+    "short_name": "flag-lv",
+    "keywords": [
+      "flag-lv"
+    ]
+  },
+  "1F1F1-1F1FE": {
+    "short_name": "flag-ly",
+    "keywords": [
+      "flag-ly"
+    ]
+  },
+  "1F1F2-1F1E6": {
+    "short_name": "flag-ma",
+    "keywords": [
+      "flag-ma"
+    ]
+  },
+  "1F1F2-1F1E8": {
+    "short_name": "flag-mc",
+    "keywords": [
+      "flag-mc"
+    ]
+  },
+  "1F1F2-1F1E9": {
+    "short_name": "flag-md",
+    "keywords": [
+      "flag-md"
+    ]
+  },
+  "1F1F2-1F1EA": {
+    "short_name": "flag-me",
+    "keywords": [
+      "flag-me"
+    ]
+  },
+  "1F1F2-1F1EB": {
+    "short_name": "flag-mf",
+    "keywords": [
+      "flag-mf"
+    ]
+  },
+  "1F1F2-1F1EC": {
+    "short_name": "flag-mg",
+    "keywords": [
+      "flag-mg"
+    ]
+  },
+  "1F1F2-1F1ED": {
+    "short_name": "flag-mh",
+    "keywords": [
+      "flag-mh"
+    ]
+  },
+  "1F1F2-1F1F0": {
+    "short_name": "flag-mk",
+    "keywords": [
+      "flag-mk"
+    ]
+  },
+  "1F1F2-1F1F1": {
+    "short_name": "flag-ml",
+    "keywords": [
+      "flag-ml"
+    ]
+  },
+  "1F1F2-1F1F2": {
+    "short_name": "flag-mm",
+    "keywords": [
+      "flag-mm"
+    ]
+  },
+  "1F1F2-1F1F3": {
+    "short_name": "flag-mn",
+    "keywords": [
+      "flag-mn"
+    ]
+  },
+  "1F1F2-1F1F4": {
+    "short_name": "flag-mo",
+    "keywords": [
+      "flag-mo"
+    ]
+  },
+  "1F1F2-1F1F5": {
+    "short_name": "flag-mp",
+    "keywords": [
+      "flag-mp"
+    ]
+  },
+  "1F1F2-1F1F6": {
+    "short_name": "flag-mq",
+    "keywords": [
+      "flag-mq"
+    ]
+  },
+  "1F1F2-1F1F7": {
+    "short_name": "flag-mr",
+    "keywords": [
+      "flag-mr"
+    ]
+  },
+  "1F1F2-1F1F8": {
+    "short_name": "flag-ms",
+    "keywords": [
+      "flag-ms"
+    ]
+  },
+  "1F1F2-1F1F9": {
+    "short_name": "flag-mt",
+    "keywords": [
+      "flag-mt"
+    ]
+  },
+  "1F1F2-1F1FA": {
+    "short_name": "flag-mu",
+    "keywords": [
+      "flag-mu"
+    ]
+  },
+  "1F1F2-1F1FB": {
+    "short_name": "flag-mv",
+    "keywords": [
+      "flag-mv"
+    ]
+  },
+  "1F1F2-1F1FC": {
+    "short_name": "flag-mw",
+    "keywords": [
+      "flag-mw"
+    ]
+  },
+  "1F1F2-1F1FD": {
+    "short_name": "flag-mx",
+    "keywords": [
+      "flag-mx"
+    ]
+  },
+  "1F1F2-1F1FE": {
+    "short_name": "flag-my",
+    "keywords": [
+      "flag-my"
+    ]
+  },
+  "1F1F2-1F1FF": {
+    "short_name": "flag-mz",
+    "keywords": [
+      "flag-mz"
+    ]
+  },
+  "1F1F3-1F1E6": {
+    "short_name": "flag-na",
+    "keywords": [
+      "flag-na"
+    ]
+  },
+  "1F1F3-1F1E8": {
+    "short_name": "flag-nc",
+    "keywords": [
+      "flag-nc"
+    ]
+  },
+  "1F1F3-1F1EA": {
+    "short_name": "flag-ne",
+    "keywords": [
+      "flag-ne"
+    ]
+  },
+  "1F1F3-1F1EB": {
+    "short_name": "flag-nf",
+    "keywords": [
+      "flag-nf"
+    ]
+  },
+  "1F1F3-1F1EC": {
+    "short_name": "flag-ng",
+    "keywords": [
+      "flag-ng"
+    ]
+  },
+  "1F1F3-1F1EE": {
+    "short_name": "flag-ni",
+    "keywords": [
+      "flag-ni"
+    ]
+  },
+  "1F1F3-1F1F1": {
+    "short_name": "flag-nl",
+    "keywords": [
+      "flag-nl"
+    ]
+  },
+  "1F1F3-1F1F4": {
+    "short_name": "flag-no",
+    "keywords": [
+      "flag-no"
+    ]
+  },
+  "1F1F3-1F1F5": {
+    "short_name": "flag-np",
+    "keywords": [
+      "flag-np"
+    ]
+  },
+  "1F1F3-1F1F7": {
+    "short_name": "flag-nr",
+    "keywords": [
+      "flag-nr"
+    ]
+  },
+  "1F1F3-1F1FA": {
+    "short_name": "flag-nu",
+    "keywords": [
+      "flag-nu"
+    ]
+  },
+  "1F1F3-1F1FF": {
+    "short_name": "flag-nz",
+    "keywords": [
+      "flag-nz"
+    ]
+  },
+  "1F1F4-1F1F2": {
+    "short_name": "flag-om",
+    "keywords": [
+      "flag-om"
+    ]
+  },
+  "1F1F5-1F1E6": {
+    "short_name": "flag-pa",
+    "keywords": [
+      "flag-pa"
+    ]
+  },
+  "1F1F5-1F1EA": {
+    "short_name": "flag-pe",
+    "keywords": [
+      "flag-pe"
+    ]
+  },
+  "1F1F5-1F1EB": {
+    "short_name": "flag-pf",
+    "keywords": [
+      "flag-pf"
+    ]
+  },
+  "1F1F5-1F1EC": {
+    "short_name": "flag-pg",
+    "keywords": [
+      "flag-pg"
+    ]
+  },
+  "1F1F5-1F1ED": {
+    "short_name": "flag-ph",
+    "keywords": [
+      "flag-ph"
+    ]
+  },
+  "1F1F5-1F1F0": {
+    "short_name": "flag-pk",
+    "keywords": [
+      "flag-pk"
+    ]
+  },
+  "1F1F5-1F1F1": {
+    "short_name": "flag-pl",
+    "keywords": [
+      "flag-pl"
+    ]
+  },
+  "1F1F5-1F1F2": {
+    "short_name": "flag-pm",
+    "keywords": [
+      "flag-pm"
+    ]
+  },
+  "1F1F5-1F1F3": {
+    "short_name": "flag-pn",
+    "keywords": [
+      "flag-pn"
+    ]
+  },
+  "1F1F5-1F1F7": {
+    "short_name": "flag-pr",
+    "keywords": [
+      "flag-pr"
+    ]
+  },
+  "1F1F5-1F1F8": {
+    "short_name": "flag-ps",
+    "keywords": [
+      "flag-ps"
+    ]
+  },
+  "1F1F5-1F1F9": {
+    "short_name": "flag-pt",
+    "keywords": [
+      "flag-pt"
+    ]
+  },
+  "1F1F5-1F1FC": {
+    "short_name": "flag-pw",
+    "keywords": [
+      "flag-pw"
+    ]
+  },
+  "1F1F5-1F1FE": {
+    "short_name": "flag-py",
+    "keywords": [
+      "flag-py"
+    ]
+  },
+  "1F1F6-1F1E6": {
+    "short_name": "flag-qa",
+    "keywords": [
+      "flag-qa"
+    ]
+  },
+  "1F1F7-1F1EA": {
+    "short_name": "flag-re",
+    "keywords": [
+      "flag-re"
+    ]
+  },
+  "1F1F7-1F1F4": {
+    "short_name": "flag-ro",
+    "keywords": [
+      "flag-ro"
+    ]
+  },
+  "1F1F7-1F1F8": {
+    "short_name": "flag-rs",
+    "keywords": [
+      "flag-rs"
+    ]
+  },
+  "1F1F7-1F1FA": {
+    "short_name": "ru",
+    "keywords": [
+      "ru",
+      "flag-ru"
+    ]
+  },
+  "1F1F7-1F1FC": {
+    "short_name": "flag-rw",
+    "keywords": [
+      "flag-rw"
+    ]
+  },
+  "1F1F8-1F1E6": {
+    "short_name": "flag-sa",
+    "keywords": [
+      "flag-sa"
+    ]
+  },
+  "1F1F8-1F1E7": {
+    "short_name": "flag-sb",
+    "keywords": [
+      "flag-sb"
+    ]
+  },
+  "1F1F8-1F1E8": {
+    "short_name": "flag-sc",
+    "keywords": [
+      "flag-sc"
+    ]
+  },
+  "1F1F8-1F1E9": {
+    "short_name": "flag-sd",
+    "keywords": [
+      "flag-sd"
+    ]
+  },
+  "1F1F8-1F1EA": {
+    "short_name": "flag-se",
+    "keywords": [
+      "flag-se"
+    ]
+  },
+  "1F1F8-1F1EC": {
+    "short_name": "flag-sg",
+    "keywords": [
+      "flag-sg"
+    ]
+  },
+  "1F1F8-1F1ED": {
+    "short_name": "flag-sh",
+    "keywords": [
+      "flag-sh"
+    ]
+  },
+  "1F1F8-1F1EE": {
+    "short_name": "flag-si",
+    "keywords": [
+      "flag-si"
+    ]
+  },
+  "1F1F8-1F1EF": {
+    "short_name": "flag-sj",
+    "keywords": [
+      "flag-sj"
+    ]
+  },
+  "1F1F8-1F1F0": {
+    "short_name": "flag-sk",
+    "keywords": [
+      "flag-sk"
+    ]
+  },
+  "1F1F8-1F1F1": {
+    "short_name": "flag-sl",
+    "keywords": [
+      "flag-sl"
+    ]
+  },
+  "1F1F8-1F1F2": {
+    "short_name": "flag-sm",
+    "keywords": [
+      "flag-sm"
+    ]
+  },
+  "1F1F8-1F1F3": {
+    "short_name": "flag-sn",
+    "keywords": [
+      "flag-sn"
+    ]
+  },
+  "1F1F8-1F1F4": {
+    "short_name": "flag-so",
+    "keywords": [
+      "flag-so"
+    ]
+  },
+  "1F1F8-1F1F7": {
+    "short_name": "flag-sr",
+    "keywords": [
+      "flag-sr"
+    ]
+  },
+  "1F1F8-1F1F8": {
+    "short_name": "flag-ss",
+    "keywords": [
+      "flag-ss"
+    ]
+  },
+  "1F1F8-1F1F9": {
+    "short_name": "flag-st",
+    "keywords": [
+      "flag-st"
+    ]
+  },
+  "1F1F8-1F1FB": {
+    "short_name": "flag-sv",
+    "keywords": [
+      "flag-sv"
+    ]
+  },
+  "1F1F8-1F1FD": {
+    "short_name": "flag-sx",
+    "keywords": [
+      "flag-sx"
+    ]
+  },
+  "1F1F8-1F1FE": {
+    "short_name": "flag-sy",
+    "keywords": [
+      "flag-sy"
+    ]
+  },
+  "1F1F8-1F1FF": {
+    "short_name": "flag-sz",
+    "keywords": [
+      "flag-sz"
+    ]
+  },
+  "1F1F9-1F1E6": {
+    "short_name": "flag-ta",
+    "keywords": [
+      "flag-ta"
+    ]
+  },
+  "1F1F9-1F1E8": {
+    "short_name": "flag-tc",
+    "keywords": [
+      "flag-tc"
+    ]
+  },
+  "1F1F9-1F1E9": {
+    "short_name": "flag-td",
+    "keywords": [
+      "flag-td"
+    ]
+  },
+  "1F1F9-1F1EB": {
+    "short_name": "flag-tf",
+    "keywords": [
+      "flag-tf"
+    ]
+  },
+  "1F1F9-1F1EC": {
+    "short_name": "flag-tg",
+    "keywords": [
+      "flag-tg"
+    ]
+  },
+  "1F1F9-1F1ED": {
+    "short_name": "flag-th",
+    "keywords": [
+      "flag-th"
+    ]
+  },
+  "1F1F9-1F1EF": {
+    "short_name": "flag-tj",
+    "keywords": [
+      "flag-tj"
+    ]
+  },
+  "1F1F9-1F1F0": {
+    "short_name": "flag-tk",
+    "keywords": [
+      "flag-tk"
+    ]
+  },
+  "1F1F9-1F1F1": {
+    "short_name": "flag-tl",
+    "keywords": [
+      "flag-tl"
+    ]
+  },
+  "1F1F9-1F1F2": {
+    "short_name": "flag-tm",
+    "keywords": [
+      "flag-tm"
+    ]
+  },
+  "1F1F9-1F1F3": {
+    "short_name": "flag-tn",
+    "keywords": [
+      "flag-tn"
+    ]
+  },
+  "1F1F9-1F1F4": {
+    "short_name": "flag-to",
+    "keywords": [
+      "flag-to"
+    ]
+  },
+  "1F1F9-1F1F7": {
+    "short_name": "flag-tr",
+    "keywords": [
+      "flag-tr"
+    ]
+  },
+  "1F1F9-1F1F9": {
+    "short_name": "flag-tt",
+    "keywords": [
+      "flag-tt"
+    ]
+  },
+  "1F1F9-1F1FB": {
+    "short_name": "flag-tv",
+    "keywords": [
+      "flag-tv"
+    ]
+  },
+  "1F1F9-1F1FC": {
+    "short_name": "flag-tw",
+    "keywords": [
+      "flag-tw"
+    ]
+  },
+  "1F1F9-1F1FF": {
+    "short_name": "flag-tz",
+    "keywords": [
+      "flag-tz"
+    ]
+  },
+  "1F1FA-1F1E6": {
+    "short_name": "flag-ua",
+    "keywords": [
+      "flag-ua"
+    ]
+  },
+  "1F1FA-1F1EC": {
+    "short_name": "flag-ug",
+    "keywords": [
+      "flag-ug"
+    ]
+  },
+  "1F1FA-1F1F2": {
+    "short_name": "flag-um",
+    "keywords": [
+      "flag-um"
+    ]
+  },
+  "1F1FA-1F1F3": {
+    "short_name": "flag-un",
+    "keywords": [
+      "flag-un"
+    ]
+  },
+  "1F1FA-1F1F8": {
+    "short_name": "us",
+    "keywords": [
+      "us",
+      "flag-us"
+    ]
+  },
+  "1F1FA-1F1FE": {
+    "short_name": "flag-uy",
+    "keywords": [
+      "flag-uy"
+    ]
+  },
+  "1F1FA-1F1FF": {
+    "short_name": "flag-uz",
+    "keywords": [
+      "flag-uz"
+    ]
+  },
+  "1F1FB-1F1E6": {
+    "short_name": "flag-va",
+    "keywords": [
+      "flag-va"
+    ]
+  },
+  "1F1FB-1F1E8": {
+    "short_name": "flag-vc",
+    "keywords": [
+      "flag-vc"
+    ]
+  },
+  "1F1FB-1F1EA": {
+    "short_name": "flag-ve",
+    "keywords": [
+      "flag-ve"
+    ]
+  },
+  "1F1FB-1F1EC": {
+    "short_name": "flag-vg",
+    "keywords": [
+      "flag-vg"
+    ]
+  },
+  "1F1FB-1F1EE": {
+    "short_name": "flag-vi",
+    "keywords": [
+      "flag-vi"
+    ]
+  },
+  "1F1FB-1F1F3": {
+    "short_name": "flag-vn",
+    "keywords": [
+      "flag-vn"
+    ]
+  },
+  "1F1FB-1F1FA": {
+    "short_name": "flag-vu",
+    "keywords": [
+      "flag-vu"
+    ]
+  },
+  "1F1FC-1F1EB": {
+    "short_name": "flag-wf",
+    "keywords": [
+      "flag-wf"
+    ]
+  },
+  "1F1FC-1F1F8": {
+    "short_name": "flag-ws",
+    "keywords": [
+      "flag-ws"
+    ]
+  },
+  "1F1FD-1F1F0": {
+    "short_name": "flag-xk",
+    "keywords": [
+      "flag-xk"
+    ]
+  },
+  "1F1FE-1F1EA": {
+    "short_name": "flag-ye",
+    "keywords": [
+      "flag-ye"
+    ]
+  },
+  "1F1FE-1F1F9": {
+    "short_name": "flag-yt",
+    "keywords": [
+      "flag-yt"
+    ]
+  },
+  "1F1FF-1F1E6": {
+    "short_name": "flag-za",
+    "keywords": [
+      "flag-za"
+    ]
+  },
+  "1F1FF-1F1F2": {
+    "short_name": "flag-zm",
+    "keywords": [
+      "flag-zm"
+    ]
+  },
+  "1F1FF-1F1FC": {
+    "short_name": "flag-zw",
+    "keywords": [
+      "flag-zw"
+    ]
+  },
+  "1F201": {
+    "short_name": "koko",
+    "keywords": [
+      "koko"
+    ]
+  },
+  "1F202-FE0F": {
+    "short_name": "sa",
+    "keywords": [
+      "sa"
+    ]
+  },
+  "1F21A": {
+    "short_name": "u7121",
+    "keywords": [
+      "u7121"
+    ]
+  },
+  "1F22F": {
+    "short_name": "u6307",
+    "keywords": [
+      "u6307"
+    ]
+  },
+  "1F232": {
+    "short_name": "u7981",
+    "keywords": [
+      "u7981"
+    ]
+  },
+  "1F233": {
+    "short_name": "u7a7a",
+    "keywords": [
+      "u7a7a"
+    ]
+  },
+  "1F234": {
+    "short_name": "u5408",
+    "keywords": [
+      "u5408"
+    ]
+  },
+  "1F235": {
+    "short_name": "u6e80",
+    "keywords": [
+      "u6e80"
+    ]
+  },
+  "1F236": {
+    "short_name": "u6709",
+    "keywords": [
+      "u6709"
+    ]
+  },
+  "1F237-FE0F": {
+    "short_name": "u6708",
+    "keywords": [
+      "u6708"
+    ]
+  },
+  "1F238": {
+    "short_name": "u7533",
+    "keywords": [
+      "u7533"
+    ]
+  },
+  "1F239": {
+    "short_name": "u5272",
+    "keywords": [
+      "u5272"
+    ]
+  },
+  "1F23A": {
+    "short_name": "u55b6",
+    "keywords": [
+      "u55b6"
+    ]
+  },
+  "1F250": {
+    "short_name": "ideograph_advantage",
+    "keywords": [
+      "ideograph_advantage"
+    ]
+  },
+  "1F251": {
+    "short_name": "accept",
+    "keywords": [
+      "accept"
+    ]
+  },
+  "1F300": {
+    "short_name": "cyclone",
+    "keywords": [
+      "cyclone"
+    ]
+  },
+  "1F301": {
+    "short_name": "foggy",
+    "keywords": [
+      "foggy"
+    ]
+  },
+  "1F302": {
+    "short_name": "closed_umbrella",
+    "keywords": [
+      "closed_umbrella"
+    ]
+  },
+  "1F303": {
+    "short_name": "night_with_stars",
+    "keywords": [
+      "night_with_stars"
+    ]
+  },
+  "1F304": {
+    "short_name": "sunrise_over_mountains",
+    "keywords": [
+      "sunrise_over_mountains"
+    ]
+  },
+  "1F305": {
+    "short_name": "sunrise",
+    "keywords": [
+      "sunrise"
+    ]
+  },
+  "1F306": {
+    "short_name": "city_sunset",
+    "keywords": [
+      "city_sunset"
+    ]
+  },
+  "1F307": {
+    "short_name": "city_sunrise",
+    "keywords": [
+      "city_sunrise"
+    ]
+  },
+  "1F308": {
+    "short_name": "rainbow",
+    "keywords": [
+      "rainbow"
+    ]
+  },
+  "1F309": {
+    "short_name": "bridge_at_night",
+    "keywords": [
+      "bridge_at_night"
+    ]
+  },
+  "1F30A": {
+    "short_name": "ocean",
+    "keywords": [
+      "ocean"
+    ]
+  },
+  "1F30B": {
+    "short_name": "volcano",
+    "keywords": [
+      "volcano"
+    ]
+  },
+  "1F30C": {
+    "short_name": "milky_way",
+    "keywords": [
+      "milky_way"
+    ]
+  },
+  "1F30D": {
+    "short_name": "earth_africa",
+    "keywords": [
+      "earth_africa"
+    ]
+  },
+  "1F30E": {
+    "short_name": "earth_americas",
+    "keywords": [
+      "earth_americas"
+    ]
+  },
+  "1F30F": {
+    "short_name": "earth_asia",
+    "keywords": [
+      "earth_asia"
+    ]
+  },
+  "1F310": {
+    "short_name": "globe_with_meridians",
+    "keywords": [
+      "globe_with_meridians"
+    ]
+  },
+  "1F311": {
+    "short_name": "new_moon",
+    "keywords": [
+      "new_moon"
+    ]
+  },
+  "1F312": {
+    "short_name": "waxing_crescent_moon",
+    "keywords": [
+      "waxing_crescent_moon"
+    ]
+  },
+  "1F313": {
+    "short_name": "first_quarter_moon",
+    "keywords": [
+      "first_quarter_moon"
+    ]
+  },
+  "1F314": {
+    "short_name": "moon",
+    "keywords": [
+      "moon",
+      "waxing_gibbous_moon"
+    ]
+  },
+  "1F315": {
+    "short_name": "full_moon",
+    "keywords": [
+      "full_moon"
+    ]
+  },
+  "1F316": {
+    "short_name": "waning_gibbous_moon",
+    "keywords": [
+      "waning_gibbous_moon"
+    ]
+  },
+  "1F317": {
+    "short_name": "last_quarter_moon",
+    "keywords": [
+      "last_quarter_moon"
+    ]
+  },
+  "1F318": {
+    "short_name": "waning_crescent_moon",
+    "keywords": [
+      "waning_crescent_moon"
+    ]
+  },
+  "1F319": {
+    "short_name": "crescent_moon",
+    "keywords": [
+      "crescent_moon"
+    ]
+  },
+  "1F31A": {
+    "short_name": "new_moon_with_face",
+    "keywords": [
+      "new_moon_with_face"
+    ]
+  },
+  "1F31B": {
+    "short_name": "first_quarter_moon_with_face",
+    "keywords": [
+      "first_quarter_moon_with_face"
+    ]
+  },
+  "1F31C": {
+    "short_name": "last_quarter_moon_with_face",
+    "keywords": [
+      "last_quarter_moon_with_face"
+    ]
+  },
+  "1F31D": {
+    "short_name": "full_moon_with_face",
+    "keywords": [
+      "full_moon_with_face"
+    ]
+  },
+  "1F31E": {
+    "short_name": "sun_with_face",
+    "keywords": [
+      "sun_with_face"
+    ]
+  },
+  "1F31F": {
+    "short_name": "star2",
+    "keywords": [
+      "star2"
+    ]
+  },
+  "1F320": {
+    "short_name": "stars",
+    "keywords": [
+      "stars"
+    ]
+  },
+  "1F321-FE0F": {
+    "short_name": "thermometer",
+    "keywords": [
+      "thermometer"
+    ]
+  },
+  "1F324-FE0F": {
+    "short_name": "mostly_sunny",
+    "keywords": [
+      "mostly_sunny",
+      "sun_small_cloud"
+    ]
+  },
+  "1F325-FE0F": {
+    "short_name": "barely_sunny",
+    "keywords": [
+      "barely_sunny",
+      "sun_behind_cloud"
+    ]
+  },
+  "1F326-FE0F": {
+    "short_name": "partly_sunny_rain",
+    "keywords": [
+      "partly_sunny_rain",
+      "sun_behind_rain_cloud"
+    ]
+  },
+  "1F327-FE0F": {
+    "short_name": "rain_cloud",
+    "keywords": [
+      "rain_cloud"
+    ]
+  },
+  "1F328-FE0F": {
+    "short_name": "snow_cloud",
+    "keywords": [
+      "snow_cloud"
+    ]
+  },
+  "1F329-FE0F": {
+    "short_name": "lightning",
+    "keywords": [
+      "lightning",
+      "lightning_cloud"
+    ]
+  },
+  "1F32A-FE0F": {
+    "short_name": "tornado",
+    "keywords": [
+      "tornado",
+      "tornado_cloud"
+    ]
+  },
+  "1F32B-FE0F": {
+    "short_name": "fog",
+    "keywords": [
+      "fog"
+    ]
+  },
+  "1F32C-FE0F": {
+    "short_name": "wind_blowing_face",
+    "keywords": [
+      "wind_blowing_face"
+    ]
+  },
+  "1F32D": {
+    "short_name": "hotdog",
+    "keywords": [
+      "hotdog"
+    ]
+  },
+  "1F32E": {
+    "short_name": "taco",
+    "keywords": [
+      "taco"
+    ]
+  },
+  "1F32F": {
+    "short_name": "burrito",
+    "keywords": [
+      "burrito"
+    ]
+  },
+  "1F330": {
+    "short_name": "chestnut",
+    "keywords": [
+      "chestnut"
+    ]
+  },
+  "1F331": {
+    "short_name": "seedling",
+    "keywords": [
+      "seedling"
+    ]
+  },
+  "1F332": {
+    "short_name": "evergreen_tree",
+    "keywords": [
+      "evergreen_tree"
+    ]
+  },
+  "1F333": {
+    "short_name": "deciduous_tree",
+    "keywords": [
+      "deciduous_tree"
+    ]
+  },
+  "1F334": {
+    "short_name": "palm_tree",
+    "keywords": [
+      "palm_tree"
+    ]
+  },
+  "1F335": {
+    "short_name": "cactus",
+    "keywords": [
+      "cactus"
+    ]
+  },
+  "1F336-FE0F": {
+    "short_name": "hot_pepper",
+    "keywords": [
+      "hot_pepper"
+    ]
+  },
+  "1F337": {
+    "short_name": "tulip",
+    "keywords": [
+      "tulip"
+    ]
+  },
+  "1F338": {
+    "short_name": "cherry_blossom",
+    "keywords": [
+      "cherry_blossom"
+    ]
+  },
+  "1F339": {
+    "short_name": "rose",
+    "keywords": [
+      "rose"
+    ]
+  },
+  "1F33A": {
+    "short_name": "hibiscus",
+    "keywords": [
+      "hibiscus"
+    ]
+  },
+  "1F33B": {
+    "short_name": "sunflower",
+    "keywords": [
+      "sunflower"
+    ]
+  },
+  "1F33C": {
+    "short_name": "blossom",
+    "keywords": [
+      "blossom"
+    ]
+  },
+  "1F33D": {
+    "short_name": "corn",
+    "keywords": [
+      "corn"
+    ]
+  },
+  "1F33E": {
+    "short_name": "ear_of_rice",
+    "keywords": [
+      "ear_of_rice"
+    ]
+  },
+  "1F33F": {
+    "short_name": "herb",
+    "keywords": [
+      "herb"
+    ]
+  },
+  "1F340": {
+    "short_name": "four_leaf_clover",
+    "keywords": [
+      "four_leaf_clover"
+    ]
+  },
+  "1F341": {
+    "short_name": "maple_leaf",
+    "keywords": [
+      "maple_leaf"
+    ]
+  },
+  "1F342": {
+    "short_name": "fallen_leaf",
+    "keywords": [
+      "fallen_leaf"
+    ]
+  },
+  "1F343": {
+    "short_name": "leaves",
+    "keywords": [
+      "leaves"
+    ]
+  },
+  "1F344": {
+    "short_name": "mushroom",
+    "keywords": [
+      "mushroom"
+    ]
+  },
+  "1F345": {
+    "short_name": "tomato",
+    "keywords": [
+      "tomato"
+    ]
+  },
+  "1F346": {
+    "short_name": "eggplant",
+    "keywords": [
+      "eggplant"
+    ]
+  },
+  "1F347": {
+    "short_name": "grapes",
+    "keywords": [
+      "grapes"
+    ]
+  },
+  "1F348": {
+    "short_name": "melon",
+    "keywords": [
+      "melon"
+    ]
+  },
+  "1F349": {
+    "short_name": "watermelon",
+    "keywords": [
+      "watermelon"
+    ]
+  },
+  "1F34A": {
+    "short_name": "tangerine",
+    "keywords": [
+      "tangerine"
+    ]
+  },
+  "1F34B": {
+    "short_name": "lemon",
+    "keywords": [
+      "lemon"
+    ]
+  },
+  "1F34C": {
+    "short_name": "banana",
+    "keywords": [
+      "banana"
+    ]
+  },
+  "1F34D": {
+    "short_name": "pineapple",
+    "keywords": [
+      "pineapple"
+    ]
+  },
+  "1F34E": {
+    "short_name": "apple",
+    "keywords": [
+      "apple"
+    ]
+  },
+  "1F34F": {
+    "short_name": "green_apple",
+    "keywords": [
+      "green_apple"
+    ]
+  },
+  "1F350": {
+    "short_name": "pear",
+    "keywords": [
+      "pear"
+    ]
+  },
+  "1F351": {
+    "short_name": "peach",
+    "keywords": [
+      "peach"
+    ]
+  },
+  "1F352": {
+    "short_name": "cherries",
+    "keywords": [
+      "cherries"
+    ]
+  },
+  "1F353": {
+    "short_name": "strawberry",
+    "keywords": [
+      "strawberry"
+    ]
+  },
+  "1F354": {
+    "short_name": "hamburger",
+    "keywords": [
+      "hamburger"
+    ]
+  },
+  "1F355": {
+    "short_name": "pizza",
+    "keywords": [
+      "pizza"
+    ]
+  },
+  "1F356": {
+    "short_name": "meat_on_bone",
+    "keywords": [
+      "meat_on_bone"
+    ]
+  },
+  "1F357": {
+    "short_name": "poultry_leg",
+    "keywords": [
+      "poultry_leg"
+    ]
+  },
+  "1F358": {
+    "short_name": "rice_cracker",
+    "keywords": [
+      "rice_cracker"
+    ]
+  },
+  "1F359": {
+    "short_name": "rice_ball",
+    "keywords": [
+      "rice_ball"
+    ]
+  },
+  "1F35A": {
+    "short_name": "rice",
+    "keywords": [
+      "rice"
+    ]
+  },
+  "1F35B": {
+    "short_name": "curry",
+    "keywords": [
+      "curry"
+    ]
+  },
+  "1F35C": {
+    "short_name": "ramen",
+    "keywords": [
+      "ramen"
+    ]
+  },
+  "1F35D": {
+    "short_name": "spaghetti",
+    "keywords": [
+      "spaghetti"
+    ]
+  },
+  "1F35E": {
+    "short_name": "bread",
+    "keywords": [
+      "bread"
+    ]
+  },
+  "1F35F": {
+    "short_name": "fries",
+    "keywords": [
+      "fries"
+    ]
+  },
+  "1F360": {
+    "short_name": "sweet_potato",
+    "keywords": [
+      "sweet_potato"
+    ]
+  },
+  "1F361": {
+    "short_name": "dango",
+    "keywords": [
+      "dango"
+    ]
+  },
+  "1F362": {
+    "short_name": "oden",
+    "keywords": [
+      "oden"
+    ]
+  },
+  "1F363": {
+    "short_name": "sushi",
+    "keywords": [
+      "sushi"
+    ]
+  },
+  "1F364": {
+    "short_name": "fried_shrimp",
+    "keywords": [
+      "fried_shrimp"
+    ]
+  },
+  "1F365": {
+    "short_name": "fish_cake",
+    "keywords": [
+      "fish_cake"
+    ]
+  },
+  "1F366": {
+    "short_name": "icecream",
+    "keywords": [
+      "icecream"
+    ]
+  },
+  "1F367": {
+    "short_name": "shaved_ice",
+    "keywords": [
+      "shaved_ice"
+    ]
+  },
+  "1F368": {
+    "short_name": "ice_cream",
+    "keywords": [
+      "ice_cream"
+    ]
+  },
+  "1F369": {
+    "short_name": "doughnut",
+    "keywords": [
+      "doughnut"
+    ]
+  },
+  "1F36A": {
+    "short_name": "cookie",
+    "keywords": [
+      "cookie"
+    ]
+  },
+  "1F36B": {
+    "short_name": "chocolate_bar",
+    "keywords": [
+      "chocolate_bar"
+    ]
+  },
+  "1F36C": {
+    "short_name": "candy",
+    "keywords": [
+      "candy"
+    ]
+  },
+  "1F36D": {
+    "short_name": "lollipop",
+    "keywords": [
+      "lollipop"
+    ]
+  },
+  "1F36E": {
+    "short_name": "custard",
+    "keywords": [
+      "custard"
+    ]
+  },
+  "1F36F": {
+    "short_name": "honey_pot",
+    "keywords": [
+      "honey_pot"
+    ]
+  },
+  "1F370": {
+    "short_name": "cake",
+    "keywords": [
+      "cake"
+    ]
+  },
+  "1F371": {
+    "short_name": "bento",
+    "keywords": [
+      "bento"
+    ]
+  },
+  "1F372": {
+    "short_name": "stew",
+    "keywords": [
+      "stew"
+    ]
+  },
+  "1F373": {
+    "short_name": "fried_egg",
+    "keywords": [
+      "fried_egg",
+      "cooking"
+    ]
+  },
+  "1F374": {
+    "short_name": "fork_and_knife",
+    "keywords": [
+      "fork_and_knife"
+    ]
+  },
+  "1F375": {
+    "short_name": "tea",
+    "keywords": [
+      "tea"
+    ]
+  },
+  "1F376": {
+    "short_name": "sake",
+    "keywords": [
+      "sake"
+    ]
+  },
+  "1F377": {
+    "short_name": "wine_glass",
+    "keywords": [
+      "wine_glass"
+    ]
+  },
+  "1F378": {
+    "short_name": "cocktail",
+    "keywords": [
+      "cocktail"
+    ]
+  },
+  "1F379": {
+    "short_name": "tropical_drink",
+    "keywords": [
+      "tropical_drink"
+    ]
+  },
+  "1F37A": {
+    "short_name": "beer",
+    "keywords": [
+      "beer"
+    ]
+  },
+  "1F37B": {
+    "short_name": "beers",
+    "keywords": [
+      "beers"
+    ]
+  },
+  "1F37C": {
+    "short_name": "baby_bottle",
+    "keywords": [
+      "baby_bottle"
+    ]
+  },
+  "1F37D-FE0F": {
+    "short_name": "knife_fork_plate",
+    "keywords": [
+      "knife_fork_plate"
+    ]
+  },
+  "1F37E": {
+    "short_name": "champagne",
+    "keywords": [
+      "champagne"
+    ]
+  },
+  "1F37F": {
+    "short_name": "popcorn",
+    "keywords": [
+      "popcorn"
+    ]
+  },
+  "1F380": {
+    "short_name": "ribbon",
+    "keywords": [
+      "ribbon"
+    ]
+  },
+  "1F381": {
+    "short_name": "gift",
+    "keywords": [
+      "gift"
+    ]
+  },
+  "1F382": {
+    "short_name": "birthday",
+    "keywords": [
+      "birthday"
+    ]
+  },
+  "1F383": {
+    "short_name": "jack_o_lantern",
+    "keywords": [
+      "jack_o_lantern"
+    ]
+  },
+  "1F384": {
+    "short_name": "christmas_tree",
+    "keywords": [
+      "christmas_tree"
+    ]
+  },
+  "1F385": {
+    "short_name": "santa",
+    "keywords": [
+      "santa"
+    ]
+  },
+  "1F386": {
+    "short_name": "fireworks",
+    "keywords": [
+      "fireworks"
+    ]
+  },
+  "1F387": {
+    "short_name": "sparkler",
+    "keywords": [
+      "sparkler"
+    ]
+  },
+  "1F388": {
+    "short_name": "balloon",
+    "keywords": [
+      "balloon"
+    ]
+  },
+  "1F389": {
+    "short_name": "tada",
+    "keywords": [
+      "tada"
+    ]
+  },
+  "1F38A": {
+    "short_name": "confetti_ball",
+    "keywords": [
+      "confetti_ball"
+    ]
+  },
+  "1F38B": {
+    "short_name": "tanabata_tree",
+    "keywords": [
+      "tanabata_tree"
+    ]
+  },
+  "1F38C": {
+    "short_name": "crossed_flags",
+    "keywords": [
+      "crossed_flags"
+    ]
+  },
+  "1F38D": {
+    "short_name": "bamboo",
+    "keywords": [
+      "bamboo"
+    ]
+  },
+  "1F38E": {
+    "short_name": "dolls",
+    "keywords": [
+      "dolls"
+    ]
+  },
+  "1F38F": {
+    "short_name": "flags",
+    "keywords": [
+      "flags"
+    ]
+  },
+  "1F390": {
+    "short_name": "wind_chime",
+    "keywords": [
+      "wind_chime"
+    ]
+  },
+  "1F391": {
+    "short_name": "rice_scene",
+    "keywords": [
+      "rice_scene"
+    ]
+  },
+  "1F392": {
+    "short_name": "school_satchel",
+    "keywords": [
+      "school_satchel"
+    ]
+  },
+  "1F393": {
+    "short_name": "mortar_board",
+    "keywords": [
+      "mortar_board"
+    ]
+  },
+  "1F396-FE0F": {
+    "short_name": "medal",
+    "keywords": [
+      "medal"
+    ]
+  },
+  "1F397-FE0F": {
+    "short_name": "reminder_ribbon",
+    "keywords": [
+      "reminder_ribbon"
+    ]
+  },
+  "1F399-FE0F": {
+    "short_name": "studio_microphone",
+    "keywords": [
+      "studio_microphone"
+    ]
+  },
+  "1F39A-FE0F": {
+    "short_name": "level_slider",
+    "keywords": [
+      "level_slider"
+    ]
+  },
+  "1F39B-FE0F": {
+    "short_name": "control_knobs",
+    "keywords": [
+      "control_knobs"
+    ]
+  },
+  "1F39E-FE0F": {
+    "short_name": "film_frames",
+    "keywords": [
+      "film_frames"
+    ]
+  },
+  "1F39F-FE0F": {
+    "short_name": "admission_tickets",
+    "keywords": [
+      "admission_tickets"
+    ]
+  },
+  "1F3A0": {
+    "short_name": "carousel_horse",
+    "keywords": [
+      "carousel_horse"
+    ]
+  },
+  "1F3A1": {
+    "short_name": "ferris_wheel",
+    "keywords": [
+      "ferris_wheel"
+    ]
+  },
+  "1F3A2": {
+    "short_name": "roller_coaster",
+    "keywords": [
+      "roller_coaster"
+    ]
+  },
+  "1F3A3": {
+    "short_name": "fishing_pole_and_fish",
+    "keywords": [
+      "fishing_pole_and_fish"
+    ]
+  },
+  "1F3A4": {
+    "short_name": "microphone",
+    "keywords": [
+      "microphone"
+    ]
+  },
+  "1F3A5": {
+    "short_name": "movie_camera",
+    "keywords": [
+      "movie_camera"
+    ]
+  },
+  "1F3A6": {
+    "short_name": "cinema",
+    "keywords": [
+      "cinema"
+    ]
+  },
+  "1F3A7": {
+    "short_name": "headphones",
+    "keywords": [
+      "headphones"
+    ]
+  },
+  "1F3A8": {
+    "short_name": "art",
+    "keywords": [
+      "art"
+    ]
+  },
+  "1F3A9": {
+    "short_name": "tophat",
+    "keywords": [
+      "tophat"
+    ]
+  },
+  "1F3AA": {
+    "short_name": "circus_tent",
+    "keywords": [
+      "circus_tent"
+    ]
+  },
+  "1F3AB": {
+    "short_name": "ticket",
+    "keywords": [
+      "ticket"
+    ]
+  },
+  "1F3AC": {
+    "short_name": "clapper",
+    "keywords": [
+      "clapper"
+    ]
+  },
+  "1F3AD": {
+    "short_name": "performing_arts",
+    "keywords": [
+      "performing_arts"
+    ]
+  },
+  "1F3AE": {
+    "short_name": "video_game",
+    "keywords": [
+      "video_game"
+    ]
+  },
+  "1F3AF": {
+    "short_name": "dart",
+    "keywords": [
+      "dart"
+    ]
+  },
+  "1F3B0": {
+    "short_name": "slot_machine",
+    "keywords": [
+      "slot_machine"
+    ]
+  },
+  "1F3B1": {
+    "short_name": "8ball",
+    "keywords": [
+      "8ball"
+    ]
+  },
+  "1F3B2": {
+    "short_name": "game_die",
+    "keywords": [
+      "game_die"
+    ]
+  },
+  "1F3B3": {
+    "short_name": "bowling",
+    "keywords": [
+      "bowling"
+    ]
+  },
+  "1F3B4": {
+    "short_name": "flower_playing_cards",
+    "keywords": [
+      "flower_playing_cards"
+    ]
+  },
+  "1F3B5": {
+    "short_name": "musical_note",
+    "keywords": [
+      "musical_note"
+    ]
+  },
+  "1F3B6": {
+    "short_name": "notes",
+    "keywords": [
+      "notes"
+    ]
+  },
+  "1F3B7": {
+    "short_name": "saxophone",
+    "keywords": [
+      "saxophone"
+    ]
+  },
+  "1F3B8": {
+    "short_name": "guitar",
+    "keywords": [
+      "guitar"
+    ]
+  },
+  "1F3B9": {
+    "short_name": "musical_keyboard",
+    "keywords": [
+      "musical_keyboard"
+    ]
+  },
+  "1F3BA": {
+    "short_name": "trumpet",
+    "keywords": [
+      "trumpet"
+    ]
+  },
+  "1F3BB": {
+    "short_name": "violin",
+    "keywords": [
+      "violin"
+    ]
+  },
+  "1F3BC": {
+    "short_name": "musical_score",
+    "keywords": [
+      "musical_score"
+    ]
+  },
+  "1F3BD": {
+    "short_name": "running_shirt_with_sash",
+    "keywords": [
+      "running_shirt_with_sash"
+    ]
+  },
+  "1F3BE": {
+    "short_name": "tennis",
+    "keywords": [
+      "tennis"
+    ]
+  },
+  "1F3BF": {
+    "short_name": "ski",
+    "keywords": [
+      "ski"
+    ]
+  },
+  "1F3C0": {
+    "short_name": "basketball",
+    "keywords": [
+      "basketball"
+    ]
+  },
+  "1F3C1": {
+    "short_name": "checkered_flag",
+    "keywords": [
+      "checkered_flag"
+    ]
+  },
+  "1F3C2": {
+    "short_name": "snowboarder",
+    "keywords": [
+      "snowboarder"
+    ]
+  },
+  "1F3C3-200D-2640-FE0F": {
+    "short_name": "woman-running",
+    "keywords": [
+      "woman-running"
+    ]
+  },
+  "1F3C3-200D-2642-FE0F": {
+    "short_name": "man-running",
+    "keywords": [
+      "man-running"
+    ]
+  },
+  "1F3C3": {
+    "short_name": "runner",
+    "keywords": [
+      "runner",
+      "running"
+    ]
+  },
+  "1F3C4-200D-2640-FE0F": {
+    "short_name": "woman-surfing",
+    "keywords": [
+      "woman-surfing"
+    ]
+  },
+  "1F3C4-200D-2642-FE0F": {
+    "short_name": "man-surfing",
+    "keywords": [
+      "man-surfing"
+    ]
+  },
+  "1F3C4": {
+    "short_name": "surfer",
+    "keywords": [
+      "surfer"
+    ]
+  },
+  "1F3C5": {
+    "short_name": "sports_medal",
+    "keywords": [
+      "sports_medal"
+    ]
+  },
+  "1F3C6": {
+    "short_name": "trophy",
+    "keywords": [
+      "trophy"
+    ]
+  },
+  "1F3C7": {
+    "short_name": "horse_racing",
+    "keywords": [
+      "horse_racing"
+    ]
+  },
+  "1F3C8": {
+    "short_name": "football",
+    "keywords": [
+      "football"
+    ]
+  },
+  "1F3C9": {
+    "short_name": "rugby_football",
+    "keywords": [
+      "rugby_football"
+    ]
+  },
+  "1F3CA-200D-2640-FE0F": {
+    "short_name": "woman-swimming",
+    "keywords": [
+      "woman-swimming"
+    ]
+  },
+  "1F3CA-200D-2642-FE0F": {
+    "short_name": "man-swimming",
+    "keywords": [
+      "man-swimming"
+    ]
+  },
+  "1F3CA": {
+    "short_name": "swimmer",
+    "keywords": [
+      "swimmer"
+    ]
+  },
+  "1F3CB-FE0F-200D-2640-FE0F": {
+    "short_name": "woman-lifting-weights",
+    "keywords": [
+      "woman-lifting-weights"
+    ]
+  },
+  "1F3CB-FE0F-200D-2642-FE0F": {
+    "short_name": "man-lifting-weights",
+    "keywords": [
+      "man-lifting-weights"
+    ]
+  },
+  "1F3CB-FE0F": {
+    "short_name": "weight_lifter",
+    "keywords": [
+      "weight_lifter"
+    ]
+  },
+  "1F3CC-FE0F-200D-2640-FE0F": {
+    "short_name": "woman-golfing",
+    "keywords": [
+      "woman-golfing"
+    ]
+  },
+  "1F3CC-FE0F-200D-2642-FE0F": {
+    "short_name": "man-golfing",
+    "keywords": [
+      "man-golfing"
+    ]
+  },
+  "1F3CC-FE0F": {
+    "short_name": "golfer",
+    "keywords": [
+      "golfer"
+    ]
+  },
+  "1F3CD-FE0F": {
+    "short_name": "racing_motorcycle",
+    "keywords": [
+      "racing_motorcycle"
+    ]
+  },
+  "1F3CE-FE0F": {
+    "short_name": "racing_car",
+    "keywords": [
+      "racing_car"
+    ]
+  },
+  "1F3CF": {
+    "short_name": "cricket_bat_and_ball",
+    "keywords": [
+      "cricket_bat_and_ball"
+    ]
+  },
+  "1F3D0": {
+    "short_name": "volleyball",
+    "keywords": [
+      "volleyball"
+    ]
+  },
+  "1F3D1": {
+    "short_name": "field_hockey_stick_and_ball",
+    "keywords": [
+      "field_hockey_stick_and_ball"
+    ]
+  },
+  "1F3D2": {
+    "short_name": "ice_hockey_stick_and_puck",
+    "keywords": [
+      "ice_hockey_stick_and_puck"
+    ]
+  },
+  "1F3D3": {
+    "short_name": "table_tennis_paddle_and_ball",
+    "keywords": [
+      "table_tennis_paddle_and_ball"
+    ]
+  },
+  "1F3D4-FE0F": {
+    "short_name": "snow_capped_mountain",
+    "keywords": [
+      "snow_capped_mountain"
+    ]
+  },
+  "1F3D5-FE0F": {
+    "short_name": "camping",
+    "keywords": [
+      "camping"
+    ]
+  },
+  "1F3D6-FE0F": {
+    "short_name": "beach_with_umbrella",
+    "keywords": [
+      "beach_with_umbrella"
+    ]
+  },
+  "1F3D7-FE0F": {
+    "short_name": "building_construction",
+    "keywords": [
+      "building_construction"
+    ]
+  },
+  "1F3D8-FE0F": {
+    "short_name": "house_buildings",
+    "keywords": [
+      "house_buildings"
+    ]
+  },
+  "1F3D9-FE0F": {
+    "short_name": "cityscape",
+    "keywords": [
+      "cityscape"
+    ]
+  },
+  "1F3DA-FE0F": {
+    "short_name": "derelict_house_building",
+    "keywords": [
+      "derelict_house_building"
+    ]
+  },
+  "1F3DB-FE0F": {
+    "short_name": "classical_building",
+    "keywords": [
+      "classical_building"
+    ]
+  },
+  "1F3DC-FE0F": {
+    "short_name": "desert",
+    "keywords": [
+      "desert"
+    ]
+  },
+  "1F3DD-FE0F": {
+    "short_name": "desert_island",
+    "keywords": [
+      "desert_island"
+    ]
+  },
+  "1F3DE-FE0F": {
+    "short_name": "national_park",
+    "keywords": [
+      "national_park"
+    ]
+  },
+  "1F3DF-FE0F": {
+    "short_name": "stadium",
+    "keywords": [
+      "stadium"
+    ]
+  },
+  "1F3E0": {
+    "short_name": "house",
+    "keywords": [
+      "house"
+    ]
+  },
+  "1F3E1": {
+    "short_name": "house_with_garden",
+    "keywords": [
+      "house_with_garden"
+    ]
+  },
+  "1F3E2": {
+    "short_name": "office",
+    "keywords": [
+      "office"
+    ]
+  },
+  "1F3E3": {
+    "short_name": "post_office",
+    "keywords": [
+      "post_office"
+    ]
+  },
+  "1F3E4": {
+    "short_name": "european_post_office",
+    "keywords": [
+      "european_post_office"
+    ]
+  },
+  "1F3E5": {
+    "short_name": "hospital",
+    "keywords": [
+      "hospital"
+    ]
+  },
+  "1F3E6": {
+    "short_name": "bank",
+    "keywords": [
+      "bank"
+    ]
+  },
+  "1F3E7": {
+    "short_name": "atm",
+    "keywords": [
+      "atm"
+    ]
+  },
+  "1F3E8": {
+    "short_name": "hotel",
+    "keywords": [
+      "hotel"
+    ]
+  },
+  "1F3E9": {
+    "short_name": "love_hotel",
+    "keywords": [
+      "love_hotel"
+    ]
+  },
+  "1F3EA": {
+    "short_name": "convenience_store",
+    "keywords": [
+      "convenience_store"
+    ]
+  },
+  "1F3EB": {
+    "short_name": "school",
+    "keywords": [
+      "school"
+    ]
+  },
+  "1F3EC": {
+    "short_name": "department_store",
+    "keywords": [
+      "department_store"
+    ]
+  },
+  "1F3ED": {
+    "short_name": "factory",
+    "keywords": [
+      "factory"
+    ]
+  },
+  "1F3EE": {
+    "short_name": "izakaya_lantern",
+    "keywords": [
+      "izakaya_lantern",
+      "lantern"
+    ]
+  },
+  "1F3EF": {
+    "short_name": "japanese_castle",
+    "keywords": [
+      "japanese_castle"
+    ]
+  },
+  "1F3F0": {
+    "short_name": "european_castle",
+    "keywords": [
+      "european_castle"
+    ]
+  },
+  "1F3F3-FE0F-200D-1F308": {
+    "short_name": "rainbow-flag",
+    "keywords": [
+      "rainbow-flag"
+    ]
+  },
+  "1F3F3-FE0F": {
+    "short_name": "waving_white_flag",
+    "keywords": [
+      "waving_white_flag"
+    ]
+  },
+  "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F": {
+    "short_name": "flag-england",
+    "keywords": [
+      "flag-england"
+    ]
+  },
+  "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F": {
+    "short_name": "flag-scotland",
+    "keywords": [
+      "flag-scotland"
+    ]
+  },
+  "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F": {
+    "short_name": "flag-wales",
+    "keywords": [
+      "flag-wales"
+    ]
+  },
+  "1F3F4": {
+    "short_name": "waving_black_flag",
+    "keywords": [
+      "waving_black_flag"
+    ]
+  },
+  "1F3F5-FE0F": {
+    "short_name": "rosette",
+    "keywords": [
+      "rosette"
+    ]
+  },
+  "1F3F7-FE0F": {
+    "short_name": "label",
+    "keywords": [
+      "label"
+    ]
+  },
+  "1F3F8": {
+    "short_name": "badminton_racquet_and_shuttlecock",
+    "keywords": [
+      "badminton_racquet_and_shuttlecock"
+    ]
+  },
+  "1F3F9": {
+    "short_name": "bow_and_arrow",
+    "keywords": [
+      "bow_and_arrow"
+    ]
+  },
+  "1F3FA": {
+    "short_name": "amphora",
+    "keywords": [
+      "amphora"
+    ]
+  },
+  "1F3FB": {
+    "short_name": "skin-tone-2",
+    "keywords": [
+      "skin-tone-2"
+    ]
+  },
+  "1F3FC": {
+    "short_name": "skin-tone-3",
+    "keywords": [
+      "skin-tone-3"
+    ]
+  },
+  "1F3FD": {
+    "short_name": "skin-tone-4",
+    "keywords": [
+      "skin-tone-4"
+    ]
+  },
+  "1F3FE": {
+    "short_name": "skin-tone-5",
+    "keywords": [
+      "skin-tone-5"
+    ]
+  },
+  "1F3FF": {
+    "short_name": "skin-tone-6",
+    "keywords": [
+      "skin-tone-6"
+    ]
+  },
+  "1F400": {
+    "short_name": "rat",
+    "keywords": [
+      "rat"
+    ]
+  },
+  "1F401": {
+    "short_name": "mouse2",
+    "keywords": [
+      "mouse2"
+    ]
+  },
+  "1F402": {
+    "short_name": "ox",
+    "keywords": [
+      "ox"
+    ]
+  },
+  "1F403": {
+    "short_name": "water_buffalo",
+    "keywords": [
+      "water_buffalo"
+    ]
+  },
+  "1F404": {
+    "short_name": "cow2",
+    "keywords": [
+      "cow2"
+    ]
+  },
+  "1F405": {
+    "short_name": "tiger2",
+    "keywords": [
+      "tiger2"
+    ]
+  },
+  "1F406": {
+    "short_name": "leopard",
+    "keywords": [
+      "leopard"
+    ]
+  },
+  "1F407": {
+    "short_name": "rabbit2",
+    "keywords": [
+      "rabbit2"
+    ]
+  },
+  "1F408": {
+    "short_name": "cat2",
+    "keywords": [
+      "cat2"
+    ]
+  },
+  "1F409": {
+    "short_name": "dragon",
+    "keywords": [
+      "dragon"
+    ]
+  },
+  "1F40A": {
+    "short_name": "crocodile",
+    "keywords": [
+      "crocodile"
+    ]
+  },
+  "1F40B": {
+    "short_name": "whale2",
+    "keywords": [
+      "whale2"
+    ]
+  },
+  "1F40C": {
+    "short_name": "snail",
+    "keywords": [
+      "snail"
+    ]
+  },
+  "1F40D": {
+    "short_name": "snake",
+    "keywords": [
+      "snake"
+    ]
+  },
+  "1F40E": {
+    "short_name": "racehorse",
+    "keywords": [
+      "racehorse"
+    ]
+  },
+  "1F40F": {
+    "short_name": "ram",
+    "keywords": [
+      "ram"
+    ]
+  },
+  "1F410": {
+    "short_name": "goat",
+    "keywords": [
+      "goat"
+    ]
+  },
+  "1F411": {
+    "short_name": "sheep",
+    "keywords": [
+      "sheep"
+    ]
+  },
+  "1F412": {
+    "short_name": "monkey",
+    "keywords": [
+      "monkey"
+    ]
+  },
+  "1F413": {
+    "short_name": "rooster",
+    "keywords": [
+      "rooster"
+    ]
+  },
+  "1F414": {
+    "short_name": "chicken",
+    "keywords": [
+      "chicken"
+    ]
+  },
+  "1F415": {
+    "short_name": "dog2",
+    "keywords": [
+      "dog2"
+    ]
+  },
+  "1F416": {
+    "short_name": "pig2",
+    "keywords": [
+      "pig2"
+    ]
+  },
+  "1F417": {
+    "short_name": "boar",
+    "keywords": [
+      "boar"
+    ]
+  },
+  "1F418": {
+    "short_name": "elephant",
+    "keywords": [
+      "elephant"
+    ]
+  },
+  "1F419": {
+    "short_name": "octopus",
+    "keywords": [
+      "octopus"
+    ]
+  },
+  "1F41A": {
+    "short_name": "shell",
+    "keywords": [
+      "shell"
+    ]
+  },
+  "1F41B": {
+    "short_name": "bug",
+    "keywords": [
+      "bug"
+    ]
+  },
+  "1F41C": {
+    "short_name": "ant",
+    "keywords": [
+      "ant"
+    ]
+  },
+  "1F41D": {
+    "short_name": "bee",
+    "keywords": [
+      "bee",
+      "honeybee"
+    ]
+  },
+  "1F41E": {
+    "short_name": "beetle",
+    "keywords": [
+      "beetle"
+    ]
+  },
+  "1F41F": {
+    "short_name": "fish",
+    "keywords": [
+      "fish"
+    ]
+  },
+  "1F420": {
+    "short_name": "tropical_fish",
+    "keywords": [
+      "tropical_fish"
+    ]
+  },
+  "1F421": {
+    "short_name": "blowfish",
+    "keywords": [
+      "blowfish"
+    ]
+  },
+  "1F422": {
+    "short_name": "turtle",
+    "keywords": [
+      "turtle"
+    ]
+  },
+  "1F423": {
+    "short_name": "hatching_chick",
+    "keywords": [
+      "hatching_chick"
+    ]
+  },
+  "1F424": {
+    "short_name": "baby_chick",
+    "keywords": [
+      "baby_chick"
+    ]
+  },
+  "1F425": {
+    "short_name": "hatched_chick",
+    "keywords": [
+      "hatched_chick"
+    ]
+  },
+  "1F426": {
+    "short_name": "bird",
+    "keywords": [
+      "bird"
+    ]
+  },
+  "1F427": {
+    "short_name": "penguin",
+    "keywords": [
+      "penguin"
+    ]
+  },
+  "1F428": {
+    "short_name": "koala",
+    "keywords": [
+      "koala"
+    ]
+  },
+  "1F429": {
+    "short_name": "poodle",
+    "keywords": [
+      "poodle"
+    ]
+  },
+  "1F42A": {
+    "short_name": "dromedary_camel",
+    "keywords": [
+      "dromedary_camel"
+    ]
+  },
+  "1F42B": {
+    "short_name": "camel",
+    "keywords": [
+      "camel"
+    ]
+  },
+  "1F42C": {
+    "short_name": "dolphin",
+    "keywords": [
+      "dolphin",
+      "flipper"
+    ]
+  },
+  "1F42D": {
+    "short_name": "mouse",
+    "keywords": [
+      "mouse"
+    ]
+  },
+  "1F42E": {
+    "short_name": "cow",
+    "keywords": [
+      "cow"
+    ]
+  },
+  "1F42F": {
+    "short_name": "tiger",
+    "keywords": [
+      "tiger"
+    ]
+  },
+  "1F430": {
+    "short_name": "rabbit",
+    "keywords": [
+      "rabbit"
+    ]
+  },
+  "1F431": {
+    "short_name": "cat",
+    "keywords": [
+      "cat"
+    ]
+  },
+  "1F432": {
+    "short_name": "dragon_face",
+    "keywords": [
+      "dragon_face"
+    ]
+  },
+  "1F433": {
+    "short_name": "whale",
+    "keywords": [
+      "whale"
+    ]
+  },
+  "1F434": {
+    "short_name": "horse",
+    "keywords": [
+      "horse"
+    ]
+  },
+  "1F435": {
+    "short_name": "monkey_face",
+    "keywords": [
+      "monkey_face"
+    ]
+  },
+  "1F436": {
+    "short_name": "dog",
+    "keywords": [
+      "dog"
+    ]
+  },
+  "1F437": {
+    "short_name": "pig",
+    "keywords": [
+      "pig"
+    ]
+  },
+  "1F438": {
+    "short_name": "frog",
+    "keywords": [
+      "frog"
+    ]
+  },
+  "1F439": {
+    "short_name": "hamster",
+    "keywords": [
+      "hamster"
+    ]
+  },
+  "1F43A": {
+    "short_name": "wolf",
+    "keywords": [
+      "wolf"
+    ]
+  },
+  "1F43B": {
+    "short_name": "bear",
+    "keywords": [
+      "bear"
+    ]
+  },
+  "1F43C": {
+    "short_name": "panda_face",
+    "keywords": [
+      "panda_face"
+    ]
+  },
+  "1F43D": {
+    "short_name": "pig_nose",
+    "keywords": [
+      "pig_nose"
+    ]
+  },
+  "1F43E": {
+    "short_name": "feet",
+    "keywords": [
+      "feet",
+      "paw_prints"
+    ]
+  },
+  "1F43F-FE0F": {
+    "short_name": "chipmunk",
+    "keywords": [
+      "chipmunk"
+    ]
+  },
+  "1F440": {
+    "short_name": "eyes",
+    "keywords": [
+      "eyes"
+    ]
+  },
+  "1F441-FE0F-200D-1F5E8-FE0F": {
+    "short_name": "eye-in-speech-bubble",
+    "keywords": [
+      "eye-in-speech-bubble"
+    ]
+  },
+  "1F441-FE0F": {
+    "short_name": "eye",
+    "keywords": [
+      "eye"
+    ]
+  },
+  "1F442": {
+    "short_name": "ear",
+    "keywords": [
+      "ear"
+    ]
+  },
+  "1F443": {
+    "short_name": "nose",
+    "keywords": [
+      "nose"
+    ]
+  },
+  "1F444": {
+    "short_name": "lips",
+    "keywords": [
+      "lips"
+    ]
+  },
+  "1F445": {
+    "short_name": "tongue",
+    "keywords": [
+      "tongue"
+    ]
+  },
+  "1F446": {
+    "short_name": "point_up_2",
+    "keywords": [
+      "point_up_2"
+    ]
+  },
+  "1F447": {
+    "short_name": "point_down",
+    "keywords": [
+      "point_down"
+    ]
+  },
+  "1F448": {
+    "short_name": "point_left",
+    "keywords": [
+      "point_left"
+    ]
+  },
+  "1F449": {
+    "short_name": "point_right",
+    "keywords": [
+      "point_right"
+    ]
+  },
+  "1F44A": {
+    "short_name": "facepunch",
+    "keywords": [
+      "facepunch",
+      "punch"
+    ]
+  },
+  "1F44B": {
+    "short_name": "wave",
+    "keywords": [
+      "wave"
+    ]
+  },
+  "1F44C": {
+    "short_name": "ok_hand",
+    "keywords": [
+      "ok_hand"
+    ]
+  },
+  "1F44D": {
+    "short_name": "+1",
+    "keywords": [
+      "+1",
+      "thumbsup"
+    ]
+  },
+  "1F44E": {
+    "short_name": "-1",
+    "keywords": [
+      "-1",
+      "thumbsdown"
+    ]
+  },
+  "1F44F": {
+    "short_name": "clap",
+    "keywords": [
+      "clap"
+    ]
+  },
+  "1F450": {
+    "short_name": "open_hands",
+    "keywords": [
+      "open_hands"
+    ]
+  },
+  "1F451": {
+    "short_name": "crown",
+    "keywords": [
+      "crown"
+    ]
+  },
+  "1F452": {
+    "short_name": "womans_hat",
+    "keywords": [
+      "womans_hat"
+    ]
+  },
+  "1F453": {
+    "short_name": "eyeglasses",
+    "keywords": [
+      "eyeglasses"
+    ]
+  },
+  "1F454": {
+    "short_name": "necktie",
+    "keywords": [
+      "necktie"
+    ]
+  },
+  "1F455": {
+    "short_name": "shirt",
+    "keywords": [
+      "shirt",
+      "tshirt"
+    ]
+  },
+  "1F456": {
+    "short_name": "jeans",
+    "keywords": [
+      "jeans"
+    ]
+  },
+  "1F457": {
+    "short_name": "dress",
+    "keywords": [
+      "dress"
+    ]
+  },
+  "1F458": {
+    "short_name": "kimono",
+    "keywords": [
+      "kimono"
+    ]
+  },
+  "1F459": {
+    "short_name": "bikini",
+    "keywords": [
+      "bikini"
+    ]
+  },
+  "1F45A": {
+    "short_name": "womans_clothes",
+    "keywords": [
+      "womans_clothes"
+    ]
+  },
+  "1F45B": {
+    "short_name": "purse",
+    "keywords": [
+      "purse"
+    ]
+  },
+  "1F45C": {
+    "short_name": "handbag",
+    "keywords": [
+      "handbag"
+    ]
+  },
+  "1F45D": {
+    "short_name": "pouch",
+    "keywords": [
+      "pouch"
+    ]
+  },
+  "1F45E": {
+    "short_name": "mans_shoe",
+    "keywords": [
+      "mans_shoe",
+      "shoe"
+    ]
+  },
+  "1F45F": {
+    "short_name": "athletic_shoe",
+    "keywords": [
+      "athletic_shoe"
+    ]
+  },
+  "1F460": {
+    "short_name": "high_heel",
+    "keywords": [
+      "high_heel"
+    ]
+  },
+  "1F461": {
+    "short_name": "sandal",
+    "keywords": [
+      "sandal"
+    ]
+  },
+  "1F462": {
+    "short_name": "boot",
+    "keywords": [
+      "boot"
+    ]
+  },
+  "1F463": {
+    "short_name": "footprints",
+    "keywords": [
+      "footprints"
+    ]
+  },
+  "1F464": {
+    "short_name": "bust_in_silhouette",
+    "keywords": [
+      "bust_in_silhouette"
+    ]
+  },
+  "1F465": {
+    "short_name": "busts_in_silhouette",
+    "keywords": [
+      "busts_in_silhouette"
+    ]
+  },
+  "1F466": {
+    "short_name": "boy",
+    "keywords": [
+      "boy"
+    ]
+  },
+  "1F467": {
+    "short_name": "girl",
+    "keywords": [
+      "girl"
+    ]
+  },
+  "1F468-200D-1F33E": {
+    "short_name": "male-farmer",
+    "keywords": [
+      "male-farmer"
+    ]
+  },
+  "1F468-200D-1F373": {
+    "short_name": "male-cook",
+    "keywords": [
+      "male-cook"
+    ]
+  },
+  "1F468-200D-1F393": {
+    "short_name": "male-student",
+    "keywords": [
+      "male-student"
+    ]
+  },
+  "1F468-200D-1F3A4": {
+    "short_name": "male-singer",
+    "keywords": [
+      "male-singer"
+    ]
+  },
+  "1F468-200D-1F3A8": {
+    "short_name": "male-artist",
+    "keywords": [
+      "male-artist"
+    ]
+  },
+  "1F468-200D-1F3EB": {
+    "short_name": "male-teacher",
+    "keywords": [
+      "male-teacher"
+    ]
+  },
+  "1F468-200D-1F3ED": {
+    "short_name": "male-factory-worker",
+    "keywords": [
+      "male-factory-worker"
+    ]
+  },
+  "1F468-200D-1F466-200D-1F466": {
+    "short_name": "man-boy-boy",
+    "keywords": [
+      "man-boy-boy"
+    ]
+  },
+  "1F468-200D-1F466": {
+    "short_name": "man-boy",
+    "keywords": [
+      "man-boy"
+    ]
+  },
+  "1F468-200D-1F467-200D-1F466": {
+    "short_name": "man-girl-boy",
+    "keywords": [
+      "man-girl-boy"
+    ]
+  },
+  "1F468-200D-1F467-200D-1F467": {
+    "short_name": "man-girl-girl",
+    "keywords": [
+      "man-girl-girl"
+    ]
+  },
+  "1F468-200D-1F467": {
+    "short_name": "man-girl",
+    "keywords": [
+      "man-girl"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F466": {
+    "short_name": "man-man-boy",
+    "keywords": [
+      "man-man-boy"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F466-200D-1F466": {
+    "short_name": "man-man-boy-boy",
+    "keywords": [
+      "man-man-boy-boy"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F467": {
+    "short_name": "man-man-girl",
+    "keywords": [
+      "man-man-girl"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F467-200D-1F466": {
+    "short_name": "man-man-girl-boy",
+    "keywords": [
+      "man-man-girl-boy"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F467-200D-1F467": {
+    "short_name": "man-man-girl-girl",
+    "keywords": [
+      "man-man-girl-girl"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F466": {
+    "short_name": "man-woman-boy",
+    "keywords": [
+      "man-woman-boy",
+      "family"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F466-200D-1F466": {
+    "short_name": "man-woman-boy-boy",
+    "keywords": [
+      "man-woman-boy-boy"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F467": {
+    "short_name": "man-woman-girl",
+    "keywords": [
+      "man-woman-girl"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F467-200D-1F466": {
+    "short_name": "man-woman-girl-boy",
+    "keywords": [
+      "man-woman-girl-boy"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F467-200D-1F467": {
+    "short_name": "man-woman-girl-girl",
+    "keywords": [
+      "man-woman-girl-girl"
+    ]
+  },
+  "1F468-200D-1F4BB": {
+    "short_name": "male-technologist",
+    "keywords": [
+      "male-technologist"
+    ]
+  },
+  "1F468-200D-1F4BC": {
+    "short_name": "male-office-worker",
+    "keywords": [
+      "male-office-worker"
+    ]
+  },
+  "1F468-200D-1F527": {
+    "short_name": "male-mechanic",
+    "keywords": [
+      "male-mechanic"
+    ]
+  },
+  "1F468-200D-1F52C": {
+    "short_name": "male-scientist",
+    "keywords": [
+      "male-scientist"
+    ]
+  },
+  "1F468-200D-1F680": {
+    "short_name": "male-astronaut",
+    "keywords": [
+      "male-astronaut"
+    ]
+  },
+  "1F468-200D-1F692": {
+    "short_name": "male-firefighter",
+    "keywords": [
+      "male-firefighter"
+    ]
+  },
+  "1F468-200D-2695-FE0F": {
+    "short_name": "male-doctor",
+    "keywords": [
+      "male-doctor"
+    ]
+  },
+  "1F468-200D-2696-FE0F": {
+    "short_name": "male-judge",
+    "keywords": [
+      "male-judge"
+    ]
+  },
+  "1F468-200D-2708-FE0F": {
+    "short_name": "male-pilot",
+    "keywords": [
+      "male-pilot"
+    ]
+  },
+  "1F468-200D-2764-FE0F-200D-1F468": {
+    "short_name": "man-heart-man",
+    "keywords": [
+      "man-heart-man"
+    ]
+  },
+  "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468": {
+    "short_name": "man-kiss-man",
+    "keywords": [
+      "man-kiss-man"
+    ]
+  },
+  "1F468": {
+    "short_name": "man",
+    "keywords": [
+      "man"
+    ]
+  },
+  "1F469-200D-1F33E": {
+    "short_name": "female-farmer",
+    "keywords": [
+      "female-farmer"
+    ]
+  },
+  "1F469-200D-1F373": {
+    "short_name": "female-cook",
+    "keywords": [
+      "female-cook"
+    ]
+  },
+  "1F469-200D-1F393": {
+    "short_name": "female-student",
+    "keywords": [
+      "female-student"
+    ]
+  },
+  "1F469-200D-1F3A4": {
+    "short_name": "female-singer",
+    "keywords": [
+      "female-singer"
+    ]
+  },
+  "1F469-200D-1F3A8": {
+    "short_name": "female-artist",
+    "keywords": [
+      "female-artist"
+    ]
+  },
+  "1F469-200D-1F3EB": {
+    "short_name": "female-teacher",
+    "keywords": [
+      "female-teacher"
+    ]
+  },
+  "1F469-200D-1F3ED": {
+    "short_name": "female-factory-worker",
+    "keywords": [
+      "female-factory-worker"
+    ]
+  },
+  "1F469-200D-1F466-200D-1F466": {
+    "short_name": "woman-boy-boy",
+    "keywords": [
+      "woman-boy-boy"
+    ]
+  },
+  "1F469-200D-1F466": {
+    "short_name": "woman-boy",
+    "keywords": [
+      "woman-boy"
+    ]
+  },
+  "1F469-200D-1F467-200D-1F466": {
+    "short_name": "woman-girl-boy",
+    "keywords": [
+      "woman-girl-boy"
+    ]
+  },
+  "1F469-200D-1F467-200D-1F467": {
+    "short_name": "woman-girl-girl",
+    "keywords": [
+      "woman-girl-girl"
+    ]
+  },
+  "1F469-200D-1F467": {
+    "short_name": "woman-girl",
+    "keywords": [
+      "woman-girl"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F466": {
+    "short_name": "woman-woman-boy",
+    "keywords": [
+      "woman-woman-boy"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F466-200D-1F466": {
+    "short_name": "woman-woman-boy-boy",
+    "keywords": [
+      "woman-woman-boy-boy"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F467": {
+    "short_name": "woman-woman-girl",
+    "keywords": [
+      "woman-woman-girl"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F467-200D-1F466": {
+    "short_name": "woman-woman-girl-boy",
+    "keywords": [
+      "woman-woman-girl-boy"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F467-200D-1F467": {
+    "short_name": "woman-woman-girl-girl",
+    "keywords": [
+      "woman-woman-girl-girl"
+    ]
+  },
+  "1F469-200D-1F4BB": {
+    "short_name": "female-technologist",
+    "keywords": [
+      "female-technologist"
+    ]
+  },
+  "1F469-200D-1F4BC": {
+    "short_name": "female-office-worker",
+    "keywords": [
+      "female-office-worker"
+    ]
+  },
+  "1F469-200D-1F527": {
+    "short_name": "female-mechanic",
+    "keywords": [
+      "female-mechanic"
+    ]
+  },
+  "1F469-200D-1F52C": {
+    "short_name": "female-scientist",
+    "keywords": [
+      "female-scientist"
+    ]
+  },
+  "1F469-200D-1F680": {
+    "short_name": "female-astronaut",
+    "keywords": [
+      "female-astronaut"
+    ]
+  },
+  "1F469-200D-1F692": {
+    "short_name": "female-firefighter",
+    "keywords": [
+      "female-firefighter"
+    ]
+  },
+  "1F469-200D-2695-FE0F": {
+    "short_name": "female-doctor",
+    "keywords": [
+      "female-doctor"
+    ]
+  },
+  "1F469-200D-2696-FE0F": {
+    "short_name": "female-judge",
+    "keywords": [
+      "female-judge"
+    ]
+  },
+  "1F469-200D-2708-FE0F": {
+    "short_name": "female-pilot",
+    "keywords": [
+      "female-pilot"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F468": {
+    "short_name": "woman-heart-man",
+    "keywords": [
+      "woman-heart-man"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F469": {
+    "short_name": "woman-heart-woman",
+    "keywords": [
+      "woman-heart-woman"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468": {
+    "short_name": "woman-kiss-man",
+    "keywords": [
+      "woman-kiss-man"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469": {
+    "short_name": "woman-kiss-woman",
+    "keywords": [
+      "woman-kiss-woman"
+    ]
+  },
+  "1F469": {
+    "short_name": "woman",
+    "keywords": [
+      "woman"
+    ]
+  },
+  "1F46A": {
+    "short_name": "family",
+    "keywords": [
+      "family",
+      "man-woman-boy"
+    ]
+  },
+  "1F46B": {
+    "short_name": "couple",
+    "keywords": [
+      "couple",
+      "man_and_woman_holding_hands"
+    ]
+  },
+  "1F46C": {
+    "short_name": "two_men_holding_hands",
+    "keywords": [
+      "two_men_holding_hands"
+    ]
+  },
+  "1F46D": {
+    "short_name": "two_women_holding_hands",
+    "keywords": [
+      "two_women_holding_hands"
+    ]
+  },
+  "1F46E-200D-2640-FE0F": {
+    "short_name": "female-police-officer",
+    "keywords": [
+      "female-police-officer"
+    ]
+  },
+  "1F46E-200D-2642-FE0F": {
+    "short_name": "male-police-officer",
+    "keywords": [
+      "male-police-officer"
+    ]
+  },
+  "1F46E": {
+    "short_name": "cop",
+    "keywords": [
+      "cop"
+    ]
+  },
+  "1F46F-200D-2640-FE0F": {
+    "short_name": "woman-with-bunny-ears-partying",
+    "keywords": [
+      "woman-with-bunny-ears-partying"
+    ]
+  },
+  "1F46F-200D-2642-FE0F": {
+    "short_name": "man-with-bunny-ears-partying",
+    "keywords": [
+      "man-with-bunny-ears-partying"
+    ]
+  },
+  "1F46F": {
+    "short_name": "dancers",
+    "keywords": [
+      "dancers"
+    ]
+  },
+  "1F470": {
+    "short_name": "bride_with_veil",
+    "keywords": [
+      "bride_with_veil"
+    ]
+  },
+  "1F471-200D-2640-FE0F": {
+    "short_name": "blond-haired-woman",
+    "keywords": [
+      "blond-haired-woman"
+    ]
+  },
+  "1F471-200D-2642-FE0F": {
+    "short_name": "blond-haired-man",
+    "keywords": [
+      "blond-haired-man"
+    ]
+  },
+  "1F471": {
+    "short_name": "person_with_blond_hair",
+    "keywords": [
+      "person_with_blond_hair"
+    ]
+  },
+  "1F472": {
+    "short_name": "man_with_gua_pi_mao",
+    "keywords": [
+      "man_with_gua_pi_mao"
+    ]
+  },
+  "1F473-200D-2640-FE0F": {
+    "short_name": "woman-wearing-turban",
+    "keywords": [
+      "woman-wearing-turban"
+    ]
+  },
+  "1F473-200D-2642-FE0F": {
+    "short_name": "man-wearing-turban",
+    "keywords": [
+      "man-wearing-turban"
+    ]
+  },
+  "1F473": {
+    "short_name": "man_with_turban",
+    "keywords": [
+      "man_with_turban"
+    ]
+  },
+  "1F474": {
+    "short_name": "older_man",
+    "keywords": [
+      "older_man"
+    ]
+  },
+  "1F475": {
+    "short_name": "older_woman",
+    "keywords": [
+      "older_woman"
+    ]
+  },
+  "1F476": {
+    "short_name": "baby",
+    "keywords": [
+      "baby"
+    ]
+  },
+  "1F477-200D-2640-FE0F": {
+    "short_name": "female-construction-worker",
+    "keywords": [
+      "female-construction-worker"
+    ]
+  },
+  "1F477-200D-2642-FE0F": {
+    "short_name": "male-construction-worker",
+    "keywords": [
+      "male-construction-worker"
+    ]
+  },
+  "1F477": {
+    "short_name": "construction_worker",
+    "keywords": [
+      "construction_worker"
+    ]
+  },
+  "1F478": {
+    "short_name": "princess",
+    "keywords": [
+      "princess"
+    ]
+  },
+  "1F479": {
+    "short_name": "japanese_ogre",
+    "keywords": [
+      "japanese_ogre"
+    ]
+  },
+  "1F47A": {
+    "short_name": "japanese_goblin",
+    "keywords": [
+      "japanese_goblin"
+    ]
+  },
+  "1F47B": {
+    "short_name": "ghost",
+    "keywords": [
+      "ghost"
+    ]
+  },
+  "1F47C": {
+    "short_name": "angel",
+    "keywords": [
+      "angel"
+    ]
+  },
+  "1F47D": {
+    "short_name": "alien",
+    "keywords": [
+      "alien"
+    ]
+  },
+  "1F47E": {
+    "short_name": "space_invader",
+    "keywords": [
+      "space_invader"
+    ]
+  },
+  "1F47F": {
+    "short_name": "imp",
+    "keywords": [
+      "imp"
+    ]
+  },
+  "1F480": {
+    "short_name": "skull",
+    "keywords": [
+      "skull"
+    ]
+  },
+  "1F481-200D-2640-FE0F": {
+    "short_name": "woman-tipping-hand",
+    "keywords": [
+      "woman-tipping-hand"
+    ]
+  },
+  "1F481-200D-2642-FE0F": {
+    "short_name": "man-tipping-hand",
+    "keywords": [
+      "man-tipping-hand"
+    ]
+  },
+  "1F481": {
+    "short_name": "information_desk_person",
+    "keywords": [
+      "information_desk_person"
+    ]
+  },
+  "1F482-200D-2640-FE0F": {
+    "short_name": "female-guard",
+    "keywords": [
+      "female-guard"
+    ]
+  },
+  "1F482-200D-2642-FE0F": {
+    "short_name": "male-guard",
+    "keywords": [
+      "male-guard"
+    ]
+  },
+  "1F482": {
+    "short_name": "guardsman",
+    "keywords": [
+      "guardsman"
+    ]
+  },
+  "1F483": {
+    "short_name": "dancer",
+    "keywords": [
+      "dancer"
+    ]
+  },
+  "1F484": {
+    "short_name": "lipstick",
+    "keywords": [
+      "lipstick"
+    ]
+  },
+  "1F485": {
+    "short_name": "nail_care",
+    "keywords": [
+      "nail_care"
+    ]
+  },
+  "1F486-200D-2640-FE0F": {
+    "short_name": "woman-getting-massage",
+    "keywords": [
+      "woman-getting-massage"
+    ]
+  },
+  "1F486-200D-2642-FE0F": {
+    "short_name": "man-getting-massage",
+    "keywords": [
+      "man-getting-massage"
+    ]
+  },
+  "1F486": {
+    "short_name": "massage",
+    "keywords": [
+      "massage"
+    ]
+  },
+  "1F487-200D-2640-FE0F": {
+    "short_name": "woman-getting-haircut",
+    "keywords": [
+      "woman-getting-haircut"
+    ]
+  },
+  "1F487-200D-2642-FE0F": {
+    "short_name": "man-getting-haircut",
+    "keywords": [
+      "man-getting-haircut"
+    ]
+  },
+  "1F487": {
+    "short_name": "haircut",
+    "keywords": [
+      "haircut"
+    ]
+  },
+  "1F488": {
+    "short_name": "barber",
+    "keywords": [
+      "barber"
+    ]
+  },
+  "1F489": {
+    "short_name": "syringe",
+    "keywords": [
+      "syringe"
+    ]
+  },
+  "1F48A": {
+    "short_name": "pill",
+    "keywords": [
+      "pill"
+    ]
+  },
+  "1F48B": {
+    "short_name": "kiss",
+    "keywords": [
+      "kiss"
+    ]
+  },
+  "1F48C": {
+    "short_name": "love_letter",
+    "keywords": [
+      "love_letter"
+    ]
+  },
+  "1F48D": {
+    "short_name": "ring",
+    "keywords": [
+      "ring"
+    ]
+  },
+  "1F48E": {
+    "short_name": "gem",
+    "keywords": [
+      "gem"
+    ]
+  },
+  "1F48F": {
+    "short_name": "couplekiss",
+    "keywords": [
+      "couplekiss"
+    ]
+  },
+  "1F490": {
+    "short_name": "bouquet",
+    "keywords": [
+      "bouquet"
+    ]
+  },
+  "1F491": {
+    "short_name": "couple_with_heart",
+    "keywords": [
+      "couple_with_heart"
+    ]
+  },
+  "1F492": {
+    "short_name": "wedding",
+    "keywords": [
+      "wedding"
+    ]
+  },
+  "1F493": {
+    "short_name": "heartbeat",
+    "keywords": [
+      "heartbeat"
+    ]
+  },
+  "1F494": {
+    "short_name": "broken_heart",
+    "keywords": [
+      "broken_heart"
+    ]
+  },
+  "1F495": {
+    "short_name": "two_hearts",
+    "keywords": [
+      "two_hearts"
+    ]
+  },
+  "1F496": {
+    "short_name": "sparkling_heart",
+    "keywords": [
+      "sparkling_heart"
+    ]
+  },
+  "1F497": {
+    "short_name": "heartpulse",
+    "keywords": [
+      "heartpulse"
+    ]
+  },
+  "1F498": {
+    "short_name": "cupid",
+    "keywords": [
+      "cupid"
+    ]
+  },
+  "1F499": {
+    "short_name": "blue_heart",
+    "keywords": [
+      "blue_heart"
+    ]
+  },
+  "1F49A": {
+    "short_name": "green_heart",
+    "keywords": [
+      "green_heart"
+    ]
+  },
+  "1F49B": {
+    "short_name": "yellow_heart",
+    "keywords": [
+      "yellow_heart"
+    ]
+  },
+  "1F49C": {
+    "short_name": "purple_heart",
+    "keywords": [
+      "purple_heart"
+    ]
+  },
+  "1F49D": {
+    "short_name": "gift_heart",
+    "keywords": [
+      "gift_heart"
+    ]
+  },
+  "1F49E": {
+    "short_name": "revolving_hearts",
+    "keywords": [
+      "revolving_hearts"
+    ]
+  },
+  "1F49F": {
+    "short_name": "heart_decoration",
+    "keywords": [
+      "heart_decoration"
+    ]
+  },
+  "1F4A0": {
+    "short_name": "diamond_shape_with_a_dot_inside",
+    "keywords": [
+      "diamond_shape_with_a_dot_inside"
+    ]
+  },
+  "1F4A1": {
+    "short_name": "bulb",
+    "keywords": [
+      "bulb"
+    ]
+  },
+  "1F4A2": {
+    "short_name": "anger",
+    "keywords": [
+      "anger"
+    ]
+  },
+  "1F4A3": {
+    "short_name": "bomb",
+    "keywords": [
+      "bomb"
+    ]
+  },
+  "1F4A4": {
+    "short_name": "zzz",
+    "keywords": [
+      "zzz"
+    ]
+  },
+  "1F4A5": {
+    "short_name": "boom",
+    "keywords": [
+      "boom",
+      "collision"
+    ]
+  },
+  "1F4A6": {
+    "short_name": "sweat_drops",
+    "keywords": [
+      "sweat_drops"
+    ]
+  },
+  "1F4A7": {
+    "short_name": "droplet",
+    "keywords": [
+      "droplet"
+    ]
+  },
+  "1F4A8": {
+    "short_name": "dash",
+    "keywords": [
+      "dash"
+    ]
+  },
+  "1F4A9": {
+    "short_name": "hankey",
+    "keywords": [
+      "hankey",
+      "poop",
+      "shit"
+    ]
+  },
+  "1F4AA": {
+    "short_name": "muscle",
+    "keywords": [
+      "muscle"
+    ]
+  },
+  "1F4AB": {
+    "short_name": "dizzy",
+    "keywords": [
+      "dizzy"
+    ]
+  },
+  "1F4AC": {
+    "short_name": "speech_balloon",
+    "keywords": [
+      "speech_balloon"
+    ]
+  },
+  "1F4AD": {
+    "short_name": "thought_balloon",
+    "keywords": [
+      "thought_balloon"
+    ]
+  },
+  "1F4AE": {
+    "short_name": "white_flower",
+    "keywords": [
+      "white_flower"
+    ]
+  },
+  "1F4AF": {
+    "short_name": "100",
+    "keywords": [
+      "100"
+    ]
+  },
+  "1F4B0": {
+    "short_name": "moneybag",
+    "keywords": [
+      "moneybag"
+    ]
+  },
+  "1F4B1": {
+    "short_name": "currency_exchange",
+    "keywords": [
+      "currency_exchange"
+    ]
+  },
+  "1F4B2": {
+    "short_name": "heavy_dollar_sign",
+    "keywords": [
+      "heavy_dollar_sign"
+    ]
+  },
+  "1F4B3": {
+    "short_name": "credit_card",
+    "keywords": [
+      "credit_card"
+    ]
+  },
+  "1F4B4": {
+    "short_name": "yen",
+    "keywords": [
+      "yen"
+    ]
+  },
+  "1F4B5": {
+    "short_name": "dollar",
+    "keywords": [
+      "dollar"
+    ]
+  },
+  "1F4B6": {
+    "short_name": "euro",
+    "keywords": [
+      "euro"
+    ]
+  },
+  "1F4B7": {
+    "short_name": "pound",
+    "keywords": [
+      "pound"
+    ]
+  },
+  "1F4B8": {
+    "short_name": "money_with_wings",
+    "keywords": [
+      "money_with_wings"
+    ]
+  },
+  "1F4B9": {
+    "short_name": "chart",
+    "keywords": [
+      "chart"
+    ]
+  },
+  "1F4BA": {
+    "short_name": "seat",
+    "keywords": [
+      "seat"
+    ]
+  },
+  "1F4BB": {
+    "short_name": "computer",
+    "keywords": [
+      "computer"
+    ]
+  },
+  "1F4BC": {
+    "short_name": "briefcase",
+    "keywords": [
+      "briefcase"
+    ]
+  },
+  "1F4BD": {
+    "short_name": "minidisc",
+    "keywords": [
+      "minidisc"
+    ]
+  },
+  "1F4BE": {
+    "short_name": "floppy_disk",
+    "keywords": [
+      "floppy_disk"
+    ]
+  },
+  "1F4BF": {
+    "short_name": "cd",
+    "keywords": [
+      "cd"
+    ]
+  },
+  "1F4C0": {
+    "short_name": "dvd",
+    "keywords": [
+      "dvd"
+    ]
+  },
+  "1F4C1": {
+    "short_name": "file_folder",
+    "keywords": [
+      "file_folder"
+    ]
+  },
+  "1F4C2": {
+    "short_name": "open_file_folder",
+    "keywords": [
+      "open_file_folder"
+    ]
+  },
+  "1F4C3": {
+    "short_name": "page_with_curl",
+    "keywords": [
+      "page_with_curl"
+    ]
+  },
+  "1F4C4": {
+    "short_name": "page_facing_up",
+    "keywords": [
+      "page_facing_up"
+    ]
+  },
+  "1F4C5": {
+    "short_name": "date",
+    "keywords": [
+      "date"
+    ]
+  },
+  "1F4C6": {
+    "short_name": "calendar",
+    "keywords": [
+      "calendar"
+    ]
+  },
+  "1F4C7": {
+    "short_name": "card_index",
+    "keywords": [
+      "card_index"
+    ]
+  },
+  "1F4C8": {
+    "short_name": "chart_with_upwards_trend",
+    "keywords": [
+      "chart_with_upwards_trend"
+    ]
+  },
+  "1F4C9": {
+    "short_name": "chart_with_downwards_trend",
+    "keywords": [
+      "chart_with_downwards_trend"
+    ]
+  },
+  "1F4CA": {
+    "short_name": "bar_chart",
+    "keywords": [
+      "bar_chart"
+    ]
+  },
+  "1F4CB": {
+    "short_name": "clipboard",
+    "keywords": [
+      "clipboard"
+    ]
+  },
+  "1F4CC": {
+    "short_name": "pushpin",
+    "keywords": [
+      "pushpin"
+    ]
+  },
+  "1F4CD": {
+    "short_name": "round_pushpin",
+    "keywords": [
+      "round_pushpin"
+    ]
+  },
+  "1F4CE": {
+    "short_name": "paperclip",
+    "keywords": [
+      "paperclip"
+    ]
+  },
+  "1F4CF": {
+    "short_name": "straight_ruler",
+    "keywords": [
+      "straight_ruler"
+    ]
+  },
+  "1F4D0": {
+    "short_name": "triangular_ruler",
+    "keywords": [
+      "triangular_ruler"
+    ]
+  },
+  "1F4D1": {
+    "short_name": "bookmark_tabs",
+    "keywords": [
+      "bookmark_tabs"
+    ]
+  },
+  "1F4D2": {
+    "short_name": "ledger",
+    "keywords": [
+      "ledger"
+    ]
+  },
+  "1F4D3": {
+    "short_name": "notebook",
+    "keywords": [
+      "notebook"
+    ]
+  },
+  "1F4D4": {
+    "short_name": "notebook_with_decorative_cover",
+    "keywords": [
+      "notebook_with_decorative_cover"
+    ]
+  },
+  "1F4D5": {
+    "short_name": "closed_book",
+    "keywords": [
+      "closed_book"
+    ]
+  },
+  "1F4D6": {
+    "short_name": "book",
+    "keywords": [
+      "book",
+      "open_book"
+    ]
+  },
+  "1F4D7": {
+    "short_name": "green_book",
+    "keywords": [
+      "green_book"
+    ]
+  },
+  "1F4D8": {
+    "short_name": "blue_book",
+    "keywords": [
+      "blue_book"
+    ]
+  },
+  "1F4D9": {
+    "short_name": "orange_book",
+    "keywords": [
+      "orange_book"
+    ]
+  },
+  "1F4DA": {
+    "short_name": "books",
+    "keywords": [
+      "books"
+    ]
+  },
+  "1F4DB": {
+    "short_name": "name_badge",
+    "keywords": [
+      "name_badge"
+    ]
+  },
+  "1F4DC": {
+    "short_name": "scroll",
+    "keywords": [
+      "scroll"
+    ]
+  },
+  "1F4DD": {
+    "short_name": "memo",
+    "keywords": [
+      "memo",
+      "pencil"
+    ]
+  },
+  "1F4DE": {
+    "short_name": "telephone_receiver",
+    "keywords": [
+      "telephone_receiver"
+    ]
+  },
+  "1F4DF": {
+    "short_name": "pager",
+    "keywords": [
+      "pager"
+    ]
+  },
+  "1F4E0": {
+    "short_name": "fax",
+    "keywords": [
+      "fax"
+    ]
+  },
+  "1F4E1": {
+    "short_name": "satellite_antenna",
+    "keywords": [
+      "satellite_antenna"
+    ]
+  },
+  "1F4E2": {
+    "short_name": "loudspeaker",
+    "keywords": [
+      "loudspeaker"
+    ]
+  },
+  "1F4E3": {
+    "short_name": "mega",
+    "keywords": [
+      "mega"
+    ]
+  },
+  "1F4E4": {
+    "short_name": "outbox_tray",
+    "keywords": [
+      "outbox_tray"
+    ]
+  },
+  "1F4E5": {
+    "short_name": "inbox_tray",
+    "keywords": [
+      "inbox_tray"
+    ]
+  },
+  "1F4E6": {
+    "short_name": "package",
+    "keywords": [
+      "package"
+    ]
+  },
+  "1F4E7": {
+    "short_name": "e-mail",
+    "keywords": [
+      "e-mail"
+    ]
+  },
+  "1F4E8": {
+    "short_name": "incoming_envelope",
+    "keywords": [
+      "incoming_envelope"
+    ]
+  },
+  "1F4E9": {
+    "short_name": "envelope_with_arrow",
+    "keywords": [
+      "envelope_with_arrow"
+    ]
+  },
+  "1F4EA": {
+    "short_name": "mailbox_closed",
+    "keywords": [
+      "mailbox_closed"
+    ]
+  },
+  "1F4EB": {
+    "short_name": "mailbox",
+    "keywords": [
+      "mailbox"
+    ]
+  },
+  "1F4EC": {
+    "short_name": "mailbox_with_mail",
+    "keywords": [
+      "mailbox_with_mail"
+    ]
+  },
+  "1F4ED": {
+    "short_name": "mailbox_with_no_mail",
+    "keywords": [
+      "mailbox_with_no_mail"
+    ]
+  },
+  "1F4EE": {
+    "short_name": "postbox",
+    "keywords": [
+      "postbox"
+    ]
+  },
+  "1F4EF": {
+    "short_name": "postal_horn",
+    "keywords": [
+      "postal_horn"
+    ]
+  },
+  "1F4F0": {
+    "short_name": "newspaper",
+    "keywords": [
+      "newspaper"
+    ]
+  },
+  "1F4F1": {
+    "short_name": "iphone",
+    "keywords": [
+      "iphone"
+    ]
+  },
+  "1F4F2": {
+    "short_name": "calling",
+    "keywords": [
+      "calling"
+    ]
+  },
+  "1F4F3": {
+    "short_name": "vibration_mode",
+    "keywords": [
+      "vibration_mode"
+    ]
+  },
+  "1F4F4": {
+    "short_name": "mobile_phone_off",
+    "keywords": [
+      "mobile_phone_off"
+    ]
+  },
+  "1F4F5": {
+    "short_name": "no_mobile_phones",
+    "keywords": [
+      "no_mobile_phones"
+    ]
+  },
+  "1F4F6": {
+    "short_name": "signal_strength",
+    "keywords": [
+      "signal_strength"
+    ]
+  },
+  "1F4F7": {
+    "short_name": "camera",
+    "keywords": [
+      "camera"
+    ]
+  },
+  "1F4F8": {
+    "short_name": "camera_with_flash",
+    "keywords": [
+      "camera_with_flash"
+    ]
+  },
+  "1F4F9": {
+    "short_name": "video_camera",
+    "keywords": [
+      "video_camera"
+    ]
+  },
+  "1F4FA": {
+    "short_name": "tv",
+    "keywords": [
+      "tv"
+    ]
+  },
+  "1F4FB": {
+    "short_name": "radio",
+    "keywords": [
+      "radio"
+    ]
+  },
+  "1F4FC": {
+    "short_name": "vhs",
+    "keywords": [
+      "vhs"
+    ]
+  },
+  "1F4FD-FE0F": {
+    "short_name": "film_projector",
+    "keywords": [
+      "film_projector"
+    ]
+  },
+  "1F4FF": {
+    "short_name": "prayer_beads",
+    "keywords": [
+      "prayer_beads"
+    ]
+  },
+  "1F500": {
+    "short_name": "twisted_rightwards_arrows",
+    "keywords": [
+      "twisted_rightwards_arrows"
+    ]
+  },
+  "1F501": {
+    "short_name": "repeat",
+    "keywords": [
+      "repeat"
+    ]
+  },
+  "1F502": {
+    "short_name": "repeat_one",
+    "keywords": [
+      "repeat_one"
+    ]
+  },
+  "1F503": {
+    "short_name": "arrows_clockwise",
+    "keywords": [
+      "arrows_clockwise"
+    ]
+  },
+  "1F504": {
+    "short_name": "arrows_counterclockwise",
+    "keywords": [
+      "arrows_counterclockwise"
+    ]
+  },
+  "1F505": {
+    "short_name": "low_brightness",
+    "keywords": [
+      "low_brightness"
+    ]
+  },
+  "1F506": {
+    "short_name": "high_brightness",
+    "keywords": [
+      "high_brightness"
+    ]
+  },
+  "1F507": {
+    "short_name": "mute",
+    "keywords": [
+      "mute"
+    ]
+  },
+  "1F508": {
+    "short_name": "speaker",
+    "keywords": [
+      "speaker"
+    ]
+  },
+  "1F509": {
+    "short_name": "sound",
+    "keywords": [
+      "sound"
+    ]
+  },
+  "1F50A": {
+    "short_name": "loud_sound",
+    "keywords": [
+      "loud_sound"
+    ]
+  },
+  "1F50B": {
+    "short_name": "battery",
+    "keywords": [
+      "battery"
+    ]
+  },
+  "1F50C": {
+    "short_name": "electric_plug",
+    "keywords": [
+      "electric_plug"
+    ]
+  },
+  "1F50D": {
+    "short_name": "mag",
+    "keywords": [
+      "mag"
+    ]
+  },
+  "1F50E": {
+    "short_name": "mag_right",
+    "keywords": [
+      "mag_right"
+    ]
+  },
+  "1F50F": {
+    "short_name": "lock_with_ink_pen",
+    "keywords": [
+      "lock_with_ink_pen"
+    ]
+  },
+  "1F510": {
+    "short_name": "closed_lock_with_key",
+    "keywords": [
+      "closed_lock_with_key"
+    ]
+  },
+  "1F511": {
+    "short_name": "key",
+    "keywords": [
+      "key"
+    ]
+  },
+  "1F512": {
+    "short_name": "lock",
+    "keywords": [
+      "lock"
+    ]
+  },
+  "1F513": {
+    "short_name": "unlock",
+    "keywords": [
+      "unlock"
+    ]
+  },
+  "1F514": {
+    "short_name": "bell",
+    "keywords": [
+      "bell"
+    ]
+  },
+  "1F515": {
+    "short_name": "no_bell",
+    "keywords": [
+      "no_bell"
+    ]
+  },
+  "1F516": {
+    "short_name": "bookmark",
+    "keywords": [
+      "bookmark"
+    ]
+  },
+  "1F517": {
+    "short_name": "link",
+    "keywords": [
+      "link"
+    ]
+  },
+  "1F518": {
+    "short_name": "radio_button",
+    "keywords": [
+      "radio_button"
+    ]
+  },
+  "1F519": {
+    "short_name": "back",
+    "keywords": [
+      "back"
+    ]
+  },
+  "1F51A": {
+    "short_name": "end",
+    "keywords": [
+      "end"
+    ]
+  },
+  "1F51B": {
+    "short_name": "on",
+    "keywords": [
+      "on"
+    ]
+  },
+  "1F51C": {
+    "short_name": "soon",
+    "keywords": [
+      "soon"
+    ]
+  },
+  "1F51D": {
+    "short_name": "top",
+    "keywords": [
+      "top"
+    ]
+  },
+  "1F51E": {
+    "short_name": "underage",
+    "keywords": [
+      "underage"
+    ]
+  },
+  "1F51F": {
+    "short_name": "keycap_ten",
+    "keywords": [
+      "keycap_ten"
+    ]
+  },
+  "1F520": {
+    "short_name": "capital_abcd",
+    "keywords": [
+      "capital_abcd"
+    ]
+  },
+  "1F521": {
+    "short_name": "abcd",
+    "keywords": [
+      "abcd"
+    ]
+  },
+  "1F522": {
+    "short_name": "1234",
+    "keywords": [
+      "1234"
+    ]
+  },
+  "1F523": {
+    "short_name": "symbols",
+    "keywords": [
+      "symbols"
+    ]
+  },
+  "1F524": {
+    "short_name": "abc",
+    "keywords": [
+      "abc"
+    ]
+  },
+  "1F525": {
+    "short_name": "fire",
+    "keywords": [
+      "fire"
+    ]
+  },
+  "1F526": {
+    "short_name": "flashlight",
+    "keywords": [
+      "flashlight"
+    ]
+  },
+  "1F527": {
+    "short_name": "wrench",
+    "keywords": [
+      "wrench"
+    ]
+  },
+  "1F528": {
+    "short_name": "hammer",
+    "keywords": [
+      "hammer"
+    ]
+  },
+  "1F529": {
+    "short_name": "nut_and_bolt",
+    "keywords": [
+      "nut_and_bolt"
+    ]
+  },
+  "1F52A": {
+    "short_name": "hocho",
+    "keywords": [
+      "hocho",
+      "knife"
+    ]
+  },
+  "1F52B": {
+    "short_name": "gun",
+    "keywords": [
+      "gun"
+    ]
+  },
+  "1F52C": {
+    "short_name": "microscope",
+    "keywords": [
+      "microscope"
+    ]
+  },
+  "1F52D": {
+    "short_name": "telescope",
+    "keywords": [
+      "telescope"
+    ]
+  },
+  "1F52E": {
+    "short_name": "crystal_ball",
+    "keywords": [
+      "crystal_ball"
+    ]
+  },
+  "1F52F": {
+    "short_name": "six_pointed_star",
+    "keywords": [
+      "six_pointed_star"
+    ]
+  },
+  "1F530": {
+    "short_name": "beginner",
+    "keywords": [
+      "beginner"
+    ]
+  },
+  "1F531": {
+    "short_name": "trident",
+    "keywords": [
+      "trident"
+    ]
+  },
+  "1F532": {
+    "short_name": "black_square_button",
+    "keywords": [
+      "black_square_button"
+    ]
+  },
+  "1F533": {
+    "short_name": "white_square_button",
+    "keywords": [
+      "white_square_button"
+    ]
+  },
+  "1F534": {
+    "short_name": "red_circle",
+    "keywords": [
+      "red_circle"
+    ]
+  },
+  "1F535": {
+    "short_name": "large_blue_circle",
+    "keywords": [
+      "large_blue_circle"
+    ]
+  },
+  "1F536": {
+    "short_name": "large_orange_diamond",
+    "keywords": [
+      "large_orange_diamond"
+    ]
+  },
+  "1F537": {
+    "short_name": "large_blue_diamond",
+    "keywords": [
+      "large_blue_diamond"
+    ]
+  },
+  "1F538": {
+    "short_name": "small_orange_diamond",
+    "keywords": [
+      "small_orange_diamond"
+    ]
+  },
+  "1F539": {
+    "short_name": "small_blue_diamond",
+    "keywords": [
+      "small_blue_diamond"
+    ]
+  },
+  "1F53A": {
+    "short_name": "small_red_triangle",
+    "keywords": [
+      "small_red_triangle"
+    ]
+  },
+  "1F53B": {
+    "short_name": "small_red_triangle_down",
+    "keywords": [
+      "small_red_triangle_down"
+    ]
+  },
+  "1F53C": {
+    "short_name": "arrow_up_small",
+    "keywords": [
+      "arrow_up_small"
+    ]
+  },
+  "1F53D": {
+    "short_name": "arrow_down_small",
+    "keywords": [
+      "arrow_down_small"
+    ]
+  },
+  "1F549-FE0F": {
+    "short_name": "om_symbol",
+    "keywords": [
+      "om_symbol"
+    ]
+  },
+  "1F54A-FE0F": {
+    "short_name": "dove_of_peace",
+    "keywords": [
+      "dove_of_peace"
+    ]
+  },
+  "1F54B": {
+    "short_name": "kaaba",
+    "keywords": [
+      "kaaba"
+    ]
+  },
+  "1F54C": {
+    "short_name": "mosque",
+    "keywords": [
+      "mosque"
+    ]
+  },
+  "1F54D": {
+    "short_name": "synagogue",
+    "keywords": [
+      "synagogue"
+    ]
+  },
+  "1F54E": {
+    "short_name": "menorah_with_nine_branches",
+    "keywords": [
+      "menorah_with_nine_branches"
+    ]
+  },
+  "1F550": {
+    "short_name": "clock1",
+    "keywords": [
+      "clock1"
+    ]
+  },
+  "1F551": {
+    "short_name": "clock2",
+    "keywords": [
+      "clock2"
+    ]
+  },
+  "1F552": {
+    "short_name": "clock3",
+    "keywords": [
+      "clock3"
+    ]
+  },
+  "1F553": {
+    "short_name": "clock4",
+    "keywords": [
+      "clock4"
+    ]
+  },
+  "1F554": {
+    "short_name": "clock5",
+    "keywords": [
+      "clock5"
+    ]
+  },
+  "1F555": {
+    "short_name": "clock6",
+    "keywords": [
+      "clock6"
+    ]
+  },
+  "1F556": {
+    "short_name": "clock7",
+    "keywords": [
+      "clock7"
+    ]
+  },
+  "1F557": {
+    "short_name": "clock8",
+    "keywords": [
+      "clock8"
+    ]
+  },
+  "1F558": {
+    "short_name": "clock9",
+    "keywords": [
+      "clock9"
+    ]
+  },
+  "1F559": {
+    "short_name": "clock10",
+    "keywords": [
+      "clock10"
+    ]
+  },
+  "1F55A": {
+    "short_name": "clock11",
+    "keywords": [
+      "clock11"
+    ]
+  },
+  "1F55B": {
+    "short_name": "clock12",
+    "keywords": [
+      "clock12"
+    ]
+  },
+  "1F55C": {
+    "short_name": "clock130",
+    "keywords": [
+      "clock130"
+    ]
+  },
+  "1F55D": {
+    "short_name": "clock230",
+    "keywords": [
+      "clock230"
+    ]
+  },
+  "1F55E": {
+    "short_name": "clock330",
+    "keywords": [
+      "clock330"
+    ]
+  },
+  "1F55F": {
+    "short_name": "clock430",
+    "keywords": [
+      "clock430"
+    ]
+  },
+  "1F560": {
+    "short_name": "clock530",
+    "keywords": [
+      "clock530"
+    ]
+  },
+  "1F561": {
+    "short_name": "clock630",
+    "keywords": [
+      "clock630"
+    ]
+  },
+  "1F562": {
+    "short_name": "clock730",
+    "keywords": [
+      "clock730"
+    ]
+  },
+  "1F563": {
+    "short_name": "clock830",
+    "keywords": [
+      "clock830"
+    ]
+  },
+  "1F564": {
+    "short_name": "clock930",
+    "keywords": [
+      "clock930"
+    ]
+  },
+  "1F565": {
+    "short_name": "clock1030",
+    "keywords": [
+      "clock1030"
+    ]
+  },
+  "1F566": {
+    "short_name": "clock1130",
+    "keywords": [
+      "clock1130"
+    ]
+  },
+  "1F567": {
+    "short_name": "clock1230",
+    "keywords": [
+      "clock1230"
+    ]
+  },
+  "1F56F-FE0F": {
+    "short_name": "candle",
+    "keywords": [
+      "candle"
+    ]
+  },
+  "1F570-FE0F": {
+    "short_name": "mantelpiece_clock",
+    "keywords": [
+      "mantelpiece_clock"
+    ]
+  },
+  "1F573-FE0F": {
+    "short_name": "hole",
+    "keywords": [
+      "hole"
+    ]
+  },
+  "1F574-FE0F": {
+    "short_name": "man_in_business_suit_levitating",
+    "keywords": [
+      "man_in_business_suit_levitating"
+    ]
+  },
+  "1F575-FE0F-200D-2640-FE0F": {
+    "short_name": "female-detective",
+    "keywords": [
+      "female-detective"
+    ]
+  },
+  "1F575-FE0F-200D-2642-FE0F": {
+    "short_name": "male-detective",
+    "keywords": [
+      "male-detective"
+    ]
+  },
+  "1F575-FE0F": {
+    "short_name": "sleuth_or_spy",
+    "keywords": [
+      "sleuth_or_spy"
+    ]
+  },
+  "1F576-FE0F": {
+    "short_name": "dark_sunglasses",
+    "keywords": [
+      "dark_sunglasses"
+    ]
+  },
+  "1F577-FE0F": {
+    "short_name": "spider",
+    "keywords": [
+      "spider"
+    ]
+  },
+  "1F578-FE0F": {
+    "short_name": "spider_web",
+    "keywords": [
+      "spider_web"
+    ]
+  },
+  "1F579-FE0F": {
+    "short_name": "joystick",
+    "keywords": [
+      "joystick"
+    ]
+  },
+  "1F57A": {
+    "short_name": "man_dancing",
+    "keywords": [
+      "man_dancing"
+    ]
+  },
+  "1F587-FE0F": {
+    "short_name": "linked_paperclips",
+    "keywords": [
+      "linked_paperclips"
+    ]
+  },
+  "1F58A-FE0F": {
+    "short_name": "lower_left_ballpoint_pen",
+    "keywords": [
+      "lower_left_ballpoint_pen"
+    ]
+  },
+  "1F58B-FE0F": {
+    "short_name": "lower_left_fountain_pen",
+    "keywords": [
+      "lower_left_fountain_pen"
+    ]
+  },
+  "1F58C-FE0F": {
+    "short_name": "lower_left_paintbrush",
+    "keywords": [
+      "lower_left_paintbrush"
+    ]
+  },
+  "1F58D-FE0F": {
+    "short_name": "lower_left_crayon",
+    "keywords": [
+      "lower_left_crayon"
+    ]
+  },
+  "1F590-FE0F": {
+    "short_name": "raised_hand_with_fingers_splayed",
+    "keywords": [
+      "raised_hand_with_fingers_splayed"
+    ]
+  },
+  "1F595": {
+    "short_name": "middle_finger",
+    "keywords": [
+      "middle_finger",
+      "reversed_hand_with_middle_finger_extended"
+    ]
+  },
+  "1F596": {
+    "short_name": "spock-hand",
+    "keywords": [
+      "spock-hand"
+    ]
+  },
+  "1F5A4": {
+    "short_name": "black_heart",
+    "keywords": [
+      "black_heart"
+    ]
+  },
+  "1F5A5-FE0F": {
+    "short_name": "desktop_computer",
+    "keywords": [
+      "desktop_computer"
+    ]
+  },
+  "1F5A8-FE0F": {
+    "short_name": "printer",
+    "keywords": [
+      "printer"
+    ]
+  },
+  "1F5B1-FE0F": {
+    "short_name": "three_button_mouse",
+    "keywords": [
+      "three_button_mouse"
+    ]
+  },
+  "1F5B2-FE0F": {
+    "short_name": "trackball",
+    "keywords": [
+      "trackball"
+    ]
+  },
+  "1F5BC-FE0F": {
+    "short_name": "frame_with_picture",
+    "keywords": [
+      "frame_with_picture"
+    ]
+  },
+  "1F5C2-FE0F": {
+    "short_name": "card_index_dividers",
+    "keywords": [
+      "card_index_dividers"
+    ]
+  },
+  "1F5C3-FE0F": {
+    "short_name": "card_file_box",
+    "keywords": [
+      "card_file_box"
+    ]
+  },
+  "1F5C4-FE0F": {
+    "short_name": "file_cabinet",
+    "keywords": [
+      "file_cabinet"
+    ]
+  },
+  "1F5D1-FE0F": {
+    "short_name": "wastebasket",
+    "keywords": [
+      "wastebasket"
+    ]
+  },
+  "1F5D2-FE0F": {
+    "short_name": "spiral_note_pad",
+    "keywords": [
+      "spiral_note_pad"
+    ]
+  },
+  "1F5D3-FE0F": {
+    "short_name": "spiral_calendar_pad",
+    "keywords": [
+      "spiral_calendar_pad"
+    ]
+  },
+  "1F5DC-FE0F": {
+    "short_name": "compression",
+    "keywords": [
+      "compression"
+    ]
+  },
+  "1F5DD-FE0F": {
+    "short_name": "old_key",
+    "keywords": [
+      "old_key"
+    ]
+  },
+  "1F5DE-FE0F": {
+    "short_name": "rolled_up_newspaper",
+    "keywords": [
+      "rolled_up_newspaper"
+    ]
+  },
+  "1F5E1-FE0F": {
+    "short_name": "dagger_knife",
+    "keywords": [
+      "dagger_knife"
+    ]
+  },
+  "1F5E3-FE0F": {
+    "short_name": "speaking_head_in_silhouette",
+    "keywords": [
+      "speaking_head_in_silhouette"
+    ]
+  },
+  "1F5E8-FE0F": {
+    "short_name": "left_speech_bubble",
+    "keywords": [
+      "left_speech_bubble"
+    ]
+  },
+  "1F5EF-FE0F": {
+    "short_name": "right_anger_bubble",
+    "keywords": [
+      "right_anger_bubble"
+    ]
+  },
+  "1F5F3-FE0F": {
+    "short_name": "ballot_box_with_ballot",
+    "keywords": [
+      "ballot_box_with_ballot"
+    ]
+  },
+  "1F5FA-FE0F": {
+    "short_name": "world_map",
+    "keywords": [
+      "world_map"
+    ]
+  },
+  "1F5FB": {
+    "short_name": "mount_fuji",
+    "keywords": [
+      "mount_fuji"
+    ]
+  },
+  "1F5FC": {
+    "short_name": "tokyo_tower",
+    "keywords": [
+      "tokyo_tower"
+    ]
+  },
+  "1F5FD": {
+    "short_name": "statue_of_liberty",
+    "keywords": [
+      "statue_of_liberty"
+    ]
+  },
+  "1F5FE": {
+    "short_name": "japan",
+    "keywords": [
+      "japan"
+    ]
+  },
+  "1F5FF": {
+    "short_name": "moyai",
+    "keywords": [
+      "moyai"
+    ]
+  },
+  "1F600": {
+    "short_name": "grinning",
+    "keywords": [
+      "grinning"
+    ]
+  },
+  "1F601": {
+    "short_name": "grin",
+    "keywords": [
+      "grin"
+    ]
+  },
+  "1F602": {
+    "short_name": "joy",
+    "keywords": [
+      "joy"
+    ]
+  },
+  "1F603": {
+    "short_name": "smiley",
+    "keywords": [
+      "smiley"
+    ]
+  },
+  "1F604": {
+    "short_name": "smile",
+    "keywords": [
+      "smile"
+    ]
+  },
+  "1F605": {
+    "short_name": "sweat_smile",
+    "keywords": [
+      "sweat_smile"
+    ]
+  },
+  "1F606": {
+    "short_name": "laughing",
+    "keywords": [
+      "laughing",
+      "satisfied"
+    ]
+  },
+  "1F607": {
+    "short_name": "innocent",
+    "keywords": [
+      "innocent"
+    ]
+  },
+  "1F608": {
+    "short_name": "smiling_imp",
+    "keywords": [
+      "smiling_imp"
+    ]
+  },
+  "1F609": {
+    "short_name": "wink",
+    "keywords": [
+      "wink"
+    ]
+  },
+  "1F60A": {
+    "short_name": "blush",
+    "keywords": [
+      "blush"
+    ]
+  },
+  "1F60B": {
+    "short_name": "yum",
+    "keywords": [
+      "yum"
+    ]
+  },
+  "1F60C": {
+    "short_name": "relieved",
+    "keywords": [
+      "relieved"
+    ]
+  },
+  "1F60D": {
+    "short_name": "heart_eyes",
+    "keywords": [
+      "heart_eyes"
+    ]
+  },
+  "1F60E": {
+    "short_name": "sunglasses",
+    "keywords": [
+      "sunglasses"
+    ]
+  },
+  "1F60F": {
+    "short_name": "smirk",
+    "keywords": [
+      "smirk"
+    ]
+  },
+  "1F610": {
+    "short_name": "neutral_face",
+    "keywords": [
+      "neutral_face"
+    ]
+  },
+  "1F611": {
+    "short_name": "expressionless",
+    "keywords": [
+      "expressionless"
+    ]
+  },
+  "1F612": {
+    "short_name": "unamused",
+    "keywords": [
+      "unamused"
+    ]
+  },
+  "1F613": {
+    "short_name": "sweat",
+    "keywords": [
+      "sweat"
+    ]
+  },
+  "1F614": {
+    "short_name": "pensive",
+    "keywords": [
+      "pensive"
+    ]
+  },
+  "1F615": {
+    "short_name": "confused",
+    "keywords": [
+      "confused"
+    ]
+  },
+  "1F616": {
+    "short_name": "confounded",
+    "keywords": [
+      "confounded"
+    ]
+  },
+  "1F617": {
+    "short_name": "kissing",
+    "keywords": [
+      "kissing"
+    ]
+  },
+  "1F618": {
+    "short_name": "kissing_heart",
+    "keywords": [
+      "kissing_heart"
+    ]
+  },
+  "1F619": {
+    "short_name": "kissing_smiling_eyes",
+    "keywords": [
+      "kissing_smiling_eyes"
+    ]
+  },
+  "1F61A": {
+    "short_name": "kissing_closed_eyes",
+    "keywords": [
+      "kissing_closed_eyes"
+    ]
+  },
+  "1F61B": {
+    "short_name": "stuck_out_tongue",
+    "keywords": [
+      "stuck_out_tongue"
+    ]
+  },
+  "1F61C": {
+    "short_name": "stuck_out_tongue_winking_eye",
+    "keywords": [
+      "stuck_out_tongue_winking_eye"
+    ]
+  },
+  "1F61D": {
+    "short_name": "stuck_out_tongue_closed_eyes",
+    "keywords": [
+      "stuck_out_tongue_closed_eyes"
+    ]
+  },
+  "1F61E": {
+    "short_name": "disappointed",
+    "keywords": [
+      "disappointed"
+    ]
+  },
+  "1F61F": {
+    "short_name": "worried",
+    "keywords": [
+      "worried"
+    ]
+  },
+  "1F620": {
+    "short_name": "angry",
+    "keywords": [
+      "angry"
+    ]
+  },
+  "1F621": {
+    "short_name": "rage",
+    "keywords": [
+      "rage"
+    ]
+  },
+  "1F622": {
+    "short_name": "cry",
+    "keywords": [
+      "cry"
+    ]
+  },
+  "1F623": {
+    "short_name": "persevere",
+    "keywords": [
+      "persevere"
+    ]
+  },
+  "1F624": {
+    "short_name": "triumph",
+    "keywords": [
+      "triumph"
+    ]
+  },
+  "1F625": {
+    "short_name": "disappointed_relieved",
+    "keywords": [
+      "disappointed_relieved"
+    ]
+  },
+  "1F626": {
+    "short_name": "frowning",
+    "keywords": [
+      "frowning"
+    ]
+  },
+  "1F627": {
+    "short_name": "anguished",
+    "keywords": [
+      "anguished"
+    ]
+  },
+  "1F628": {
+    "short_name": "fearful",
+    "keywords": [
+      "fearful"
+    ]
+  },
+  "1F629": {
+    "short_name": "weary",
+    "keywords": [
+      "weary"
+    ]
+  },
+  "1F62A": {
+    "short_name": "sleepy",
+    "keywords": [
+      "sleepy"
+    ]
+  },
+  "1F62B": {
+    "short_name": "tired_face",
+    "keywords": [
+      "tired_face"
+    ]
+  },
+  "1F62C": {
+    "short_name": "grimacing",
+    "keywords": [
+      "grimacing"
+    ]
+  },
+  "1F62D": {
+    "short_name": "sob",
+    "keywords": [
+      "sob"
+    ]
+  },
+  "1F62E": {
+    "short_name": "open_mouth",
+    "keywords": [
+      "open_mouth"
+    ]
+  },
+  "1F62F": {
+    "short_name": "hushed",
+    "keywords": [
+      "hushed"
+    ]
+  },
+  "1F630": {
+    "short_name": "cold_sweat",
+    "keywords": [
+      "cold_sweat"
+    ]
+  },
+  "1F631": {
+    "short_name": "scream",
+    "keywords": [
+      "scream"
+    ]
+  },
+  "1F632": {
+    "short_name": "astonished",
+    "keywords": [
+      "astonished"
+    ]
+  },
+  "1F633": {
+    "short_name": "flushed",
+    "keywords": [
+      "flushed"
+    ]
+  },
+  "1F634": {
+    "short_name": "sleeping",
+    "keywords": [
+      "sleeping"
+    ]
+  },
+  "1F635": {
+    "short_name": "dizzy_face",
+    "keywords": [
+      "dizzy_face"
+    ]
+  },
+  "1F636": {
+    "short_name": "no_mouth",
+    "keywords": [
+      "no_mouth"
+    ]
+  },
+  "1F637": {
+    "short_name": "mask",
+    "keywords": [
+      "mask"
+    ]
+  },
+  "1F638": {
+    "short_name": "smile_cat",
+    "keywords": [
+      "smile_cat"
+    ]
+  },
+  "1F639": {
+    "short_name": "joy_cat",
+    "keywords": [
+      "joy_cat"
+    ]
+  },
+  "1F63A": {
+    "short_name": "smiley_cat",
+    "keywords": [
+      "smiley_cat"
+    ]
+  },
+  "1F63B": {
+    "short_name": "heart_eyes_cat",
+    "keywords": [
+      "heart_eyes_cat"
+    ]
+  },
+  "1F63C": {
+    "short_name": "smirk_cat",
+    "keywords": [
+      "smirk_cat"
+    ]
+  },
+  "1F63D": {
+    "short_name": "kissing_cat",
+    "keywords": [
+      "kissing_cat"
+    ]
+  },
+  "1F63E": {
+    "short_name": "pouting_cat",
+    "keywords": [
+      "pouting_cat"
+    ]
+  },
+  "1F63F": {
+    "short_name": "crying_cat_face",
+    "keywords": [
+      "crying_cat_face"
+    ]
+  },
+  "1F640": {
+    "short_name": "scream_cat",
+    "keywords": [
+      "scream_cat"
+    ]
+  },
+  "1F641": {
+    "short_name": "slightly_frowning_face",
+    "keywords": [
+      "slightly_frowning_face"
+    ]
+  },
+  "1F642": {
+    "short_name": "slightly_smiling_face",
+    "keywords": [
+      "slightly_smiling_face"
+    ]
+  },
+  "1F643": {
+    "short_name": "upside_down_face",
+    "keywords": [
+      "upside_down_face"
+    ]
+  },
+  "1F644": {
+    "short_name": "face_with_rolling_eyes",
+    "keywords": [
+      "face_with_rolling_eyes"
+    ]
+  },
+  "1F645-200D-2640-FE0F": {
+    "short_name": "woman-gesturing-no",
+    "keywords": [
+      "woman-gesturing-no"
+    ]
+  },
+  "1F645-200D-2642-FE0F": {
+    "short_name": "man-gesturing-no",
+    "keywords": [
+      "man-gesturing-no"
+    ]
+  },
+  "1F645": {
+    "short_name": "no_good",
+    "keywords": [
+      "no_good"
+    ]
+  },
+  "1F646-200D-2640-FE0F": {
+    "short_name": "woman-gesturing-ok",
+    "keywords": [
+      "woman-gesturing-ok"
+    ]
+  },
+  "1F646-200D-2642-FE0F": {
+    "short_name": "man-gesturing-ok",
+    "keywords": [
+      "man-gesturing-ok"
+    ]
+  },
+  "1F646": {
+    "short_name": "ok_woman",
+    "keywords": [
+      "ok_woman"
+    ]
+  },
+  "1F647-200D-2640-FE0F": {
+    "short_name": "woman-bowing",
+    "keywords": [
+      "woman-bowing"
+    ]
+  },
+  "1F647-200D-2642-FE0F": {
+    "short_name": "man-bowing",
+    "keywords": [
+      "man-bowing"
+    ]
+  },
+  "1F647": {
+    "short_name": "bow",
+    "keywords": [
+      "bow"
+    ]
+  },
+  "1F648": {
+    "short_name": "see_no_evil",
+    "keywords": [
+      "see_no_evil"
+    ]
+  },
+  "1F649": {
+    "short_name": "hear_no_evil",
+    "keywords": [
+      "hear_no_evil"
+    ]
+  },
+  "1F64A": {
+    "short_name": "speak_no_evil",
+    "keywords": [
+      "speak_no_evil"
+    ]
+  },
+  "1F64B-200D-2640-FE0F": {
+    "short_name": "woman-raising-hand",
+    "keywords": [
+      "woman-raising-hand"
+    ]
+  },
+  "1F64B-200D-2642-FE0F": {
+    "short_name": "man-raising-hand",
+    "keywords": [
+      "man-raising-hand"
+    ]
+  },
+  "1F64B": {
+    "short_name": "raising_hand",
+    "keywords": [
+      "raising_hand"
+    ]
+  },
+  "1F64C": {
+    "short_name": "raised_hands",
+    "keywords": [
+      "raised_hands"
+    ]
+  },
+  "1F64D-200D-2640-FE0F": {
+    "short_name": "woman-frowning",
+    "keywords": [
+      "woman-frowning"
+    ]
+  },
+  "1F64D-200D-2642-FE0F": {
+    "short_name": "man-frowning",
+    "keywords": [
+      "man-frowning"
+    ]
+  },
+  "1F64D": {
+    "short_name": "person_frowning",
+    "keywords": [
+      "person_frowning"
+    ]
+  },
+  "1F64E-200D-2640-FE0F": {
+    "short_name": "woman-pouting",
+    "keywords": [
+      "woman-pouting"
+    ]
+  },
+  "1F64E-200D-2642-FE0F": {
+    "short_name": "man-pouting",
+    "keywords": [
+      "man-pouting"
+    ]
+  },
+  "1F64E": {
+    "short_name": "person_with_pouting_face",
+    "keywords": [
+      "person_with_pouting_face"
+    ]
+  },
+  "1F64F": {
+    "short_name": "pray",
+    "keywords": [
+      "pray"
+    ]
+  },
+  "1F680": {
+    "short_name": "rocket",
+    "keywords": [
+      "rocket"
+    ]
+  },
+  "1F681": {
+    "short_name": "helicopter",
+    "keywords": [
+      "helicopter"
+    ]
+  },
+  "1F682": {
+    "short_name": "steam_locomotive",
+    "keywords": [
+      "steam_locomotive"
+    ]
+  },
+  "1F683": {
+    "short_name": "railway_car",
+    "keywords": [
+      "railway_car"
+    ]
+  },
+  "1F684": {
+    "short_name": "bullettrain_side",
+    "keywords": [
+      "bullettrain_side"
+    ]
+  },
+  "1F685": {
+    "short_name": "bullettrain_front",
+    "keywords": [
+      "bullettrain_front"
+    ]
+  },
+  "1F686": {
+    "short_name": "train2",
+    "keywords": [
+      "train2"
+    ]
+  },
+  "1F687": {
+    "short_name": "metro",
+    "keywords": [
+      "metro"
+    ]
+  },
+  "1F688": {
+    "short_name": "light_rail",
+    "keywords": [
+      "light_rail"
+    ]
+  },
+  "1F689": {
+    "short_name": "station",
+    "keywords": [
+      "station"
+    ]
+  },
+  "1F68A": {
+    "short_name": "tram",
+    "keywords": [
+      "tram"
+    ]
+  },
+  "1F68B": {
+    "short_name": "train",
+    "keywords": [
+      "train"
+    ]
+  },
+  "1F68C": {
+    "short_name": "bus",
+    "keywords": [
+      "bus"
+    ]
+  },
+  "1F68D": {
+    "short_name": "oncoming_bus",
+    "keywords": [
+      "oncoming_bus"
+    ]
+  },
+  "1F68E": {
+    "short_name": "trolleybus",
+    "keywords": [
+      "trolleybus"
+    ]
+  },
+  "1F68F": {
+    "short_name": "busstop",
+    "keywords": [
+      "busstop"
+    ]
+  },
+  "1F690": {
+    "short_name": "minibus",
+    "keywords": [
+      "minibus"
+    ]
+  },
+  "1F691": {
+    "short_name": "ambulance",
+    "keywords": [
+      "ambulance"
+    ]
+  },
+  "1F692": {
+    "short_name": "fire_engine",
+    "keywords": [
+      "fire_engine"
+    ]
+  },
+  "1F693": {
+    "short_name": "police_car",
+    "keywords": [
+      "police_car"
+    ]
+  },
+  "1F694": {
+    "short_name": "oncoming_police_car",
+    "keywords": [
+      "oncoming_police_car"
+    ]
+  },
+  "1F695": {
+    "short_name": "taxi",
+    "keywords": [
+      "taxi"
+    ]
+  },
+  "1F696": {
+    "short_name": "oncoming_taxi",
+    "keywords": [
+      "oncoming_taxi"
+    ]
+  },
+  "1F697": {
+    "short_name": "car",
+    "keywords": [
+      "car",
+      "red_car"
+    ]
+  },
+  "1F698": {
+    "short_name": "oncoming_automobile",
+    "keywords": [
+      "oncoming_automobile"
+    ]
+  },
+  "1F699": {
+    "short_name": "blue_car",
+    "keywords": [
+      "blue_car"
+    ]
+  },
+  "1F69A": {
+    "short_name": "truck",
+    "keywords": [
+      "truck"
+    ]
+  },
+  "1F69B": {
+    "short_name": "articulated_lorry",
+    "keywords": [
+      "articulated_lorry"
+    ]
+  },
+  "1F69C": {
+    "short_name": "tractor",
+    "keywords": [
+      "tractor"
+    ]
+  },
+  "1F69D": {
+    "short_name": "monorail",
+    "keywords": [
+      "monorail"
+    ]
+  },
+  "1F69E": {
+    "short_name": "mountain_railway",
+    "keywords": [
+      "mountain_railway"
+    ]
+  },
+  "1F69F": {
+    "short_name": "suspension_railway",
+    "keywords": [
+      "suspension_railway"
+    ]
+  },
+  "1F6A0": {
+    "short_name": "mountain_cableway",
+    "keywords": [
+      "mountain_cableway"
+    ]
+  },
+  "1F6A1": {
+    "short_name": "aerial_tramway",
+    "keywords": [
+      "aerial_tramway"
+    ]
+  },
+  "1F6A2": {
+    "short_name": "ship",
+    "keywords": [
+      "ship"
+    ]
+  },
+  "1F6A3-200D-2640-FE0F": {
+    "short_name": "woman-rowing-boat",
+    "keywords": [
+      "woman-rowing-boat"
+    ]
+  },
+  "1F6A3-200D-2642-FE0F": {
+    "short_name": "man-rowing-boat",
+    "keywords": [
+      "man-rowing-boat"
+    ]
+  },
+  "1F6A3": {
+    "short_name": "rowboat",
+    "keywords": [
+      "rowboat"
+    ]
+  },
+  "1F6A4": {
+    "short_name": "speedboat",
+    "keywords": [
+      "speedboat"
+    ]
+  },
+  "1F6A5": {
+    "short_name": "traffic_light",
+    "keywords": [
+      "traffic_light"
+    ]
+  },
+  "1F6A6": {
+    "short_name": "vertical_traffic_light",
+    "keywords": [
+      "vertical_traffic_light"
+    ]
+  },
+  "1F6A7": {
+    "short_name": "construction",
+    "keywords": [
+      "construction"
+    ]
+  },
+  "1F6A8": {
+    "short_name": "rotating_light",
+    "keywords": [
+      "rotating_light"
+    ]
+  },
+  "1F6A9": {
+    "short_name": "triangular_flag_on_post",
+    "keywords": [
+      "triangular_flag_on_post"
+    ]
+  },
+  "1F6AA": {
+    "short_name": "door",
+    "keywords": [
+      "door"
+    ]
+  },
+  "1F6AB": {
+    "short_name": "no_entry_sign",
+    "keywords": [
+      "no_entry_sign"
+    ]
+  },
+  "1F6AC": {
+    "short_name": "smoking",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  "1F6AD": {
+    "short_name": "no_smoking",
+    "keywords": [
+      "no_smoking"
+    ]
+  },
+  "1F6AE": {
+    "short_name": "put_litter_in_its_place",
+    "keywords": [
+      "put_litter_in_its_place"
+    ]
+  },
+  "1F6AF": {
+    "short_name": "do_not_litter",
+    "keywords": [
+      "do_not_litter"
+    ]
+  },
+  "1F6B0": {
+    "short_name": "potable_water",
+    "keywords": [
+      "potable_water"
+    ]
+  },
+  "1F6B1": {
+    "short_name": "non-potable_water",
+    "keywords": [
+      "non-potable_water"
+    ]
+  },
+  "1F6B2": {
+    "short_name": "bike",
+    "keywords": [
+      "bike"
+    ]
+  },
+  "1F6B3": {
+    "short_name": "no_bicycles",
+    "keywords": [
+      "no_bicycles"
+    ]
+  },
+  "1F6B4-200D-2640-FE0F": {
+    "short_name": "woman-biking",
+    "keywords": [
+      "woman-biking"
+    ]
+  },
+  "1F6B4-200D-2642-FE0F": {
+    "short_name": "man-biking",
+    "keywords": [
+      "man-biking"
+    ]
+  },
+  "1F6B4": {
+    "short_name": "bicyclist",
+    "keywords": [
+      "bicyclist"
+    ]
+  },
+  "1F6B5-200D-2640-FE0F": {
+    "short_name": "woman-mountain-biking",
+    "keywords": [
+      "woman-mountain-biking"
+    ]
+  },
+  "1F6B5-200D-2642-FE0F": {
+    "short_name": "man-mountain-biking",
+    "keywords": [
+      "man-mountain-biking"
+    ]
+  },
+  "1F6B5": {
+    "short_name": "mountain_bicyclist",
+    "keywords": [
+      "mountain_bicyclist"
+    ]
+  },
+  "1F6B6-200D-2640-FE0F": {
+    "short_name": "woman-walking",
+    "keywords": [
+      "woman-walking"
+    ]
+  },
+  "1F6B6-200D-2642-FE0F": {
+    "short_name": "man-walking",
+    "keywords": [
+      "man-walking"
+    ]
+  },
+  "1F6B6": {
+    "short_name": "walking",
+    "keywords": [
+      "walking"
+    ]
+  },
+  "1F6B7": {
+    "short_name": "no_pedestrians",
+    "keywords": [
+      "no_pedestrians"
+    ]
+  },
+  "1F6B8": {
+    "short_name": "children_crossing",
+    "keywords": [
+      "children_crossing"
+    ]
+  },
+  "1F6B9": {
+    "short_name": "mens",
+    "keywords": [
+      "mens"
+    ]
+  },
+  "1F6BA": {
+    "short_name": "womens",
+    "keywords": [
+      "womens"
+    ]
+  },
+  "1F6BB": {
+    "short_name": "restroom",
+    "keywords": [
+      "restroom"
+    ]
+  },
+  "1F6BC": {
+    "short_name": "baby_symbol",
+    "keywords": [
+      "baby_symbol"
+    ]
+  },
+  "1F6BD": {
+    "short_name": "toilet",
+    "keywords": [
+      "toilet"
+    ]
+  },
+  "1F6BE": {
+    "short_name": "wc",
+    "keywords": [
+      "wc"
+    ]
+  },
+  "1F6BF": {
+    "short_name": "shower",
+    "keywords": [
+      "shower"
+    ]
+  },
+  "1F6C0": {
+    "short_name": "bath",
+    "keywords": [
+      "bath"
+    ]
+  },
+  "1F6C1": {
+    "short_name": "bathtub",
+    "keywords": [
+      "bathtub"
+    ]
+  },
+  "1F6C2": {
+    "short_name": "passport_control",
+    "keywords": [
+      "passport_control"
+    ]
+  },
+  "1F6C3": {
+    "short_name": "customs",
+    "keywords": [
+      "customs"
+    ]
+  },
+  "1F6C4": {
+    "short_name": "baggage_claim",
+    "keywords": [
+      "baggage_claim"
+    ]
+  },
+  "1F6C5": {
+    "short_name": "left_luggage",
+    "keywords": [
+      "left_luggage"
+    ]
+  },
+  "1F6CB-FE0F": {
+    "short_name": "couch_and_lamp",
+    "keywords": [
+      "couch_and_lamp"
+    ]
+  },
+  "1F6CC": {
+    "short_name": "sleeping_accommodation",
+    "keywords": [
+      "sleeping_accommodation"
+    ]
+  },
+  "1F6CD-FE0F": {
+    "short_name": "shopping_bags",
+    "keywords": [
+      "shopping_bags"
+    ]
+  },
+  "1F6CE-FE0F": {
+    "short_name": "bellhop_bell",
+    "keywords": [
+      "bellhop_bell"
+    ]
+  },
+  "1F6CF-FE0F": {
+    "short_name": "bed",
+    "keywords": [
+      "bed"
+    ]
+  },
+  "1F6D0": {
+    "short_name": "place_of_worship",
+    "keywords": [
+      "place_of_worship"
+    ]
+  },
+  "1F6D1": {
+    "short_name": "octagonal_sign",
+    "keywords": [
+      "octagonal_sign"
+    ]
+  },
+  "1F6D2": {
+    "short_name": "shopping_trolley",
+    "keywords": [
+      "shopping_trolley"
+    ]
+  },
+  "1F6E0-FE0F": {
+    "short_name": "hammer_and_wrench",
+    "keywords": [
+      "hammer_and_wrench"
+    ]
+  },
+  "1F6E1-FE0F": {
+    "short_name": "shield",
+    "keywords": [
+      "shield"
+    ]
+  },
+  "1F6E2-FE0F": {
+    "short_name": "oil_drum",
+    "keywords": [
+      "oil_drum"
+    ]
+  },
+  "1F6E3-FE0F": {
+    "short_name": "motorway",
+    "keywords": [
+      "motorway"
+    ]
+  },
+  "1F6E4-FE0F": {
+    "short_name": "railway_track",
+    "keywords": [
+      "railway_track"
+    ]
+  },
+  "1F6E5-FE0F": {
+    "short_name": "motor_boat",
+    "keywords": [
+      "motor_boat"
+    ]
+  },
+  "1F6E9-FE0F": {
+    "short_name": "small_airplane",
+    "keywords": [
+      "small_airplane"
+    ]
+  },
+  "1F6EB": {
+    "short_name": "airplane_departure",
+    "keywords": [
+      "airplane_departure"
+    ]
+  },
+  "1F6EC": {
+    "short_name": "airplane_arriving",
+    "keywords": [
+      "airplane_arriving"
+    ]
+  },
+  "1F6F0-FE0F": {
+    "short_name": "satellite",
+    "keywords": [
+      "satellite"
+    ]
+  },
+  "1F6F3-FE0F": {
+    "short_name": "passenger_ship",
+    "keywords": [
+      "passenger_ship"
+    ]
+  },
+  "1F6F4": {
+    "short_name": "scooter",
+    "keywords": [
+      "scooter"
+    ]
+  },
+  "1F6F5": {
+    "short_name": "motor_scooter",
+    "keywords": [
+      "motor_scooter"
+    ]
+  },
+  "1F6F6": {
+    "short_name": "canoe",
+    "keywords": [
+      "canoe"
+    ]
+  },
+  "1F6F7": {
+    "short_name": "sled",
+    "keywords": [
+      "sled"
+    ]
+  },
+  "1F6F8": {
+    "short_name": "flying_saucer",
+    "keywords": [
+      "flying_saucer"
+    ]
+  },
+  "1F910": {
+    "short_name": "zipper_mouth_face",
+    "keywords": [
+      "zipper_mouth_face"
+    ]
+  },
+  "1F911": {
+    "short_name": "money_mouth_face",
+    "keywords": [
+      "money_mouth_face"
+    ]
+  },
+  "1F912": {
+    "short_name": "face_with_thermometer",
+    "keywords": [
+      "face_with_thermometer"
+    ]
+  },
+  "1F913": {
+    "short_name": "nerd_face",
+    "keywords": [
+      "nerd_face"
+    ]
+  },
+  "1F914": {
+    "short_name": "thinking_face",
+    "keywords": [
+      "thinking_face"
+    ]
+  },
+  "1F915": {
+    "short_name": "face_with_head_bandage",
+    "keywords": [
+      "face_with_head_bandage"
+    ]
+  },
+  "1F916": {
+    "short_name": "robot_face",
+    "keywords": [
+      "robot_face"
+    ]
+  },
+  "1F917": {
+    "short_name": "hugging_face",
+    "keywords": [
+      "hugging_face"
+    ]
+  },
+  "1F918": {
+    "short_name": "the_horns",
+    "keywords": [
+      "the_horns",
+      "sign_of_the_horns"
+    ]
+  },
+  "1F919": {
+    "short_name": "call_me_hand",
+    "keywords": [
+      "call_me_hand"
+    ]
+  },
+  "1F91A": {
+    "short_name": "raised_back_of_hand",
+    "keywords": [
+      "raised_back_of_hand"
+    ]
+  },
+  "1F91B": {
+    "short_name": "left-facing_fist",
+    "keywords": [
+      "left-facing_fist"
+    ]
+  },
+  "1F91C": {
+    "short_name": "right-facing_fist",
+    "keywords": [
+      "right-facing_fist"
+    ]
+  },
+  "1F91D": {
+    "short_name": "handshake",
+    "keywords": [
+      "handshake"
+    ]
+  },
+  "1F91E": {
+    "short_name": "crossed_fingers",
+    "keywords": [
+      "crossed_fingers",
+      "hand_with_index_and_middle_fingers_crossed"
+    ]
+  },
+  "1F91F": {
+    "short_name": "i_love_you_hand_sign",
+    "keywords": [
+      "i_love_you_hand_sign"
+    ]
+  },
+  "1F920": {
+    "short_name": "face_with_cowboy_hat",
+    "keywords": [
+      "face_with_cowboy_hat"
+    ]
+  },
+  "1F921": {
+    "short_name": "clown_face",
+    "keywords": [
+      "clown_face"
+    ]
+  },
+  "1F922": {
+    "short_name": "nauseated_face",
+    "keywords": [
+      "nauseated_face"
+    ]
+  },
+  "1F923": {
+    "short_name": "rolling_on_the_floor_laughing",
+    "keywords": [
+      "rolling_on_the_floor_laughing"
+    ]
+  },
+  "1F924": {
+    "short_name": "drooling_face",
+    "keywords": [
+      "drooling_face"
+    ]
+  },
+  "1F925": {
+    "short_name": "lying_face",
+    "keywords": [
+      "lying_face"
+    ]
+  },
+  "1F926-200D-2640-FE0F": {
+    "short_name": "woman-facepalming",
+    "keywords": [
+      "woman-facepalming"
+    ]
+  },
+  "1F926-200D-2642-FE0F": {
+    "short_name": "man-facepalming",
+    "keywords": [
+      "man-facepalming"
+    ]
+  },
+  "1F926": {
+    "short_name": "face_palm",
+    "keywords": [
+      "face_palm"
+    ]
+  },
+  "1F927": {
+    "short_name": "sneezing_face",
+    "keywords": [
+      "sneezing_face"
+    ]
+  },
+  "1F928": {
+    "short_name": "face_with_raised_eyebrow",
+    "keywords": [
+      "face_with_raised_eyebrow",
+      "face_with_one_eyebrow_raised"
+    ]
+  },
+  "1F929": {
+    "short_name": "star-struck",
+    "keywords": [
+      "star-struck",
+      "grinning_face_with_star_eyes"
+    ]
+  },
+  "1F92A": {
+    "short_name": "zany_face",
+    "keywords": [
+      "zany_face",
+      "grinning_face_with_one_large_and_one_small_eye"
+    ]
+  },
+  "1F92B": {
+    "short_name": "shushing_face",
+    "keywords": [
+      "shushing_face",
+      "face_with_finger_covering_closed_lips"
+    ]
+  },
+  "1F92C": {
+    "short_name": "face_with_symbols_on_mouth",
+    "keywords": [
+      "face_with_symbols_on_mouth",
+      "serious_face_with_symbols_covering_mouth"
+    ]
+  },
+  "1F92D": {
+    "short_name": "face_with_hand_over_mouth",
+    "keywords": [
+      "face_with_hand_over_mouth",
+      "smiling_face_with_smiling_eyes_and_hand_covering_mouth"
+    ]
+  },
+  "1F92E": {
+    "short_name": "face_vomiting",
+    "keywords": [
+      "face_vomiting",
+      "face_with_open_mouth_vomiting"
+    ]
+  },
+  "1F92F": {
+    "short_name": "exploding_head",
+    "keywords": [
+      "exploding_head",
+      "shocked_face_with_exploding_head"
+    ]
+  },
+  "1F930": {
+    "short_name": "pregnant_woman",
+    "keywords": [
+      "pregnant_woman"
+    ]
+  },
+  "1F931": {
+    "short_name": "breast-feeding",
+    "keywords": [
+      "breast-feeding"
+    ]
+  },
+  "1F932": {
+    "short_name": "palms_up_together",
+    "keywords": [
+      "palms_up_together"
+    ]
+  },
+  "1F933": {
+    "short_name": "selfie",
+    "keywords": [
+      "selfie"
+    ]
+  },
+  "1F934": {
+    "short_name": "prince",
+    "keywords": [
+      "prince"
+    ]
+  },
+  "1F935": {
+    "short_name": "man_in_tuxedo",
+    "keywords": [
+      "man_in_tuxedo"
+    ]
+  },
+  "1F936": {
+    "short_name": "mrs_claus",
+    "keywords": [
+      "mrs_claus",
+      "mother_christmas"
+    ]
+  },
+  "1F937-200D-2640-FE0F": {
+    "short_name": "woman-shrugging",
+    "keywords": [
+      "woman-shrugging"
+    ]
+  },
+  "1F937-200D-2642-FE0F": {
+    "short_name": "man-shrugging",
+    "keywords": [
+      "man-shrugging"
+    ]
+  },
+  "1F937": {
+    "short_name": "shrug",
+    "keywords": [
+      "shrug"
+    ]
+  },
+  "1F938-200D-2640-FE0F": {
+    "short_name": "woman-cartwheeling",
+    "keywords": [
+      "woman-cartwheeling"
+    ]
+  },
+  "1F938-200D-2642-FE0F": {
+    "short_name": "man-cartwheeling",
+    "keywords": [
+      "man-cartwheeling"
+    ]
+  },
+  "1F938": {
+    "short_name": "person_doing_cartwheel",
+    "keywords": [
+      "person_doing_cartwheel"
+    ]
+  },
+  "1F939-200D-2640-FE0F": {
+    "short_name": "woman-juggling",
+    "keywords": [
+      "woman-juggling"
+    ]
+  },
+  "1F939-200D-2642-FE0F": {
+    "short_name": "man-juggling",
+    "keywords": [
+      "man-juggling"
+    ]
+  },
+  "1F939": {
+    "short_name": "juggling",
+    "keywords": [
+      "juggling"
+    ]
+  },
+  "1F93A": {
+    "short_name": "fencer",
+    "keywords": [
+      "fencer"
+    ]
+  },
+  "1F93C-200D-2640-FE0F": {
+    "short_name": "woman-wrestling",
+    "keywords": [
+      "woman-wrestling"
+    ]
+  },
+  "1F93C-200D-2642-FE0F": {
+    "short_name": "man-wrestling",
+    "keywords": [
+      "man-wrestling"
+    ]
+  },
+  "1F93C": {
+    "short_name": "wrestlers",
+    "keywords": [
+      "wrestlers"
+    ]
+  },
+  "1F93D-200D-2640-FE0F": {
+    "short_name": "woman-playing-water-polo",
+    "keywords": [
+      "woman-playing-water-polo"
+    ]
+  },
+  "1F93D-200D-2642-FE0F": {
+    "short_name": "man-playing-water-polo",
+    "keywords": [
+      "man-playing-water-polo"
+    ]
+  },
+  "1F93D": {
+    "short_name": "water_polo",
+    "keywords": [
+      "water_polo"
+    ]
+  },
+  "1F93E-200D-2640-FE0F": {
+    "short_name": "woman-playing-handball",
+    "keywords": [
+      "woman-playing-handball"
+    ]
+  },
+  "1F93E-200D-2642-FE0F": {
+    "short_name": "man-playing-handball",
+    "keywords": [
+      "man-playing-handball"
+    ]
+  },
+  "1F93E": {
+    "short_name": "handball",
+    "keywords": [
+      "handball"
+    ]
+  },
+  "1F940": {
+    "short_name": "wilted_flower",
+    "keywords": [
+      "wilted_flower"
+    ]
+  },
+  "1F941": {
+    "short_name": "drum_with_drumsticks",
+    "keywords": [
+      "drum_with_drumsticks"
+    ]
+  },
+  "1F942": {
+    "short_name": "clinking_glasses",
+    "keywords": [
+      "clinking_glasses"
+    ]
+  },
+  "1F943": {
+    "short_name": "tumbler_glass",
+    "keywords": [
+      "tumbler_glass"
+    ]
+  },
+  "1F944": {
+    "short_name": "spoon",
+    "keywords": [
+      "spoon"
+    ]
+  },
+  "1F945": {
+    "short_name": "goal_net",
+    "keywords": [
+      "goal_net"
+    ]
+  },
+  "1F947": {
+    "short_name": "first_place_medal",
+    "keywords": [
+      "first_place_medal"
+    ]
+  },
+  "1F948": {
+    "short_name": "second_place_medal",
+    "keywords": [
+      "second_place_medal"
+    ]
+  },
+  "1F949": {
+    "short_name": "third_place_medal",
+    "keywords": [
+      "third_place_medal"
+    ]
+  },
+  "1F94A": {
+    "short_name": "boxing_glove",
+    "keywords": [
+      "boxing_glove"
+    ]
+  },
+  "1F94B": {
+    "short_name": "martial_arts_uniform",
+    "keywords": [
+      "martial_arts_uniform"
+    ]
+  },
+  "1F94C": {
+    "short_name": "curling_stone",
+    "keywords": [
+      "curling_stone"
+    ]
+  },
+  "1F950": {
+    "short_name": "croissant",
+    "keywords": [
+      "croissant"
+    ]
+  },
+  "1F951": {
+    "short_name": "avocado",
+    "keywords": [
+      "avocado"
+    ]
+  },
+  "1F952": {
+    "short_name": "cucumber",
+    "keywords": [
+      "cucumber"
+    ]
+  },
+  "1F953": {
+    "short_name": "bacon",
+    "keywords": [
+      "bacon"
+    ]
+  },
+  "1F954": {
+    "short_name": "potato",
+    "keywords": [
+      "potato"
+    ]
+  },
+  "1F955": {
+    "short_name": "carrot",
+    "keywords": [
+      "carrot"
+    ]
+  },
+  "1F956": {
+    "short_name": "baguette_bread",
+    "keywords": [
+      "baguette_bread"
+    ]
+  },
+  "1F957": {
+    "short_name": "green_salad",
+    "keywords": [
+      "green_salad"
+    ]
+  },
+  "1F958": {
+    "short_name": "shallow_pan_of_food",
+    "keywords": [
+      "shallow_pan_of_food"
+    ]
+  },
+  "1F959": {
+    "short_name": "stuffed_flatbread",
+    "keywords": [
+      "stuffed_flatbread"
+    ]
+  },
+  "1F95A": {
+    "short_name": "egg",
+    "keywords": [
+      "egg"
+    ]
+  },
+  "1F95B": {
+    "short_name": "glass_of_milk",
+    "keywords": [
+      "glass_of_milk"
+    ]
+  },
+  "1F95C": {
+    "short_name": "peanuts",
+    "keywords": [
+      "peanuts"
+    ]
+  },
+  "1F95D": {
+    "short_name": "kiwifruit",
+    "keywords": [
+      "kiwifruit"
+    ]
+  },
+  "1F95E": {
+    "short_name": "pancakes",
+    "keywords": [
+      "pancakes"
+    ]
+  },
+  "1F95F": {
+    "short_name": "dumpling",
+    "keywords": [
+      "dumpling"
+    ]
+  },
+  "1F960": {
+    "short_name": "fortune_cookie",
+    "keywords": [
+      "fortune_cookie"
+    ]
+  },
+  "1F961": {
+    "short_name": "takeout_box",
+    "keywords": [
+      "takeout_box"
+    ]
+  },
+  "1F962": {
+    "short_name": "chopsticks",
+    "keywords": [
+      "chopsticks"
+    ]
+  },
+  "1F963": {
+    "short_name": "bowl_with_spoon",
+    "keywords": [
+      "bowl_with_spoon"
+    ]
+  },
+  "1F964": {
+    "short_name": "cup_with_straw",
+    "keywords": [
+      "cup_with_straw"
+    ]
+  },
+  "1F965": {
+    "short_name": "coconut",
+    "keywords": [
+      "coconut"
+    ]
+  },
+  "1F966": {
+    "short_name": "broccoli",
+    "keywords": [
+      "broccoli"
+    ]
+  },
+  "1F967": {
+    "short_name": "pie",
+    "keywords": [
+      "pie"
+    ]
+  },
+  "1F968": {
+    "short_name": "pretzel",
+    "keywords": [
+      "pretzel"
+    ]
+  },
+  "1F969": {
+    "short_name": "cut_of_meat",
+    "keywords": [
+      "cut_of_meat"
+    ]
+  },
+  "1F96A": {
+    "short_name": "sandwich",
+    "keywords": [
+      "sandwich"
+    ]
+  },
+  "1F96B": {
+    "short_name": "canned_food",
+    "keywords": [
+      "canned_food"
+    ]
+  },
+  "1F980": {
+    "short_name": "crab",
+    "keywords": [
+      "crab"
+    ]
+  },
+  "1F981": {
+    "short_name": "lion_face",
+    "keywords": [
+      "lion_face"
+    ]
+  },
+  "1F982": {
+    "short_name": "scorpion",
+    "keywords": [
+      "scorpion"
+    ]
+  },
+  "1F983": {
+    "short_name": "turkey",
+    "keywords": [
+      "turkey"
+    ]
+  },
+  "1F984": {
+    "short_name": "unicorn_face",
+    "keywords": [
+      "unicorn_face"
+    ]
+  },
+  "1F985": {
+    "short_name": "eagle",
+    "keywords": [
+      "eagle"
+    ]
+  },
+  "1F986": {
+    "short_name": "duck",
+    "keywords": [
+      "duck"
+    ]
+  },
+  "1F987": {
+    "short_name": "bat",
+    "keywords": [
+      "bat"
+    ]
+  },
+  "1F988": {
+    "short_name": "shark",
+    "keywords": [
+      "shark"
+    ]
+  },
+  "1F989": {
+    "short_name": "owl",
+    "keywords": [
+      "owl"
+    ]
+  },
+  "1F98A": {
+    "short_name": "fox_face",
+    "keywords": [
+      "fox_face"
+    ]
+  },
+  "1F98B": {
+    "short_name": "butterfly",
+    "keywords": [
+      "butterfly"
+    ]
+  },
+  "1F98C": {
+    "short_name": "deer",
+    "keywords": [
+      "deer"
+    ]
+  },
+  "1F98D": {
+    "short_name": "gorilla",
+    "keywords": [
+      "gorilla"
+    ]
+  },
+  "1F98E": {
+    "short_name": "lizard",
+    "keywords": [
+      "lizard"
+    ]
+  },
+  "1F98F": {
+    "short_name": "rhinoceros",
+    "keywords": [
+      "rhinoceros"
+    ]
+  },
+  "1F990": {
+    "short_name": "shrimp",
+    "keywords": [
+      "shrimp"
+    ]
+  },
+  "1F991": {
+    "short_name": "squid",
+    "keywords": [
+      "squid"
+    ]
+  },
+  "1F992": {
+    "short_name": "giraffe_face",
+    "keywords": [
+      "giraffe_face"
+    ]
+  },
+  "1F993": {
+    "short_name": "zebra_face",
+    "keywords": [
+      "zebra_face"
+    ]
+  },
+  "1F994": {
+    "short_name": "hedgehog",
+    "keywords": [
+      "hedgehog"
+    ]
+  },
+  "1F995": {
+    "short_name": "sauropod",
+    "keywords": [
+      "sauropod"
+    ]
+  },
+  "1F996": {
+    "short_name": "t-rex",
+    "keywords": [
+      "t-rex"
+    ]
+  },
+  "1F997": {
+    "short_name": "cricket",
+    "keywords": [
+      "cricket"
+    ]
+  },
+  "1F9C0": {
+    "short_name": "cheese_wedge",
+    "keywords": [
+      "cheese_wedge"
+    ]
+  },
+  "1F9D0": {
+    "short_name": "face_with_monocle",
+    "keywords": [
+      "face_with_monocle"
+    ]
+  },
+  "1F9D1": {
+    "short_name": "adult",
+    "keywords": [
+      "adult"
+    ]
+  },
+  "1F9D2": {
+    "short_name": "child",
+    "keywords": [
+      "child"
+    ]
+  },
+  "1F9D3": {
+    "short_name": "older_adult",
+    "keywords": [
+      "older_adult"
+    ]
+  },
+  "1F9D4": {
+    "short_name": "bearded_person",
+    "keywords": [
+      "bearded_person"
+    ]
+  },
+  "1F9D5": {
+    "short_name": "person_with_headscarf",
+    "keywords": [
+      "person_with_headscarf"
+    ]
+  },
+  "1F9D6-200D-2640-FE0F": {
+    "short_name": "woman_in_steamy_room",
+    "keywords": [
+      "woman_in_steamy_room"
+    ]
+  },
+  "1F9D6-200D-2642-FE0F": {
+    "short_name": "man_in_steamy_room",
+    "keywords": [
+      "man_in_steamy_room"
+    ]
+  },
+  "1F9D6": {
+    "short_name": "person_in_steamy_room",
+    "keywords": [
+      "person_in_steamy_room"
+    ]
+  },
+  "1F9D7-200D-2640-FE0F": {
+    "short_name": "woman_climbing",
+    "keywords": [
+      "woman_climbing"
+    ]
+  },
+  "1F9D7-200D-2642-FE0F": {
+    "short_name": "man_climbing",
+    "keywords": [
+      "man_climbing"
+    ]
+  },
+  "1F9D7": {
+    "short_name": "person_climbing",
+    "keywords": [
+      "person_climbing"
+    ]
+  },
+  "1F9D8-200D-2640-FE0F": {
+    "short_name": "woman_in_lotus_position",
+    "keywords": [
+      "woman_in_lotus_position"
+    ]
+  },
+  "1F9D8-200D-2642-FE0F": {
+    "short_name": "man_in_lotus_position",
+    "keywords": [
+      "man_in_lotus_position"
+    ]
+  },
+  "1F9D8": {
+    "short_name": "person_in_lotus_position",
+    "keywords": [
+      "person_in_lotus_position"
+    ]
+  },
+  "1F9D9-200D-2640-FE0F": {
+    "short_name": "female_mage",
+    "keywords": [
+      "female_mage"
+    ]
+  },
+  "1F9D9-200D-2642-FE0F": {
+    "short_name": "male_mage",
+    "keywords": [
+      "male_mage"
+    ]
+  },
+  "1F9D9": {
+    "short_name": "mage",
+    "keywords": [
+      "mage"
+    ]
+  },
+  "1F9DA-200D-2640-FE0F": {
+    "short_name": "female_fairy",
+    "keywords": [
+      "female_fairy"
+    ]
+  },
+  "1F9DA-200D-2642-FE0F": {
+    "short_name": "male_fairy",
+    "keywords": [
+      "male_fairy"
+    ]
+  },
+  "1F9DA": {
+    "short_name": "fairy",
+    "keywords": [
+      "fairy"
+    ]
+  },
+  "1F9DB-200D-2640-FE0F": {
+    "short_name": "female_vampire",
+    "keywords": [
+      "female_vampire"
+    ]
+  },
+  "1F9DB-200D-2642-FE0F": {
+    "short_name": "male_vampire",
+    "keywords": [
+      "male_vampire"
+    ]
+  },
+  "1F9DB": {
+    "short_name": "vampire",
+    "keywords": [
+      "vampire"
+    ]
+  },
+  "1F9DC-200D-2640-FE0F": {
+    "short_name": "mermaid",
+    "keywords": [
+      "mermaid"
+    ]
+  },
+  "1F9DC-200D-2642-FE0F": {
+    "short_name": "merman",
+    "keywords": [
+      "merman"
+    ]
+  },
+  "1F9DC": {
+    "short_name": "merperson",
+    "keywords": [
+      "merperson"
+    ]
+  },
+  "1F9DD-200D-2640-FE0F": {
+    "short_name": "female_elf",
+    "keywords": [
+      "female_elf"
+    ]
+  },
+  "1F9DD-200D-2642-FE0F": {
+    "short_name": "male_elf",
+    "keywords": [
+      "male_elf"
+    ]
+  },
+  "1F9DD": {
+    "short_name": "elf",
+    "keywords": [
+      "elf"
+    ]
+  },
+  "1F9DE-200D-2640-FE0F": {
+    "short_name": "female_genie",
+    "keywords": [
+      "female_genie"
+    ]
+  },
+  "1F9DE-200D-2642-FE0F": {
+    "short_name": "male_genie",
+    "keywords": [
+      "male_genie"
+    ]
+  },
+  "1F9DE": {
+    "short_name": "genie",
+    "keywords": [
+      "genie"
+    ]
+  },
+  "1F9DF-200D-2640-FE0F": {
+    "short_name": "female_zombie",
+    "keywords": [
+      "female_zombie"
+    ]
+  },
+  "1F9DF-200D-2642-FE0F": {
+    "short_name": "male_zombie",
+    "keywords": [
+      "male_zombie"
+    ]
+  },
+  "1F9DF": {
+    "short_name": "zombie",
+    "keywords": [
+      "zombie"
+    ]
+  },
+  "1F9E0": {
+    "short_name": "brain",
+    "keywords": [
+      "brain"
+    ]
+  },
+  "1F9E1": {
+    "short_name": "orange_heart",
+    "keywords": [
+      "orange_heart"
+    ]
+  },
+  "1F9E2": {
+    "short_name": "billed_cap",
+    "keywords": [
+      "billed_cap"
+    ]
+  },
+  "1F9E3": {
+    "short_name": "scarf",
+    "keywords": [
+      "scarf"
+    ]
+  },
+  "1F9E4": {
+    "short_name": "gloves",
+    "keywords": [
+      "gloves"
+    ]
+  },
+  "1F9E5": {
+    "short_name": "coat",
+    "keywords": [
+      "coat"
+    ]
+  },
+  "1F9E6": {
+    "short_name": "socks",
+    "keywords": [
+      "socks"
+    ]
+  },
+  "203C-FE0F": {
+    "short_name": "bangbang",
+    "keywords": [
+      "bangbang"
+    ]
+  },
+  "2049-FE0F": {
+    "short_name": "interrobang",
+    "keywords": [
+      "interrobang"
+    ]
+  },
+  "2122-FE0F": {
+    "short_name": "tm",
+    "keywords": [
+      "tm"
+    ]
+  },
+  "2139-FE0F": {
+    "short_name": "information_source",
+    "keywords": [
+      "information_source"
+    ]
+  },
+  "2194-FE0F": {
+    "short_name": "left_right_arrow",
+    "keywords": [
+      "left_right_arrow"
+    ]
+  },
+  "2195-FE0F": {
+    "short_name": "arrow_up_down",
+    "keywords": [
+      "arrow_up_down"
+    ]
+  },
+  "2196-FE0F": {
+    "short_name": "arrow_upper_left",
+    "keywords": [
+      "arrow_upper_left"
+    ]
+  },
+  "2197-FE0F": {
+    "short_name": "arrow_upper_right",
+    "keywords": [
+      "arrow_upper_right"
+    ]
+  },
+  "2198-FE0F": {
+    "short_name": "arrow_lower_right",
+    "keywords": [
+      "arrow_lower_right"
+    ]
+  },
+  "2199-FE0F": {
+    "short_name": "arrow_lower_left",
+    "keywords": [
+      "arrow_lower_left"
+    ]
+  },
+  "21A9-FE0F": {
+    "short_name": "leftwards_arrow_with_hook",
+    "keywords": [
+      "leftwards_arrow_with_hook"
+    ]
+  },
+  "21AA-FE0F": {
+    "short_name": "arrow_right_hook",
+    "keywords": [
+      "arrow_right_hook"
+    ]
+  },
+  "231A": {
+    "short_name": "watch",
+    "keywords": [
+      "watch"
+    ]
+  },
+  "231B": {
+    "short_name": "hourglass",
+    "keywords": [
+      "hourglass"
+    ]
+  },
+  "2328-FE0F": {
+    "short_name": "keyboard",
+    "keywords": [
+      "keyboard"
+    ]
+  },
+  "23CF-FE0F": {
+    "short_name": "eject",
+    "keywords": [
+      "eject"
+    ]
+  },
+  "23E9": {
+    "short_name": "fast_forward",
+    "keywords": [
+      "fast_forward"
+    ]
+  },
+  "23EA": {
+    "short_name": "rewind",
+    "keywords": [
+      "rewind"
+    ]
+  },
+  "23EB": {
+    "short_name": "arrow_double_up",
+    "keywords": [
+      "arrow_double_up"
+    ]
+  },
+  "23EC": {
+    "short_name": "arrow_double_down",
+    "keywords": [
+      "arrow_double_down"
+    ]
+  },
+  "23ED-FE0F": {
+    "short_name": "black_right_pointing_double_triangle_with_vertical_bar",
+    "keywords": [
+      "black_right_pointing_double_triangle_with_vertical_bar"
+    ]
+  },
+  "23EE-FE0F": {
+    "short_name": "black_left_pointing_double_triangle_with_vertical_bar",
+    "keywords": [
+      "black_left_pointing_double_triangle_with_vertical_bar"
+    ]
+  },
+  "23EF-FE0F": {
+    "short_name": "black_right_pointing_triangle_with_double_vertical_bar",
+    "keywords": [
+      "black_right_pointing_triangle_with_double_vertical_bar"
+    ]
+  },
+  "23F0": {
+    "short_name": "alarm_clock",
+    "keywords": [
+      "alarm_clock"
+    ]
+  },
+  "23F1-FE0F": {
+    "short_name": "stopwatch",
+    "keywords": [
+      "stopwatch"
+    ]
+  },
+  "23F2-FE0F": {
+    "short_name": "timer_clock",
+    "keywords": [
+      "timer_clock"
+    ]
+  },
+  "23F3": {
+    "short_name": "hourglass_flowing_sand",
+    "keywords": [
+      "hourglass_flowing_sand"
+    ]
+  },
+  "23F8-FE0F": {
+    "short_name": "double_vertical_bar",
+    "keywords": [
+      "double_vertical_bar"
+    ]
+  },
+  "23F9-FE0F": {
+    "short_name": "black_square_for_stop",
+    "keywords": [
+      "black_square_for_stop"
+    ]
+  },
+  "23FA-FE0F": {
+    "short_name": "black_circle_for_record",
+    "keywords": [
+      "black_circle_for_record"
+    ]
+  },
+  "24C2-FE0F": {
+    "short_name": "m",
+    "keywords": [
+      "m"
+    ]
+  },
+  "25AA-FE0F": {
+    "short_name": "black_small_square",
+    "keywords": [
+      "black_small_square"
+    ]
+  },
+  "25AB-FE0F": {
+    "short_name": "white_small_square",
+    "keywords": [
+      "white_small_square"
+    ]
+  },
+  "25B6-FE0F": {
+    "short_name": "arrow_forward",
+    "keywords": [
+      "arrow_forward"
+    ]
+  },
+  "25C0-FE0F": {
+    "short_name": "arrow_backward",
+    "keywords": [
+      "arrow_backward"
+    ]
+  },
+  "25FB-FE0F": {
+    "short_name": "white_medium_square",
+    "keywords": [
+      "white_medium_square"
+    ]
+  },
+  "25FC-FE0F": {
+    "short_name": "black_medium_square",
+    "keywords": [
+      "black_medium_square"
+    ]
+  },
+  "25FD": {
+    "short_name": "white_medium_small_square",
+    "keywords": [
+      "white_medium_small_square"
+    ]
+  },
+  "25FE": {
+    "short_name": "black_medium_small_square",
+    "keywords": [
+      "black_medium_small_square"
+    ]
+  },
+  "2600-FE0F": {
+    "short_name": "sunny",
+    "keywords": [
+      "sunny"
+    ]
+  },
+  "2601-FE0F": {
+    "short_name": "cloud",
+    "keywords": [
+      "cloud"
+    ]
+  },
+  "2602-FE0F": {
+    "short_name": "umbrella",
+    "keywords": [
+      "umbrella"
+    ]
+  },
+  "2603-FE0F": {
+    "short_name": "snowman",
+    "keywords": [
+      "snowman"
+    ]
+  },
+  "2604-FE0F": {
+    "short_name": "comet",
+    "keywords": [
+      "comet"
+    ]
+  },
+  "260E-FE0F": {
+    "short_name": "phone",
+    "keywords": [
+      "phone",
+      "telephone"
+    ]
+  },
+  "2611-FE0F": {
+    "short_name": "ballot_box_with_check",
+    "keywords": [
+      "ballot_box_with_check"
+    ]
+  },
+  "2618-FE0F": {
+    "short_name": "shamrock",
+    "keywords": [
+      "shamrock"
+    ]
+  },
+  "261D-FE0F": {
+    "short_name": "point_up",
+    "keywords": [
+      "point_up"
+    ]
+  },
+  "2620-FE0F": {
+    "short_name": "skull_and_crossbones",
+    "keywords": [
+      "skull_and_crossbones"
+    ]
+  },
+  "2622-FE0F": {
+    "short_name": "radioactive_sign",
+    "keywords": [
+      "radioactive_sign"
+    ]
+  },
+  "2623-FE0F": {
+    "short_name": "biohazard_sign",
+    "keywords": [
+      "biohazard_sign"
+    ]
+  },
+  "2626-FE0F": {
+    "short_name": "orthodox_cross",
+    "keywords": [
+      "orthodox_cross"
+    ]
+  },
+  "262A-FE0F": {
+    "short_name": "star_and_crescent",
+    "keywords": [
+      "star_and_crescent"
+    ]
+  },
+  "262E-FE0F": {
+    "short_name": "peace_symbol",
+    "keywords": [
+      "peace_symbol"
+    ]
+  },
+  "262F-FE0F": {
+    "short_name": "yin_yang",
+    "keywords": [
+      "yin_yang"
+    ]
+  },
+  "2638-FE0F": {
+    "short_name": "wheel_of_dharma",
+    "keywords": [
+      "wheel_of_dharma"
+    ]
+  },
+  "2639-FE0F": {
+    "short_name": "white_frowning_face",
+    "keywords": [
+      "white_frowning_face"
+    ]
+  },
+  "263A-FE0F": {
+    "short_name": "relaxed",
+    "keywords": [
+      "relaxed"
+    ]
+  },
+  "2640-FE0F": {
+    "short_name": "female_sign",
+    "keywords": [
+      "female_sign"
+    ]
+  },
+  "2642-FE0F": {
+    "short_name": "male_sign",
+    "keywords": [
+      "male_sign"
+    ]
+  },
+  "264A": {
+    "short_name": "gemini",
+    "keywords": [
+      "gemini"
+    ]
+  },
+  "264B": {
+    "short_name": "cancer",
+    "keywords": [
+      "cancer"
+    ]
+  },
+  "264C": {
+    "short_name": "leo",
+    "keywords": [
+      "leo"
+    ]
+  },
+  "264D": {
+    "short_name": "virgo",
+    "keywords": [
+      "virgo"
+    ]
+  },
+  "264E": {
+    "short_name": "libra",
+    "keywords": [
+      "libra"
+    ]
+  },
+  "264F": {
+    "short_name": "scorpius",
+    "keywords": [
+      "scorpius"
+    ]
+  },
+  "2660-FE0F": {
+    "short_name": "spades",
+    "keywords": [
+      "spades"
+    ]
+  },
+  "2663-FE0F": {
+    "short_name": "clubs",
+    "keywords": [
+      "clubs"
+    ]
+  },
+  "2665-FE0F": {
+    "short_name": "hearts",
+    "keywords": [
+      "hearts"
+    ]
+  },
+  "2666-FE0F": {
+    "short_name": "diamonds",
+    "keywords": [
+      "diamonds"
+    ]
+  },
+  "2668-FE0F": {
+    "short_name": "hotsprings",
+    "keywords": [
+      "hotsprings"
+    ]
+  },
+  "267B-FE0F": {
+    "short_name": "recycle",
+    "keywords": [
+      "recycle"
+    ]
+  },
+  "267F": {
+    "short_name": "wheelchair",
+    "keywords": [
+      "wheelchair"
+    ]
+  },
+  "2692-FE0F": {
+    "short_name": "hammer_and_pick",
+    "keywords": [
+      "hammer_and_pick"
+    ]
+  },
+  "2694-FE0F": {
+    "short_name": "crossed_swords",
+    "keywords": [
+      "crossed_swords"
+    ]
+  },
+  "2695-FE0F": {
+    "short_name": "medical_symbol",
+    "keywords": [
+      "medical_symbol",
+      "staff_of_aesculapius"
+    ]
+  },
+  "2696-FE0F": {
+    "short_name": "scales",
+    "keywords": [
+      "scales"
+    ]
+  },
+  "2697-FE0F": {
+    "short_name": "alembic",
+    "keywords": [
+      "alembic"
+    ]
+  },
+  "2699-FE0F": {
+    "short_name": "gear",
+    "keywords": [
+      "gear"
+    ]
+  },
+  "269B-FE0F": {
+    "short_name": "atom_symbol",
+    "keywords": [
+      "atom_symbol"
+    ]
+  },
+  "269C-FE0F": {
+    "short_name": "fleur_de_lis",
+    "keywords": [
+      "fleur_de_lis"
+    ]
+  },
+  "26A0-FE0F": {
+    "short_name": "warning",
+    "keywords": [
+      "warning"
+    ]
+  },
+  "26A1": {
+    "short_name": "zap",
+    "keywords": [
+      "zap"
+    ]
+  },
+  "26AA": {
+    "short_name": "white_circle",
+    "keywords": [
+      "white_circle"
+    ]
+  },
+  "26AB": {
+    "short_name": "black_circle",
+    "keywords": [
+      "black_circle"
+    ]
+  },
+  "26B0-FE0F": {
+    "short_name": "coffin",
+    "keywords": [
+      "coffin"
+    ]
+  },
+  "26B1-FE0F": {
+    "short_name": "funeral_urn",
+    "keywords": [
+      "funeral_urn"
+    ]
+  },
+  "26BD": {
+    "short_name": "soccer",
+    "keywords": [
+      "soccer"
+    ]
+  },
+  "26BE": {
+    "short_name": "baseball",
+    "keywords": [
+      "baseball"
+    ]
+  },
+  "26C4": {
+    "short_name": "snowman_without_snow",
+    "keywords": [
+      "snowman_without_snow"
+    ]
+  },
+  "26C5": {
+    "short_name": "partly_sunny",
+    "keywords": [
+      "partly_sunny"
+    ]
+  },
+  "26C8-FE0F": {
+    "short_name": "thunder_cloud_and_rain",
+    "keywords": [
+      "thunder_cloud_and_rain"
+    ]
+  },
+  "26CE": {
+    "short_name": "ophiuchus",
+    "keywords": [
+      "ophiuchus"
+    ]
+  },
+  "26CF-FE0F": {
+    "short_name": "pick",
+    "keywords": [
+      "pick"
+    ]
+  },
+  "26D1-FE0F": {
+    "short_name": "helmet_with_white_cross",
+    "keywords": [
+      "helmet_with_white_cross"
+    ]
+  },
+  "26D3-FE0F": {
+    "short_name": "chains",
+    "keywords": [
+      "chains"
+    ]
+  },
+  "26D4": {
+    "short_name": "no_entry",
+    "keywords": [
+      "no_entry"
+    ]
+  },
+  "26E9-FE0F": {
+    "short_name": "shinto_shrine",
+    "keywords": [
+      "shinto_shrine"
+    ]
+  },
+  "26EA": {
+    "short_name": "church",
+    "keywords": [
+      "church"
+    ]
+  },
+  "26F0-FE0F": {
+    "short_name": "mountain",
+    "keywords": [
+      "mountain"
+    ]
+  },
+  "26F1-FE0F": {
+    "short_name": "umbrella_on_ground",
+    "keywords": [
+      "umbrella_on_ground"
+    ]
+  },
+  "26F2": {
+    "short_name": "fountain",
+    "keywords": [
+      "fountain"
+    ]
+  },
+  "26F3": {
+    "short_name": "golf",
+    "keywords": [
+      "golf"
+    ]
+  },
+  "26F4-FE0F": {
+    "short_name": "ferry",
+    "keywords": [
+      "ferry"
+    ]
+  },
+  "26F5": {
+    "short_name": "boat",
+    "keywords": [
+      "boat",
+      "sailboat"
+    ]
+  },
+  "26F7-FE0F": {
+    "short_name": "skier",
+    "keywords": [
+      "skier"
+    ]
+  },
+  "26F8-FE0F": {
+    "short_name": "ice_skate",
+    "keywords": [
+      "ice_skate"
+    ]
+  },
+  "26F9-FE0F-200D-2640-FE0F": {
+    "short_name": "woman-bouncing-ball",
+    "keywords": [
+      "woman-bouncing-ball"
+    ]
+  },
+  "26F9-FE0F-200D-2642-FE0F": {
+    "short_name": "man-bouncing-ball",
+    "keywords": [
+      "man-bouncing-ball"
+    ]
+  },
+  "26F9-FE0F": {
+    "short_name": "person_with_ball",
+    "keywords": [
+      "person_with_ball"
+    ]
+  },
+  "26FA": {
+    "short_name": "tent",
+    "keywords": [
+      "tent"
+    ]
+  },
+  "26FD": {
+    "short_name": "fuelpump",
+    "keywords": [
+      "fuelpump"
+    ]
+  },
+  "2702-FE0F": {
+    "short_name": "scissors",
+    "keywords": [
+      "scissors"
+    ]
+  },
+  "2708-FE0F": {
+    "short_name": "airplane",
+    "keywords": [
+      "airplane"
+    ]
+  },
+  "2709-FE0F": {
+    "short_name": "email",
+    "keywords": [
+      "email",
+      "envelope"
+    ]
+  },
+  "270A": {
+    "short_name": "fist",
+    "keywords": [
+      "fist"
+    ]
+  },
+  "270B": {
+    "short_name": "hand",
+    "keywords": [
+      "hand",
+      "raised_hand"
+    ]
+  },
+  "270C-FE0F": {
+    "short_name": "v",
+    "keywords": [
+      "v"
+    ]
+  },
+  "270D-FE0F": {
+    "short_name": "writing_hand",
+    "keywords": [
+      "writing_hand"
+    ]
+  },
+  "270F-FE0F": {
+    "short_name": "pencil2",
+    "keywords": [
+      "pencil2"
+    ]
+  },
+  "2712-FE0F": {
+    "short_name": "black_nib",
+    "keywords": [
+      "black_nib"
+    ]
+  },
+  "2714-FE0F": {
+    "short_name": "heavy_check_mark",
+    "keywords": [
+      "heavy_check_mark"
+    ]
+  },
+  "2716-FE0F": {
+    "short_name": "heavy_multiplication_x",
+    "keywords": [
+      "heavy_multiplication_x"
+    ]
+  },
+  "271D-FE0F": {
+    "short_name": "latin_cross",
+    "keywords": [
+      "latin_cross"
+    ]
+  },
+  "2721-FE0F": {
+    "short_name": "star_of_david",
+    "keywords": [
+      "star_of_david"
+    ]
+  },
+  "2733-FE0F": {
+    "short_name": "eight_spoked_asterisk",
+    "keywords": [
+      "eight_spoked_asterisk"
+    ]
+  },
+  "2734-FE0F": {
+    "short_name": "eight_pointed_black_star",
+    "keywords": [
+      "eight_pointed_black_star"
+    ]
+  },
+  "2744-FE0F": {
+    "short_name": "snowflake",
+    "keywords": [
+      "snowflake"
+    ]
+  },
+  "2747-FE0F": {
+    "short_name": "sparkle",
+    "keywords": [
+      "sparkle"
+    ]
+  },
+  "274C": {
+    "short_name": "x",
+    "keywords": [
+      "x"
+    ]
+  },
+  "274E": {
+    "short_name": "negative_squared_cross_mark",
+    "keywords": [
+      "negative_squared_cross_mark"
+    ]
+  },
+  "2763-FE0F": {
+    "short_name": "heavy_heart_exclamation_mark_ornament",
+    "keywords": [
+      "heavy_heart_exclamation_mark_ornament"
+    ]
+  },
+  "2764-FE0F": {
+    "short_name": "heart",
+    "keywords": [
+      "heart"
+    ]
+  },
+  "27A1-FE0F": {
+    "short_name": "arrow_right",
+    "keywords": [
+      "arrow_right"
+    ]
+  },
+  "27B0": {
+    "short_name": "curly_loop",
+    "keywords": [
+      "curly_loop"
+    ]
+  },
+  "27BF": {
+    "short_name": "loop",
+    "keywords": [
+      "loop"
+    ]
+  },
+  "2934-FE0F": {
+    "short_name": "arrow_heading_up",
+    "keywords": [
+      "arrow_heading_up"
+    ]
+  },
+  "2935-FE0F": {
+    "short_name": "arrow_heading_down",
+    "keywords": [
+      "arrow_heading_down"
+    ]
+  },
+  "2B05-FE0F": {
+    "short_name": "arrow_left",
+    "keywords": [
+      "arrow_left"
+    ]
+  },
+  "2B06-FE0F": {
+    "short_name": "arrow_up",
+    "keywords": [
+      "arrow_up"
+    ]
+  },
+  "2B07-FE0F": {
+    "short_name": "arrow_down",
+    "keywords": [
+      "arrow_down"
+    ]
+  },
+  "2B1B": {
+    "short_name": "black_large_square",
+    "keywords": [
+      "black_large_square"
+    ]
+  },
+  "2B1C": {
+    "short_name": "white_large_square",
+    "keywords": [
+      "white_large_square"
+    ]
+  },
+  "2B50": {
+    "short_name": "star",
+    "keywords": [
+      "star"
+    ]
+  },
+  "2B55": {
+    "short_name": "o",
+    "keywords": [
+      "o"
+    ]
+  },
+  "3030-FE0F": {
+    "short_name": "wavy_dash",
+    "keywords": [
+      "wavy_dash"
+    ]
+  },
+  "303D-FE0F": {
+    "short_name": "part_alternation_mark",
+    "keywords": [
+      "part_alternation_mark"
+    ]
+  },
+  "3297-FE0F": {
+    "short_name": "congratulations",
+    "keywords": [
+      "congratulations"
+    ]
+  },
+  "3299-FE0F": {
+    "short_name": "secret",
+    "keywords": [
+      "secret"
+    ]
+  }
+}
