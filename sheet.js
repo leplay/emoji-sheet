@@ -10,13 +10,13 @@ var emoji = require('./emoji.json')
 var SIZE = 64
 var SPACE = 1
 var COLUMN_FULL = 52
-var PROVIDER = 'apple'
+var transparentPNG = `source/transparent-64.png`
 
 /*
   Generate
 */
 
-async function runCommand (files) {
+async function runCommand (files, provider) {
   let geom = `${SIZE}x${SIZE}+${SPACE}+${SPACE}`
   let dest
   let column
@@ -24,7 +24,7 @@ async function runCommand (files) {
 
   column = COLUMN_FULL
   lines = Math.ceil(files.length / column)
-  dest = `sheet/${PROVIDER}_${SIZE}.png`
+  dest = `sheet/${provider}_${SIZE}.png`
   let tile = `${column}x${lines}`
   let filesStr = files.join(' ')
   const command = `montage ${filesStr} -geometry ${geom} -tile ${tile} -background none png32:${dest}`
@@ -33,24 +33,25 @@ async function runCommand (files) {
   return result
 }
 
-async function buildAll () {
+async function buildAll (provider) {
   var allEmojiList = []
   var failedEmojiList = []
   _.each(emoji, function (item) {
-    let path = `source/img-${PROVIDER}-64/${item.unified.toLowerCase()}.png`
+    let path = `source/img-${provider}-64/${item.unified.toLowerCase()}.png`
     if (fs.existsSync(path)) {
       allEmojiList.push(path)
-    } else if (item.unqualified) {
-      // some emoji images use unqualified name, e.g. 1F3F3-FE0F
+    } else if (item.not_qualified) {
+      // some emoji images use not_qualified name, e.g. 1F3F3-FE0F
       let hasUnqulifiedName = false
-      item.unqualified.forEach(function (code) {
-        path = `source/img-${PROVIDER}-64/${code.toLowerCase()}.png`
+      item.not_qualified.forEach(function (code) {
+        path = `source/img-${provider}-64/${code.toLowerCase()}.png`
         if (fs.existsSync(path)) {
           allEmojiList.push(path)
           hasUnqulifiedName = true
         }
       })
       if (!hasUnqulifiedName) {
+        allEmojiList.push(transparentPNG)
         failedEmojiList.push(item.unified)
         console.log(item.short_name, item.unified, 'not exist')
       }
@@ -60,16 +61,26 @@ async function buildAll () {
     }
   })
 
-  let result = await runCommand(allEmojiList)
+  let result = await runCommand(allEmojiList, provider)
   if (!result.stderr) {
-    console.log('Build success:', allEmojiList.length)
-    console.log('Build failed:', failedEmojiList.length)
+    let successEmoji = _.filter(allEmojiList, function (path) {
+      return path !== transparentPNG
+    })
+    console.log(provider, 'build success:', successEmoji.length)
+    console.log(provider, 'build failed:', failedEmojiList.length)
   }
 }
 
-async function build () {
-  await buildAll()
+async function build (provider) {
+  if (provider) {
+    await buildAll(provider)
+  } else {
+    await buildAll('apple')
+    await buildAll('twitter')
+    await buildAll('emojione')
+  }
   // await generateCSS(true)
 }
 
-build()
+const provider = process.argv[2]
+build(provider)

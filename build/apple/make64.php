@@ -4,7 +4,7 @@
 
 	shell_exec("rm -f ../../source/img-apple-64/*.png");
 
-	$files = glob("../../source/img-apple-160/*.png");
+	$files = glob("./img-apple-160/*.png");
 
 	foreach ($files as $src){
 

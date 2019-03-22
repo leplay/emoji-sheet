@@ -1,2 +1,3 @@
 node_modules/
-source/img-apple-160/
+build/apple/img-apple-160/*
+build/emojione/img-emojione-160/*

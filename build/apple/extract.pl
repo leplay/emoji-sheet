@@ -197,7 +197,7 @@ if (1){
 $f->{'sbix'}->read();
 $f->{'maxp'}->read();
 
-`rm -f ../../source/img-apple-160/*.png`;
+`rm -f ./img-apple-160/*.png`;
 
 for my $glyph_id(0..$f->{'maxp'}->{'numGlyphs'}-1){
 
@@ -224,7 +224,7 @@ sub store_image {
 		# all good - save it
 		print "ok - $filename\n";
 
-		open(my $fh, '>', "../../source/img-apple-160/$filename");
+		open(my $fh, '>', "./img-apple-160/$filename");
 		print($fh  $strike->{'data'});
 		close($fh);
 

@@ -20,6 +20,7 @@ var parseTxt = async function (txt) {
   var result = []
   var category
   var subCategory
+  var lastQulifiedNonSkinEmoji
   lines.forEach(function (line) {
     // get emoji category
     if (/^# group: /.test(line)) {
@@ -38,20 +39,27 @@ var parseTxt = async function (txt) {
       let native = tmp2[1].split(' ')[0]
       let name = tmp2[1].substr(native.length + 1)
       let skin = 1
+      let skinArr = [
+        ' light skin tone',
+        ' medium-light skin tone',
+        ' medium skin tone',
+        ' medium-dark skin tone',
+        ' dark skin tone'
+      ]
       switch (true) {
-        case name.indexOf('light skin tone') > 0 :
+        case name.indexOf(skinArr[0]) > 0 :
           skin = 2
           break
-        case name.indexOf('medium-light skin tone') > 0 :
+        case name.indexOf(skinArr[1]) > 0 :
           skin = 3
           break
-        case name.indexOf('medium skin tone') > 0 :
+        case name.indexOf(skinArr[2]) > 0 :
           skin = 4
           break
-        case name.indexOf('medium-dark skin tone') > 0 :
+        case name.indexOf(skinArr[3]) > 0 :
           skin = 5
           break
-        case name.indexOf('dark skin tone') > 0 :
+        case name.indexOf(skinArr[4]) > 0 :
           skin = 6
           break
       }
@@ -66,17 +74,22 @@ var parseTxt = async function (txt) {
       if (dict[unified]) {
         emoji.short_name = dict[unified].short_name
         emoji.keywords = dict[unified].keywords
+        lastQulifiedNonSkinEmoji = emoji
+      } else if (skin > 1) {
+        emoji.short_name = lastQulifiedNonSkinEmoji.short_name + '-' + skinArr[skin - 2].trim().split(' ').join('-')
+        emoji.keywords = lastQulifiedNonSkinEmoji.keywords
       }
       result.push(emoji)
-    } else if (/^[0-9A-F]/.test(line) && /unqualified/.test(line)) {
+    } else if (/^[0-9A-F]/.test(line) && /unqualified|minimally-qualified/.test(line)) {
       var lastIndex = result.length - 1
       var tmp3 = line.split(';')
       var code = tmp3[0].trim().split(' ').join('-')
-      result[lastIndex].unqualified = result[lastIndex].unqualified || []
-      result[lastIndex].unqualified.push(code)
+      result[lastIndex].not_qualified = result[lastIndex].unqualified || []
+      result[lastIndex].not_qualified.push(code)
     }
   })
   fs.writeFile('./emoji.json', JSON.stringify(result), 'utf8', (err) => { console.log(err) })
+  console.log('Generated emoji:', result.length)
   return result
 }
 
