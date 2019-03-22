@@ -13,8 +13,8 @@ unqualified | 246
 component | 9
 
 ### Build Counts
-Provider | Success | Failed
--------- | ------- | -------
-Apple | 2792 | 218
-Twitter | 2766 | 244
-EmojiOne | 2795 | 215
+Provider | Success | Failed  | Original Size | Compressed Size
+-------- | ------- | ------- | ------------- | ---------------
+Apple | 2792 | 218 | 11.6 MB | -
+Twitter | 2766 | 244 | 7.4 MB | -
+EmojiOne | 2795 | 215 | 8.5 MB | -
