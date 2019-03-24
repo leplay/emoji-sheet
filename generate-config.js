@@ -5,22 +5,37 @@
 */
 const fs = require('fs')
 const axios = require('axios')
+const _ = require('lodash')
 const dict = require('./dict')
+const customDict = require('./custom-dict')
+const { formatShortName, parseSkinCode } = require('./utils')
+let emojiCount = 0
+let skinCount = 0
 
-var fetch = async function () {
-  let result = await axios.get('https://unicode.org/Public/emoji/latest/emoji-test.txt')
-  return result.data
+const source = process.argv[2] || 'local'
+
+var fetchEmoji = async function () {
+  let result
+  if (source === 'remote') {
+    let remote = await axios.get('https://unicode.org/Public/emoji/latest/emoji-test.txt')
+    if (remote.status === 200) {
+      fs.writeFile('./unicode/emoji-test.txt', remote.data, 'utf8', (err) => { console.log(err) })
+    }
+    result = remote.data
+  } else {
+    result = fs.readFileSync('./unicode/emoji-test.txt', 'utf8')
+  }
+  return result
 }
 
-var parseTxt = async function (txt) {
+var parseEmoji = async function (txt) {
   if (!txt) {
-    txt = await fetch()
+    txt = await fetchEmoji()
   }
   var lines = txt.split(/\r\n|\r|\n/)
   var result = []
   var category
   var subCategory
-  var lastQulifiedNonSkinEmoji
   lines.forEach(function (line) {
     // get emoji category
     if (/^# group: /.test(line)) {
@@ -38,59 +53,62 @@ var parseTxt = async function (txt) {
       let unified = tmp1[0].trim().split(' ').join('-')
       let native = tmp2[1].split(' ')[0]
       let name = tmp2[1].substr(native.length + 1)
-      let skin = 1
-      let skinArr = [
-        ' light skin tone',
-        ' medium-light skin tone',
-        ' medium skin tone',
-        ' medium-dark skin tone',
-        ' dark skin tone'
-      ]
-      switch (true) {
-        case name.indexOf(skinArr[0]) > 0 :
-          skin = 2
-          break
-        case name.indexOf(skinArr[1]) > 0 :
-          skin = 3
-          break
-        case name.indexOf(skinArr[2]) > 0 :
-          skin = 4
-          break
-        case name.indexOf(skinArr[3]) > 0 :
-          skin = 5
-          break
-        case name.indexOf(skinArr[4]) > 0 :
-          skin = 6
-          break
+      let shortName = formatShortName(name)
+      let skinCode = parseSkinCode(name)
+      if (!skinCode) {
+        var emoji = {
+          name,
+          native,
+          unified,
+          category,
+          sub_category: subCategory,
+          short_name: shortName
+        }
+
+        if (dict[unified] || customDict[unified]) {
+          let keywords = dict[unified].keywords.concat(customDict[unified] ? customDict[unified].keywords : [])
+          emoji.keywords = _.uniq(keywords)
+        }
+        result.push(emoji)
+      } else {
+        // To do: do not save skins for family subgroup, because some emoji combine multiple skins. e.g. 1F9D1 200D 1F91D 200D 1F9D1
+        if (subCategory !== 'family') {
+          let lastQulifiedNonSkinEmoji = result[result.length - 1]
+          lastQulifiedNonSkinEmoji.skins = lastQulifiedNonSkinEmoji.skins || {}
+          if (!lastQulifiedNonSkinEmoji.skins[skinCode]) {
+            lastQulifiedNonSkinEmoji.skins[skinCode] = {
+              unified
+            }
+            skinCount++
+          }
+        }
       }
-      var emoji = {
-        name,
-        native,
-        unified,
-        category,
-        sub_category: subCategory,
-        skin
-      }
-      if (dict[unified]) {
-        emoji.short_name = dict[unified].short_name
-        emoji.keywords = dict[unified].keywords
-        lastQulifiedNonSkinEmoji = emoji
-      } else if (skin > 1) {
-        emoji.short_name = lastQulifiedNonSkinEmoji.short_name + '-' + skinArr[skin - 2].trim().split(' ').join('-')
-        emoji.keywords = lastQulifiedNonSkinEmoji.keywords
-      }
-      result.push(emoji)
+      emojiCount++
     } else if (/^[0-9A-F]/.test(line) && /unqualified|minimally-qualified/.test(line)) {
-      var lastIndex = result.length - 1
-      var tmp3 = line.split(';')
-      var code = tmp3[0].trim().split(' ').join('-')
-      result[lastIndex].not_qualified = result[lastIndex].unqualified || []
-      result[lastIndex].not_qualified.push(code)
+      let lastQulifiedNonSkinEmoji = result[result.length - 1]
+      let tmp3 = line.split(';')
+      let code = tmp3[0].trim().split(' ').join('-')
+      let skinCode = parseSkinCode(line)
+      if (skinCode) {
+        lastQulifiedNonSkinEmoji.skins[skinCode].not_qualified = lastQulifiedNonSkinEmoji.skins[skinCode].not_qualified || []
+        lastQulifiedNonSkinEmoji.skins[skinCode].not_qualified.push(code)
+      } else {
+        lastQulifiedNonSkinEmoji.not_qualified = lastQulifiedNonSkinEmoji.not_qualified || []
+        lastQulifiedNonSkinEmoji.not_qualified.push(code)
+      }
     }
   })
-  fs.writeFile('./emoji.json', JSON.stringify(result), 'utf8', (err) => { console.log(err) })
-  console.log('Generated emoji:', result.length)
   return result
 }
 
-parseTxt()
+async function generate () {
+  let result = await parseEmoji()
+  fs.writeFile('./emoji.json', JSON.stringify(result), 'utf8', (err) => { console.log(err) })
+  console.log('Total emoji:', emojiCount)
+  console.log('Regular emoji:', result.length)
+  console.log('With skin tone:', skinCount)
+  // known issue, missing emoji which have multiple skins, in subgroup: family
+  console.log('Missing emoji:', emojiCount - skinCount - result.length)
+}
+
+generate()

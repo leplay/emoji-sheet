@@ -1,0 +1,14 @@
+{
+  "0023_fe0f_20e3": {
+    "short_name": "keycap-hash",
+    "keywords": [
+      "hash"
+    ]
+  },
+  "002a_fe0f_20e3": {
+    "short_name": "keycap-star",
+    "keywords": [
+      "star"
+    ]
+  }
+}
