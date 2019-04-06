@@ -1390,7 +1390,7 @@
     ]
   },
   "1F971": {
-    "short_name": "⊛_yawning_face",
+    "short_name": "yawning_face",
     "keywords": [
       "bored",
       "tired",
@@ -1800,7 +1800,7 @@
     ]
   },
   "1F90E": {
-    "short_name": "⊛_brown_heart",
+    "short_name": "brown_heart",
     "keywords": [
       "brown",
       "heart"
@@ -1816,7 +1816,7 @@
     ]
   },
   "1F90D": {
-    "short_name": "⊛_white_heart",
+    "short_name": "white_heart",
     "keywords": [
       "heart",
       "white"
@@ -1992,7 +1992,7 @@
     ]
   },
   "1F90F": {
-    "short_name": "⊛_pinching_hand",
+    "short_name": "pinching_hand",
     "keywords": [
       "pinching hand",
       "small amount"
@@ -2254,7 +2254,7 @@
     ]
   },
   "1F9BE": {
-    "short_name": "⊛_mechanical_arm",
+    "short_name": "mechanical_arm",
     "keywords": [
       "accessibility",
       "mechanical arm",
@@ -2262,7 +2262,7 @@
     ]
   },
   "1F9BF": {
-    "short_name": "⊛_mechanical_leg",
+    "short_name": "mechanical_leg",
     "keywords": [
       "accessibility",
       "mechanical leg",
@@ -2293,7 +2293,7 @@
     ]
   },
   "1F9BB": {
-    "short_name": "⊛_ear_with_hearing_aid",
+    "short_name": "ear_with_hearing_aid",
     "keywords": [
       "accessibility",
       "ear with hearing aid",
@@ -2708,7 +2708,7 @@
     ]
   },
   "1F9CF": {
-    "short_name": "⊛_deaf_person",
+    "short_name": "deaf_person",
     "keywords": [
       "accessibility",
       "deaf",
@@ -2718,14 +2718,14 @@
     ]
   },
   "1F9CF-200D-2642-FE0F": {
-    "short_name": "⊛_deaf_man",
+    "short_name": "deaf_man",
     "keywords": [
       "deaf",
       "man"
     ]
   },
   "1F9CF-200D-2640-FE0F": {
-    "short_name": "⊛_deaf_woman",
+    "short_name": "deaf_woman",
     "keywords": [
       "deaf",
       "woman"
@@ -3656,7 +3656,7 @@
     ]
   },
   "1F9CD": {
-    "short_name": "⊛_person_standing",
+    "short_name": "person_standing",
     "keywords": [
       "person standing",
       "stand",
@@ -3664,21 +3664,21 @@
     ]
   },
   "1F9CD-200D-2642-FE0F": {
-    "short_name": "⊛_man_standing",
+    "short_name": "man_standing",
     "keywords": [
       "man",
       "standing"
     ]
   },
   "1F9CD-200D-2640-FE0F": {
-    "short_name": "⊛_woman_standing",
+    "short_name": "woman_standing",
     "keywords": [
       "standing",
       "woman"
     ]
   },
   "1F9CE": {
-    "short_name": "⊛_person_kneeling",
+    "short_name": "person_kneeling",
     "keywords": [
       "kneel",
       "kneeling",
@@ -3686,21 +3686,21 @@
     ]
   },
   "1F9CE-200D-2642-FE0F": {
-    "short_name": "⊛_man_kneeling",
+    "short_name": "man_kneeling",
     "keywords": [
       "kneeling",
       "man"
     ]
   },
   "1F9CE-200D-2640-FE0F": {
-    "short_name": "⊛_woman_kneeling",
+    "short_name": "woman_kneeling",
     "keywords": [
       "kneeling",
       "woman"
     ]
   },
   "1F468-200D-1F9AF": {
-    "short_name": "⊛_man_with_probing_cane",
+    "short_name": "man_with_probing_cane",
     "keywords": [
       "accessibility",
       "blind",
@@ -3709,7 +3709,7 @@
     ]
   },
   "1F469-200D-1F9AF": {
-    "short_name": "⊛_woman_with_probing_cane",
+    "short_name": "woman_with_probing_cane",
     "keywords": [
       "accessibility",
       "blind",
@@ -3718,7 +3718,7 @@
     ]
   },
   "1F468-200D-1F9BC": {
-    "short_name": "⊛_man_in_motorized_wheelchair",
+    "short_name": "man_in_motorized_wheelchair",
     "keywords": [
       "accessibility",
       "man",
@@ -3727,7 +3727,7 @@
     ]
   },
   "1F469-200D-1F9BC": {
-    "short_name": "⊛_woman_in_motorized_wheelchair",
+    "short_name": "woman_in_motorized_wheelchair",
     "keywords": [
       "accessibility",
       "wheelchair",
@@ -3736,7 +3736,7 @@
     ]
   },
   "1F468-200D-1F9BD": {
-    "short_name": "⊛_man_in_manual_wheelchair",
+    "short_name": "man_in_manual_wheelchair",
     "keywords": [
       "accessibility",
       "man",
@@ -3745,7 +3745,7 @@
     ]
   },
   "1F469-200D-1F9BD": {
-    "short_name": "⊛_woman_in_manual_wheelchair",
+    "short_name": "woman_in_manual_wheelchair",
     "keywords": [
       "accessibility",
       "wheelchair",
@@ -4281,7 +4281,7 @@
     ]
   },
   "1F9D1-200D-1F91D-200D-1F9D1": {
-    "short_name": "⊛_people_holding_hands",
+    "short_name": "people_holding_hands",
     "keywords": [
       "couple",
       "hand",
@@ -4334,7 +4334,7 @@
     ]
   },
   "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468": {
-    "short_name": "kiss_woman,_man",
+    "short_name": "kiss_woman_man",
     "keywords": [
       "couple",
       "kiss",
@@ -4343,7 +4343,7 @@
     ]
   },
   "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468": {
-    "short_name": "kiss_man,_man",
+    "short_name": "kiss_man_man",
     "keywords": [
       "couple",
       "kiss",
@@ -4351,7 +4351,7 @@
     ]
   },
   "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469": {
-    "short_name": "kiss_woman,_woman",
+    "short_name": "kiss_woman_woman",
     "keywords": [
       "couple",
       "kiss",
@@ -4367,7 +4367,7 @@
     ]
   },
   "1F469-200D-2764-FE0F-200D-1F468": {
-    "short_name": "couple_with_heart_woman,_man",
+    "short_name": "couple_with_heart_woman_man",
     "keywords": [
       "couple",
       "couple with heart",
@@ -4377,7 +4377,7 @@
     ]
   },
   "1F468-200D-2764-FE0F-200D-1F468": {
-    "short_name": "couple_with_heart_man,_man",
+    "short_name": "couple_with_heart_man_man",
     "keywords": [
       "couple",
       "couple with heart",
@@ -4386,7 +4386,7 @@
     ]
   },
   "1F469-200D-2764-FE0F-200D-1F469": {
-    "short_name": "couple_with_heart_woman,_woman",
+    "short_name": "couple_with_heart_woman_woman",
     "keywords": [
       "couple",
       "couple with heart",
@@ -4401,7 +4401,7 @@
     ]
   },
   "1F468-200D-1F469-200D-1F466": {
-    "short_name": "family_man,_woman,_boy",
+    "short_name": "family_man_woman_boy",
     "keywords": [
       "boy",
       "family",
@@ -4410,7 +4410,7 @@
     ]
   },
   "1F468-200D-1F469-200D-1F467": {
-    "short_name": "family_man,_woman,_girl",
+    "short_name": "family_man_woman_girl",
     "keywords": [
       "family",
       "girl",
@@ -4419,7 +4419,7 @@
     ]
   },
   "1F468-200D-1F469-200D-1F467-200D-1F466": {
-    "short_name": "family_man,_woman,_girl,_boy",
+    "short_name": "family_man_woman_girl_boy",
     "keywords": [
       "boy",
       "family",
@@ -4429,7 +4429,7 @@
     ]
   },
   "1F468-200D-1F469-200D-1F466-200D-1F466": {
-    "short_name": "family_man,_woman,_boy,_boy",
+    "short_name": "family_man_woman_boy_boy",
     "keywords": [
       "boy",
       "family",
@@ -4438,7 +4438,7 @@
     ]
   },
   "1F468-200D-1F469-200D-1F467-200D-1F467": {
-    "short_name": "family_man,_woman,_girl,_girl",
+    "short_name": "family_man_woman_girl_girl",
     "keywords": [
       "family",
       "girl",
@@ -4447,7 +4447,7 @@
     ]
   },
   "1F468-200D-1F468-200D-1F466": {
-    "short_name": "family_man,_man,_boy",
+    "short_name": "family_man_man_boy",
     "keywords": [
       "boy",
       "family",
@@ -4455,7 +4455,7 @@
     ]
   },
   "1F468-200D-1F468-200D-1F467": {
-    "short_name": "family_man,_man,_girl",
+    "short_name": "family_man_man_girl",
     "keywords": [
       "family",
       "girl",
@@ -4463,7 +4463,7 @@
     ]
   },
   "1F468-200D-1F468-200D-1F467-200D-1F466": {
-    "short_name": "family_man,_man,_girl,_boy",
+    "short_name": "family_man_man_girl_boy",
     "keywords": [
       "boy",
       "family",
@@ -4472,7 +4472,7 @@
     ]
   },
   "1F468-200D-1F468-200D-1F466-200D-1F466": {
-    "short_name": "family_man,_man,_boy,_boy",
+    "short_name": "family_man_man_boy_boy",
     "keywords": [
       "boy",
       "family",
@@ -4480,7 +4480,7 @@
     ]
   },
   "1F468-200D-1F468-200D-1F467-200D-1F467": {
-    "short_name": "family_man,_man,_girl,_girl",
+    "short_name": "family_man_man_girl_girl",
     "keywords": [
       "family",
       "girl",
@@ -4488,7 +4488,7 @@
     ]
   },
   "1F469-200D-1F469-200D-1F466": {
-    "short_name": "family_woman,_woman,_boy",
+    "short_name": "family_woman_woman_boy",
     "keywords": [
       "boy",
       "family",
@@ -4496,7 +4496,7 @@
     ]
   },
   "1F469-200D-1F469-200D-1F467": {
-    "short_name": "family_woman,_woman,_girl",
+    "short_name": "family_woman_woman_girl",
     "keywords": [
       "family",
       "girl",
@@ -4504,7 +4504,7 @@
     ]
   },
   "1F469-200D-1F469-200D-1F467-200D-1F466": {
-    "short_name": "family_woman,_woman,_girl,_boy",
+    "short_name": "family_woman_woman_girl_boy",
     "keywords": [
       "boy",
       "family",
@@ -4513,7 +4513,7 @@
     ]
   },
   "1F469-200D-1F469-200D-1F466-200D-1F466": {
-    "short_name": "family_woman,_woman,_boy,_boy",
+    "short_name": "family_woman_woman_boy_boy",
     "keywords": [
       "boy",
       "family",
@@ -4521,7 +4521,7 @@
     ]
   },
   "1F469-200D-1F469-200D-1F467-200D-1F467": {
-    "short_name": "family_woman,_woman,_girl,_girl",
+    "short_name": "family_woman_woman_girl_girl",
     "keywords": [
       "family",
       "girl",
@@ -4529,7 +4529,7 @@
     ]
   },
   "1F468-200D-1F466": {
-    "short_name": "family_man,_boy",
+    "short_name": "family_man_boy",
     "keywords": [
       "boy",
       "family",
@@ -4537,7 +4537,7 @@
     ]
   },
   "1F468-200D-1F466-200D-1F466": {
-    "short_name": "family_man,_boy,_boy",
+    "short_name": "family_man_boy_boy",
     "keywords": [
       "boy",
       "family",
@@ -4545,7 +4545,7 @@
     ]
   },
   "1F468-200D-1F467": {
-    "short_name": "family_man,_girl",
+    "short_name": "family_man_girl",
     "keywords": [
       "family",
       "girl",
@@ -4553,7 +4553,7 @@
     ]
   },
   "1F468-200D-1F467-200D-1F466": {
-    "short_name": "family_man,_girl,_boy",
+    "short_name": "family_man_girl_boy",
     "keywords": [
       "boy",
       "family",
@@ -4562,7 +4562,7 @@
     ]
   },
   "1F468-200D-1F467-200D-1F467": {
-    "short_name": "family_man,_girl,_girl",
+    "short_name": "family_man_girl_girl",
     "keywords": [
       "family",
       "girl",
@@ -4570,7 +4570,7 @@
     ]
   },
   "1F469-200D-1F466": {
-    "short_name": "family_woman,_boy",
+    "short_name": "family_woman_boy",
     "keywords": [
       "boy",
       "family",
@@ -4578,7 +4578,7 @@
     ]
   },
   "1F469-200D-1F466-200D-1F466": {
-    "short_name": "family_woman,_boy,_boy",
+    "short_name": "family_woman_boy_boy",
     "keywords": [
       "boy",
       "family",
@@ -4586,7 +4586,7 @@
     ]
   },
   "1F469-200D-1F467": {
-    "short_name": "family_woman,_girl",
+    "short_name": "family_woman_girl",
     "keywords": [
       "family",
       "girl",
@@ -4594,7 +4594,7 @@
     ]
   },
   "1F469-200D-1F467-200D-1F466": {
-    "short_name": "family_woman,_girl,_boy",
+    "short_name": "family_woman_girl_boy",
     "keywords": [
       "boy",
       "family",
@@ -4603,7 +4603,7 @@
     ]
   },
   "1F469-200D-1F467-200D-1F467": {
-    "short_name": "family_woman,_girl,_girl",
+    "short_name": "family_woman_girl_girl",
     "keywords": [
       "family",
       "girl",
@@ -4701,7 +4701,7 @@
     ]
   },
   "1F9A7": {
-    "short_name": "⊛_orangutan",
+    "short_name": "orangutan",
     "keywords": [
       "ape",
       "orangutan"
@@ -4723,7 +4723,7 @@
     ]
   },
   "1F9AE": {
-    "short_name": "⊛_guide_dog",
+    "short_name": "guide_dog",
     "keywords": [
       "accessibility",
       "blind",
@@ -4732,7 +4732,7 @@
     ]
   },
   "1F415-200D-1F9BA": {
-    "short_name": "⊛_service_dog",
+    "short_name": "service_dog",
     "keywords": [
       "accessibility",
       "assistance",
@@ -5072,7 +5072,7 @@
     ]
   },
   "1F9A5": {
-    "short_name": "⊛_sloth",
+    "short_name": "sloth",
     "keywords": [
       "lazy",
       "sloth",
@@ -5080,7 +5080,7 @@
     ]
   },
   "1F9A6": {
-    "short_name": "⊛_otter",
+    "short_name": "otter",
     "keywords": [
       "fishing",
       "otter",
@@ -5088,7 +5088,7 @@
     ]
   },
   "1F9A8": {
-    "short_name": "⊛_skunk",
+    "short_name": "skunk",
     "keywords": [
       "skunk",
       "stink"
@@ -5222,7 +5222,7 @@
     ]
   },
   "1F9A9": {
-    "short_name": "⊛_flamingo",
+    "short_name": "flamingo",
     "keywords": [
       "flamboyant",
       "flamingo",
@@ -5846,14 +5846,14 @@
     ]
   },
   "1F9C4": {
-    "short_name": "⊛_garlic",
+    "short_name": "garlic",
     "keywords": [
       "flavoring",
       "garlic"
     ]
   },
   "1F9C5": {
-    "short_name": "⊛_onion",
+    "short_name": "onion",
     "keywords": [
       "flavoring",
       "onion"
@@ -5936,7 +5936,7 @@
     ]
   },
   "1F9C7": {
-    "short_name": "⊛_waffle",
+    "short_name": "waffle",
     "keywords": [
       "indecisive",
       "iron",
@@ -6051,7 +6051,7 @@
     ]
   },
   "1F9C6": {
-    "short_name": "⊛_falafel",
+    "short_name": "falafel",
     "keywords": [
       "chickpea",
       "falafel",
@@ -6119,7 +6119,7 @@
     ]
   },
   "1F9C8": {
-    "short_name": "⊛_butter",
+    "short_name": "butter",
     "keywords": [
       "butter",
       "dairy"
@@ -6315,7 +6315,7 @@
     ]
   },
   "1F9AA": {
-    "short_name": "⊛_oyster",
+    "short_name": "oyster",
     "keywords": [
       "diving",
       "oyster",
@@ -6582,21 +6582,21 @@
     ]
   },
   "1F9C3": {
-    "short_name": "⊛_beverage_box",
+    "short_name": "beverage_box",
     "keywords": [
       "beverage box",
       "juice box"
     ]
   },
   "1F9C9": {
-    "short_name": "⊛_mate",
+    "short_name": "mate",
     "keywords": [
       "drink",
       "mate"
     ]
   },
   "1F9CA": {
-    "short_name": "⊛_ice_cube",
+    "short_name": "ice_cube",
     "keywords": [
       "cold",
       "ice cube",
@@ -6987,7 +6987,7 @@
     ]
   },
   "1F6D5": {
-    "short_name": "⊛_hindu_temple",
+    "short_name": "hindu_temple",
     "keywords": [
       "hindu",
       "temple"
@@ -7381,21 +7381,21 @@
     ]
   },
   "1F9BD": {
-    "short_name": "⊛_manual_wheelchair",
+    "short_name": "manual_wheelchair",
     "keywords": [
       "accessibility",
       "manual wheelchair"
     ]
   },
   "1F9BC": {
-    "short_name": "⊛_motorized_wheelchair",
+    "short_name": "motorized_wheelchair",
     "keywords": [
       "accessibility",
       "motorized wheelchair"
     ]
   },
   "1F6FA": {
-    "short_name": "⊛_auto_rickshaw",
+    "short_name": "auto_rickshaw",
     "keywords": [
       "auto rickshaw",
       "tuk tuk"
@@ -7592,7 +7592,7 @@
     ]
   },
   "1FA82": {
-    "short_name": "⊛_parachute",
+    "short_name": "parachute",
     "keywords": [
       "hang-glide",
       "parachute",
@@ -8115,7 +8115,7 @@
     ]
   },
   "1FA90": {
-    "short_name": "⊛_ringed_planet",
+    "short_name": "ringed_planet",
     "keywords": [
       "ringed planet",
       "saturn",
@@ -8736,7 +8736,7 @@
     ]
   },
   "1F93F": {
-    "short_name": "⊛_diving_mask",
+    "short_name": "diving_mask",
     "keywords": [
       "diving",
       "diving mask",
@@ -8791,7 +8791,7 @@
     ]
   },
   "1FA80": {
-    "short_name": "⊛_yo-yo",
+    "short_name": "yo-yo",
     "keywords": [
       "fluctuate",
       "toy",
@@ -8799,7 +8799,7 @@
     ]
   },
   "1FA81": {
-    "short_name": "⊛_kite",
+    "short_name": "kite",
     "keywords": [
       "fly",
       "kite",
@@ -9020,7 +9020,7 @@
     ]
   },
   "1F9BA": {
-    "short_name": "⊛_safety_vest",
+    "short_name": "safety_vest",
     "keywords": [
       "emergency",
       "safety",
@@ -9096,7 +9096,7 @@
     ]
   },
   "1F97B": {
-    "short_name": "⊛_sari",
+    "short_name": "sari",
     "keywords": [
       "clothing",
       "dress",
@@ -9104,7 +9104,7 @@
     ]
   },
   "1FA71": {
-    "short_name": "⊛_one-piece_swimsuit",
+    "short_name": "one-piece_swimsuit",
     "keywords": [
       "bathing suit",
       "one-piece swimsuit",
@@ -9112,7 +9112,7 @@
     ]
   },
   "1FA72": {
-    "short_name": "⊛_briefs",
+    "short_name": "briefs",
     "keywords": [
       "bathing suit",
       "briefs",
@@ -9122,7 +9122,7 @@
     ]
   },
   "1FA73": {
-    "short_name": "⊛_shorts",
+    "short_name": "shorts",
     "keywords": [
       "bathing suit",
       "pants",
@@ -9250,7 +9250,7 @@
     ]
   },
   "1FA70": {
-    "short_name": "⊛_ballet_shoes",
+    "short_name": "ballet_shoes",
     "keywords": [
       "ballet",
       "ballet shoes",
@@ -9543,7 +9543,7 @@
     ]
   },
   "1FA95": {
-    "short_name": "⊛_banjo",
+    "short_name": "banjo",
     "keywords": [
       "banjo",
       "music",
@@ -9833,7 +9833,7 @@
     ]
   },
   "1FA94": {
-    "short_name": "⊛_diya_lamp",
+    "short_name": "diya_lamp",
     "keywords": [
       "diya",
       "lamp",
@@ -10472,7 +10472,7 @@
     ]
   },
   "1FA93": {
-    "short_name": "⊛_axe",
+    "short_name": "axe",
     "keywords": [
       "axe",
       "chop",
@@ -10563,7 +10563,7 @@
     ]
   },
   "1F9AF": {
-    "short_name": "⊛_probing_cane",
+    "short_name": "probing_cane",
     "keywords": [
       "accessibility",
       "blind",
@@ -10669,7 +10669,7 @@
     ]
   },
   "1FA78": {
-    "short_name": "⊛_drop_of_blood",
+    "short_name": "drop_of_blood",
     "keywords": [
       "blood donation",
       "drop of blood",
@@ -10687,14 +10687,14 @@
     ]
   },
   "1FA79": {
-    "short_name": "⊛_adhesive_bandage",
+    "short_name": "adhesive_bandage",
     "keywords": [
       "adhesive bandage",
       "bandage"
     ]
   },
   "1FA7A": {
-    "short_name": "⊛_stethoscope",
+    "short_name": "stethoscope",
     "keywords": [
       "doctor",
       "heart",
@@ -10726,7 +10726,7 @@
     ]
   },
   "1FA91": {
-    "short_name": "⊛_chair",
+    "short_name": "chair",
     "keywords": [
       "chair",
       "seat",
@@ -10754,7 +10754,7 @@
     ]
   },
   "1FA92": {
-    "short_name": "⊛_razor",
+    "short_name": "razor",
     "keywords": [
       "razor",
       "sharp",
@@ -12101,21 +12101,21 @@
     ]
   },
   "1F7E0": {
-    "short_name": "⊛_orange_circle",
+    "short_name": "orange_circle",
     "keywords": [
       "circle",
       "orange"
     ]
   },
   "1F7E1": {
-    "short_name": "⊛_yellow_circle",
+    "short_name": "yellow_circle",
     "keywords": [
       "circle",
       "yellow"
     ]
   },
   "1F7E2": {
-    "short_name": "⊛_green_circle",
+    "short_name": "green_circle",
     "keywords": [
       "circle",
       "green"
@@ -12130,14 +12130,14 @@
     ]
   },
   "1F7E3": {
-    "short_name": "⊛_purple_circle",
+    "short_name": "purple_circle",
     "keywords": [
       "circle",
       "purple"
     ]
   },
   "1F7E4": {
-    "short_name": "⊛_brown_circle",
+    "short_name": "brown_circle",
     "keywords": [
       "brown",
       "circle"
@@ -12160,49 +12160,49 @@
     ]
   },
   "1F7E5": {
-    "short_name": "⊛_red_square",
+    "short_name": "red_square",
     "keywords": [
       "red",
       "square"
     ]
   },
   "1F7E7": {
-    "short_name": "⊛_orange_square",
+    "short_name": "orange_square",
     "keywords": [
       "orange",
       "square"
     ]
   },
   "1F7E8": {
-    "short_name": "⊛_yellow_square",
+    "short_name": "yellow_square",
     "keywords": [
       "square",
       "yellow"
     ]
   },
   "1F7E9": {
-    "short_name": "⊛_green_square",
+    "short_name": "green_square",
     "keywords": [
       "green",
       "square"
     ]
   },
   "1F7E6": {
-    "short_name": "⊛_blue_square",
+    "short_name": "blue_square",
     "keywords": [
       "blue",
       "square"
     ]
   },
   "1F7EA": {
-    "short_name": "⊛_purple_square",
+    "short_name": "purple_square",
     "keywords": [
       "purple",
       "square"
     ]
   },
   "1F7EB": {
-    "short_name": "⊛_brown_square",
+    "short_name": "brown_square",
     "keywords": [
       "brown",
       "square"
