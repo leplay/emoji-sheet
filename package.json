@@ -1,6 +1,6 @@
 {
   "name": "emoji-sheet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Emoji Sheets and CSS",
   "repository": {
     "type": "git",
@@ -11,13 +11,12 @@
   ],
   "author": "leplay <https://github.com/leplay>",
   "license": "MIT",
+  "main": "index.js",
   "files": [
     "LICENSE",
     "README.md",
     "emoji.json",
-    "sheet/apple_64.png",
-    "sheet/twitter_64.png",
-    "sheet/emojione_64.png"
+    "sheet/*"
   ],
   "bugs": {
     "url": "https://github.com/leplay/emoji-sheet/issues"
