@@ -1,6 +1,6 @@
 {
   "name": "emoji-sheet",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Emoji Sheets and CSS",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "url": "https://github.com/leplay/emoji-sheet/issues"
   },
   "homepage": "https://github.com/leplay/emoji-sheet",
-  "dependencies": {
+  "devDependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
     "lodash": "^4.17.11"

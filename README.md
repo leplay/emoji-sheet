@@ -16,7 +16,7 @@ component | 9
 Provider | Success | Failed  | Original Size | Compressed Size
 -------- | ------- | ------- | ------------- | ---------------
 Apple | 2792 | 218 | 11.6 MB [Open](https://unpkg.com/emoji-sheet/sheet/apple_64.png) | To Do
-Twitter | 2766 | 244 | 7.4 MB [Open](https://unpkg.com/emoji-sheet/sheet/twitter_64.png) | To Do
+Twitter | 2996 | 14 | 8.5 MB [Open](https://unpkg.com/emoji-sheet/sheet/twitter_64.png) | To Do
 EmojiOne | 2795 | 215 | 8.5 MB [Open](https://unpkg.com/emoji-sheet/sheet/emojione_64.png) | To Do
 
 
