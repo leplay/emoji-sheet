@@ -1,3 +1,5 @@
 node_modules/
 build/apple/img-apple-160/*
+build/apple/*.ttf
 build/emojione/img-emojione-160/*
+build/emojione/*.ttf

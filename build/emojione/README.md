@@ -1,6 +1,6 @@
 # Building the Apple emoji images
 
-Download latest EmojiOne emoji on [https://www.emojione.com/download](https://www.emojione.com/download).
+Download latest EmojiOne emoji on [https://www.joypixels.com/download](https://www.joypixels.com/download).
 Find and copy the .ttc file to this folder.
 
 You may need to install a Perl module first:

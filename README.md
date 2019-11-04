@@ -15,9 +15,9 @@ component | 9
 ### Build Counts
 Provider | Success | Failed  | Original Size | Compressed Size
 -------- | ------- | ------- | ------------- | ---------------
-Apple | 2792 | 218 | 11.6 MB [Open](https://unpkg.com/emoji-sheet/sheet/apple_64.png) | To Do
-Twitter | 2996 | 14 | 8.5 MB [Open](https://unpkg.com/emoji-sheet/sheet/twitter_64.png) | To Do
-EmojiOne | 2795 | 215 | 8.5 MB [Open](https://unpkg.com/emoji-sheet/sheet/emojione_64.png) | To Do
+Apple | 3007 | 3 | 13.7 MB [Open](https://cdn.jsdelivr.net/npm/emoji-sheet/sheet/apple_64.png) | To Do
+Twitter | 2996 | 14 | 8.5 MB [Open](https://cdn.jsdelivr.net/npm/emoji-sheet/sheet/twitter_64.png) | To Do
+EmojiOne | 2795 | 215 | 8.5 MB [Open](https://cdn.jsdelivr.net/npm/emoji-sheet/sheet/emojione_64.png) | To Do
 
 
 ### Usage
@@ -50,14 +50,29 @@ Skin | Meaning
 6 | Emoji with dark skin tone'
 
 
+## Build
+```sh
+cd build/apple
+# update apple emoji
+cd build/emojione
+# update emojione
+cd build/twitter
+# update twemoji
+
+cd ../../
+node generate-dict.js
+node generate-config.js
+node build-sheet.js
+```
+
 ## Image Sources
 
 Images are extracted from their sources and this library attempts to track the latest
 available versions.
 
-* Apple Emoji: Copyright &copy; Apple Inc. - macOS 10.14.5 (Mojave)
-* Twitter Emoji([Twemoji](https://github.com/twitter/twemoji)): Copyright &copy; Twitter, Inc. - v12.0
-* EmojiOne([JoyPixels](https://www.joypixels.com/)): Copyright &copy; JoyPixels, Inc. - v4.5
+* Apple Emoji: Copyright &copy; Apple Inc. - macOS 10.15.1 (Mojave)
+* Twitter Emoji([Twemoji](https://github.com/twitter/twemoji)): Copyright &copy; Twitter, Inc. - v12.1.3
+* EmojiOne([JoyPixels](https://www.joypixels.com/)): Copyright &copy; JoyPixels, Inc. - v5.1
 
 Apple images are not licensed for commerical usage. Twitter emoji are available under the [Creative Commons Attribution 4.0 license](https://github.com/twitter/twemoji/blob/gh-pages/LICENSE-GRAPHICS). EmojiOne(JoyPixels) has free and business license, more details on their [website](https://www.joypixels.com/licenses).
 

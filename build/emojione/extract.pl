@@ -12,7 +12,7 @@ use Font::TTF::TTC;
 $Font::TTF::Font::tables{'sbix'} = 'Font::TTF::Sbix';
 $Font::TTF::Font::tables{'morx'} = 'Font::TTF::Morx';
 
-my $filename = "./emojione_color_emoji_4_5.ttc";
+my $filename = "./emojione_color_emoji_5_1.ttc";
 
 my $f = Font::TTF::TTC->openCollection($filename) || die "Unable to read $filename : $!";
 $f->readCollection(0);
